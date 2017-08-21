@@ -32,36 +32,47 @@ if (isset($_SESSION['USERNAME'])) {
                     <tr >
                         <td class="col-lg-3">Time </td>
                         <td class="col-lg-7">
+                            Hour
                             <select id="hr" name="hr">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 24; $i++): ?>
                                     <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
+                            Minute
                             <select id="min" name="min">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 60; $i++): ?>
                                     <option><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
-
+                            Second
+                            <select id="sec" name="sec">
+                                <option value="-1">----</option>
+                                <?php for ($i = 0; $i < 60; $i++): ?>
+                                    <option><?php echo $i; ?></option>
+                                <?php endfor; ?>
+                            </select>
                         </td>
                     </tr>
                     <tr>
                         <td class="col-lg-3">Date</td>
                         <td class="col-lg-7">
+                            Day
                             <select id="day" name="day">
                                 <option value="-1">----</option>
                                 <?php for ($i = 1; $i < 32; $i++): ?>
                                     <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
+                            Month
                             <select id="month" name="month">
                                 <option value="-1">----</option>
                                 <?php for ($i = 1; $i < 12; $i++): ?>
                                     <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
+                            Year
                             <select id="year" name="year">
                                 <option value="-1">----</option>
                                 <?php for ($i = 2017; $i < 3017; $i++): ?>
