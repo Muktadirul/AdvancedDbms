@@ -33,8 +33,8 @@ $stmt->execute();
                     <td style="border: 3px solid black;">Email</td>
                     <td style="border: 3px solid black;">Topics Name</td>
                     <td style="border: 3px solid black;">Message</td>
-                    <td style="border: 3px solid black;">Time</td>
-                    <td style="border: 3px solid black;">Date</td>
+                    <td style="border: 3px solid black;">Time & Date</td>
+                    
                     <td style="border:  solid black;">Delete</td>
                 </tr>
 
@@ -45,7 +45,6 @@ $stmt->execute();
                         echo '<td style="border: 3px solid black;">' . $row['topicname'] . '</td>';
                         echo '<td style="border: 3px solid black;"><textarea  disabled style="height: 80px;width: 300px;">'. $row['message'] . '</textarea></td>';
                         echo '<td style="border: 3px solid black;">' . $row['time'] . '</td>';
-                        echo '<td style="border: 3px solid black;">' . $row['notifierdate'] . '</td>';
                         $X="http://localhost/ADDBMS/Notifier/";
                         echo '<td style="border: 3px solid black;"><a href='.$X.'DeleteController.php?Did='.$row['Nfid']."><button >Delete</button></a></td>";
                         echo '</tr><br>';

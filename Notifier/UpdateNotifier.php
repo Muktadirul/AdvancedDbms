@@ -45,16 +45,9 @@ $stmt->execute();
                         ?>
                         
                         <td style="border: 3px solid black;">
-                            <?php echo 'Give input as hour and minute format';?>
+                            <?php echo 'Give input as Year-Month-Day  Hour:Minute:Second format';?>
                             <br>
                             <textarea name="Time"><?php echo $row['time'];?></textarea>
-                        </td>
-                        
-                        <td style="border: 3px solid black;">
-                            <?php echo 'Give input as Year Month Day Format';?>
-                            <br>
-                            <textarea name="Date"><?php echo $row['notifierdate'];?></textarea>
-                            <br><br>
                         </td>
                         
                         <?php

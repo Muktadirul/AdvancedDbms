@@ -11,19 +11,21 @@ $UID= $_SESSION['USERID'];
 $link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
 $pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
 $Time = mysqli_real_escape_string($link, stripslashes($_POST["hr"])).':';
-$Time=$Time.mysqli_real_escape_string($link, stripslashes($_POST["min"])).':00';
+$Time=$Time.mysqli_real_escape_string($link, stripslashes($_POST["min"])).':';
+$Time=$Time.mysqli_real_escape_string($link, stripslashes($_POST["sec"]));
 $Date=mysqli_real_escape_string($link, stripslashes($_POST["year"])).'-';
 $Date =$Date. mysqli_real_escape_string($link, stripslashes($_POST["month"])).'-';
-$Date =$Date.mysqli_real_escape_string($link, stripslashes($_POST["day"]));
+$Date =$Date.mysqli_real_escape_string($link, stripslashes($_POST["day"])).' '.$Time;
 $MSG=mysqli_real_escape_string($link, stripslashes(htmlentities($_POST["msg"])));
 $TopicsName=mysqli_real_escape_string($link, stripslashes(htmlentities($_POST["topics_name"])));
+// TIME SATAMP FORMAT 2017-08-21 23:24:27
+echo $Date;
 
-$sql = ' CALL `NotifierAdd`(:m1, :m2, :m3, :m4, :m5, @res);';
+$sql = ' CALL `NotifierAdd`(:m1, :m2, :m3, :m5, @res);';
 $stmt = $pdo->prepare($sql);
 $stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
 $stmt->bindParam(':m2', $TopicsName, PDO::PARAM_STR);
 $stmt->bindParam(':m3', $MSG, PDO::PARAM_STR);
-$stmt->bindParam(':m4', $Time, PDO::PARAM_STR);
 $stmt->bindParam(':m5', $Date, PDO::PARAM_STR);
 $stmt->execute();
 $row = $pdo->query("SELECT @res AS level")->fetch(PDO::FETCH_OBJ);
