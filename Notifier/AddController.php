@@ -19,7 +19,7 @@ $Date =$Date.mysqli_real_escape_string($link, stripslashes($_POST["day"])).' '.$
 $MSG=mysqli_real_escape_string($link, stripslashes(htmlentities($_POST["msg"])));
 $TopicsName=mysqli_real_escape_string($link, stripslashes(htmlentities($_POST["topics_name"])));
 // TIME SATAMP FORMAT 2017-08-21 23:24:27
-echo $Date;
+//echo $Date;
 
 $sql = ' CALL `NotifierAdd`(:m1, :m2, :m3, :m5, @res);';
 $stmt = $pdo->prepare($sql);
