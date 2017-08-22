@@ -1,0 +1,30 @@
+<table name="addvertisement">
+	
+	<record>
+		<field name="id">5</field>
+		<field name="name">PDM</field>
+		<field name="image">pdm1.png</field>
+		<field name="link">market://details?id=com.itmedicus.pdm</field>
+		<field name="valid_till">2016-05-24</field>
+		<field name="updated_at">NULL</field>
+		<field name="created_at">NULL</field>
+	</record>
+	<record>
+		<field name="id">6</field>
+		<field name="name">PDM</field>
+		<field name="image">pdm2.png</field>
+		<field name="link">market://details?id=com.itmedicus.pdm</field>
+		<field name="valid_till">2016-05-24</field>
+		<field name="updated_at">NULL</field>
+		<field name="created_at">NULL</field>
+	</record>
+	<record>
+		<field name="id">7</field>
+		<field name="name">PDM</field>
+		<field name="image">pdm3.png</field>
+		<field name="link">market://details?id=com.itmedicus.pdm</field>
+		<field name="valid_till">2016-05-24</field>
+		<field name="updated_at">NULL</field>
+		<field name="created_at">NULL</field>
+	</record>
+</table></tables>

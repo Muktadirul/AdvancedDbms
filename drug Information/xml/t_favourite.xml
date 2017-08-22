@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_favourite">
+	<fields>
+		<field name="generic_id" type="Text"/>
+		<field name="generic_name" type="Text"/>
+		<field name="company_name" type="Text"/>
+		<field name="brand_name" type="Text"/>
+		<field name="form" type="Text"/>
+		<field name="strength" type="Text"/>
+		<field name="price" type="Text"/>
+		<field name="packsize" type="Text"/>
+	</fields>
+</table></tables>

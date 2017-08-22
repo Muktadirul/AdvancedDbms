@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_pregnancy_category">
+	<fields>
+		<field name="pregnancy_id" type="Text"/>
+		<field name="pregnancy_name" type="Text"/>
+		<field name="pregnancy_description" type="Text"/>
+	</fields>
+	<record>
+		<field name="pregnancy_id">0</field>
+		<field name="pregnancy_name">Not Classified</field>
+		<field name="pregnancy_description">FDA has not yet classified the drug into a specified pregnancy category.</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">1</field>
+		<field name="pregnancy_name">A</field>
+		<field name="pregnancy_description">Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">2</field>
+		<field name="pregnancy_name">B</field>
+		<field name="pregnancy_description">Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">3</field>
+		<field name="pregnancy_name">C</field>
+		<field name="pregnancy_description">Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">4</field>
+		<field name="pregnancy_name">D</field>
+		<field name="pregnancy_description">There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">5</field>
+		<field name="pregnancy_name">X</field>
+		<field name="pregnancy_description">Studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">6</field>
+		<field name="pregnancy_name">A+B</field>
+		<field name="pregnancy_description">Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).&#10;&#10;Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.&#10;&#10;</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">9</field>
+		<field name="pregnancy_name">A+C</field>
+		<field name="pregnancy_description">Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).&#10;&#10;Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">10</field>
+		<field name="pregnancy_name">A+D</field>
+		<field name="pregnancy_description">Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).&#10;&#10;There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.</field>
+	</record>
+	<record>
+		<field name="pregnancy_id">12</field>
+		<field name="pregnancy_name">B+A</field>
+		<field name="pregnancy_description">Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.&#10;&#10;Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">13</field>
+		<field name="pregnancy_name">B+C</field>
+		<field name="pregnancy_description">Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.&#10;&#10;Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks&#10;    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">14</field>
+		<field name="pregnancy_name">B+D</field>
+		<field name="pregnancy_description">Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.&#10;&#10;There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">15</field>
+		<field name="pregnancy_name">C+A</field>
+		<field name="pregnancy_description">Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).&#10;&#10;    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">16</field>
+		<field name="pregnancy_name">C+B</field>
+		<field name="pregnancy_description">Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">17</field>
+		<field name="pregnancy_name">C+D</field>
+		<field name="pregnancy_description">Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">18</field>
+		<field name="pregnancy_name">D+A</field>
+		<field name="pregnancy_description">There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Adequate and well-controlled human studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy (and there is no evidence of risk in later trimesters).    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">19</field>
+		<field name="pregnancy_name">D+B</field>
+		<field name="pregnancy_description">There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women OR Animal studies have shown an adverse effect, but adequate and well-controlled studies in pregnant women have failed to demonstrate a risk to the fetus in any trimester.    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">20</field>
+		<field name="pregnancy_name">D+C</field>
+		<field name="pregnancy_description">There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">21</field>
+		<field name="pregnancy_name">C+X</field>
+		<field name="pregnancy_description">Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">22</field>
+		<field name="pregnancy_name">D+X</field>
+		<field name="pregnancy_description">There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.&#10;&#10;Studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.&#10;    </field>
+	</record>
+	<record>
+		<field name="pregnancy_id">23</field>
+		<field name="pregnancy_name">X+D</field>
+		<field name="pregnancy_description">Studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.&#10;&#10;There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.    </field>
+	</record>
+</table></tables>

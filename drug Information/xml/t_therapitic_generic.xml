@@ -1,0 +1,7337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_therapitic_generic">
+	<fields>
+		<field name="generic_id" type="Text"/>
+		<field name="therapitic_id" type="Text"/>
+	</fields>
+	<record>
+		<field name="generic_id">1</field>
+		<field name="therapitic_id">24</field>
+	</record>
+	<record>
+		<field name="generic_id">1</field>
+		<field name="therapitic_id">135</field>
+	</record>
+	<record>
+		<field name="generic_id">4</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">5</field>
+		<field name="therapitic_id">162</field>
+	</record>
+	<record>
+		<field name="generic_id">8</field>
+		<field name="therapitic_id">36</field>
+	</record>
+	<record>
+		<field name="generic_id">10</field>
+		<field name="therapitic_id">78</field>
+	</record>
+	<record>
+		<field name="generic_id">10</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">12</field>
+		<field name="therapitic_id">217</field>
+	</record>
+	<record>
+		<field name="generic_id">13</field>
+		<field name="therapitic_id">107</field>
+	</record>
+	<record>
+		<field name="generic_id">14</field>
+		<field name="therapitic_id">141</field>
+	</record>
+	<record>
+		<field name="generic_id">16</field>
+		<field name="therapitic_id">205</field>
+	</record>
+	<record>
+		<field name="generic_id">17</field>
+		<field name="therapitic_id">225</field>
+	</record>
+	<record>
+		<field name="generic_id">18</field>
+		<field name="therapitic_id">216</field>
+	</record>
+	<record>
+		<field name="generic_id">22</field>
+		<field name="therapitic_id">50</field>
+	</record>
+	<record>
+		<field name="generic_id">23</field>
+		<field name="therapitic_id">294</field>
+	</record>
+	<record>
+		<field name="generic_id">24</field>
+		<field name="therapitic_id">68</field>
+	</record>
+	<record>
+		<field name="generic_id">24</field>
+		<field name="therapitic_id">80</field>
+	</record>
+	<record>
+		<field name="generic_id">24</field>
+		<field name="therapitic_id">306</field>
+	</record>
+	<record>
+		<field name="generic_id">26</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">27</field>
+		<field name="therapitic_id">95</field>
+	</record>
+	<record>
+		<field name="generic_id">30</field>
+		<field name="therapitic_id">270</field>
+	</record>
+	<record>
+		<field name="generic_id">32</field>
+		<field name="therapitic_id">307</field>
+	</record>
+	<record>
+		<field name="generic_id">34</field>
+		<field name="therapitic_id">177</field>
+	</record>
+	<record>
+		<field name="generic_id">36</field>
+		<field name="therapitic_id">55</field>
+	</record>
+	<record>
+		<field name="generic_id">36</field>
+		<field name="therapitic_id">388</field>
+	</record>
+	<record>
+		<field name="generic_id">37</field>
+		<field name="therapitic_id">111</field>
+	</record>
+	<record>
+		<field name="generic_id">38</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">40</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">40</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">41</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">41</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">42</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">42</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">43</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">43</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">44</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">44</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">45</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">45</field>
+		<field name="therapitic_id">378</field>
+	</record>
+	<record>
+		<field name="generic_id">46</field>
+		<field name="therapitic_id">4</field>
+	</record>
+	<record>
+		<field name="generic_id">47</field>
+		<field name="therapitic_id">138</field>
+	</record>
+	<record>
+		<field name="generic_id">48</field>
+		<field name="therapitic_id">78</field>
+	</record>
+	<record>
+		<field name="generic_id">52</field>
+		<field name="therapitic_id">35</field>
+	</record>
+	<record>
+		<field name="generic_id">55</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">56</field>
+		<field name="therapitic_id">80</field>
+	</record>
+	<record>
+		<field name="generic_id">56</field>
+		<field name="therapitic_id">364</field>
+	</record>
+	<record>
+		<field name="generic_id">57</field>
+		<field name="therapitic_id">48</field>
+	</record>
+	<record>
+		<field name="generic_id">58</field>
+		<field name="therapitic_id">115</field>
+	</record>
+	<record>
+		<field name="generic_id">59</field>
+		<field name="therapitic_id">11</field>
+	</record>
+	<record>
+		<field name="generic_id">60</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">61</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">62</field>
+		<field name="therapitic_id">308</field>
+	</record>
+	<record>
+		<field name="generic_id">63</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">64</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">65</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">66</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">71</field>
+		<field name="therapitic_id">120</field>
+	</record>
+	<record>
+		<field name="generic_id">74</field>
+		<field name="therapitic_id">120</field>
+	</record>
+	<record>
+		<field name="generic_id">83</field>
+		<field name="therapitic_id">120</field>
+	</record>
+	<record>
+		<field name="generic_id">89</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">90</field>
+		<field name="therapitic_id">120</field>
+	</record>
+	<record>
+		<field name="generic_id">107</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">108</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">109</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">125</field>
+		<field name="therapitic_id">293</field>
+	</record>
+	<record>
+		<field name="generic_id">137</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">138</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">139</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">140</field>
+		<field name="therapitic_id">105</field>
+	</record>
+	<record>
+		<field name="generic_id">141</field>
+		<field name="therapitic_id">372</field>
+	</record>
+	<record>
+		<field name="generic_id">142</field>
+		<field name="therapitic_id">191</field>
+	</record>
+	<record>
+		<field name="generic_id">149</field>
+		<field name="therapitic_id">129</field>
+	</record>
+	<record>
+		<field name="generic_id">152</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">158</field>
+		<field name="therapitic_id">66</field>
+	</record>
+	<record>
+		<field name="generic_id">162</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">165</field>
+		<field name="therapitic_id">118</field>
+	</record>
+	<record>
+		<field name="generic_id">168</field>
+		<field name="therapitic_id">203</field>
+	</record>
+	<record>
+		<field name="generic_id">172</field>
+		<field name="therapitic_id">207</field>
+	</record>
+	<record>
+		<field name="generic_id">177</field>
+		<field name="therapitic_id">208</field>
+	</record>
+	<record>
+		<field name="generic_id">178</field>
+		<field name="therapitic_id">117</field>
+	</record>
+	<record>
+		<field name="generic_id">179</field>
+		<field name="therapitic_id">117</field>
+	</record>
+	<record>
+		<field name="generic_id">186</field>
+		<field name="therapitic_id">244</field>
+	</record>
+	<record>
+		<field name="generic_id">188</field>
+		<field name="therapitic_id">369</field>
+	</record>
+	<record>
+		<field name="generic_id">210</field>
+		<field name="therapitic_id">17</field>
+	</record>
+	<record>
+		<field name="generic_id">211</field>
+		<field name="therapitic_id">6</field>
+	</record>
+	<record>
+		<field name="generic_id">211</field>
+		<field name="therapitic_id">9</field>
+	</record>
+	<record>
+		<field name="generic_id">211</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">213</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">217</field>
+		<field name="therapitic_id">219</field>
+	</record>
+	<record>
+		<field name="generic_id">224</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">225</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">228</field>
+		<field name="therapitic_id">78</field>
+	</record>
+	<record>
+		<field name="generic_id">235</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">236</field>
+		<field name="therapitic_id">33</field>
+	</record>
+	<record>
+		<field name="generic_id">236</field>
+		<field name="therapitic_id">392</field>
+	</record>
+	<record>
+		<field name="generic_id">240</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">241</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">242</field>
+		<field name="therapitic_id">76</field>
+	</record>
+	<record>
+		<field name="generic_id">246</field>
+		<field name="therapitic_id">112</field>
+	</record>
+	<record>
+		<field name="generic_id">247</field>
+		<field name="therapitic_id">194</field>
+	</record>
+	<record>
+		<field name="generic_id">248</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">251</field>
+		<field name="therapitic_id">238</field>
+	</record>
+	<record>
+		<field name="generic_id">251</field>
+		<field name="therapitic_id">267</field>
+	</record>
+	<record>
+		<field name="generic_id">257</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">257</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">257</field>
+		<field name="therapitic_id">359</field>
+	</record>
+	<record>
+		<field name="generic_id">258</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">258</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">261</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">261</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">279</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">279</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">283</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">283</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">284</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">284</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">285</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">285</field>
+		<field name="therapitic_id">268</field>
+	</record>
+	<record>
+		<field name="generic_id">288</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">289</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">291</field>
+		<field name="therapitic_id">371</field>
+	</record>
+	<record>
+		<field name="generic_id">291</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">292</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">294</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">295</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">296</field>
+		<field name="therapitic_id">98</field>
+	</record>
+	<record>
+		<field name="generic_id">299</field>
+		<field name="therapitic_id">156</field>
+	</record>
+	<record>
+		<field name="generic_id">300</field>
+		<field name="therapitic_id">78</field>
+	</record>
+	<record>
+		<field name="generic_id">308</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">310</field>
+		<field name="therapitic_id">123</field>
+	</record>
+	<record>
+		<field name="generic_id">311</field>
+		<field name="therapitic_id">122</field>
+	</record>
+	<record>
+		<field name="generic_id">314</field>
+		<field name="therapitic_id">125</field>
+	</record>
+	<record>
+		<field name="generic_id">319</field>
+		<field name="therapitic_id">123</field>
+	</record>
+	<record>
+		<field name="generic_id">320</field>
+		<field name="therapitic_id">125</field>
+	</record>
+	<record>
+		<field name="generic_id">323</field>
+		<field name="therapitic_id">123</field>
+	</record>
+	<record>
+		<field name="generic_id">327</field>
+		<field name="therapitic_id">123</field>
+	</record>
+	<record>
+		<field name="generic_id">328</field>
+		<field name="therapitic_id">123</field>
+	</record>
+	<record>
+		<field name="generic_id">332</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">334</field>
+		<field name="therapitic_id">122</field>
+	</record>
+	<record>
+		<field name="generic_id">336</field>
+		<field name="therapitic_id">122</field>
+	</record>
+	<record>
+		<field name="generic_id">341</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">343</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">348</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">350</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">353</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">354</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">359</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">361</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">362</field>
+		<field name="therapitic_id">233</field>
+	</record>
+	<record>
+		<field name="generic_id">365</field>
+		<field name="therapitic_id">328</field>
+	</record>
+	<record>
+		<field name="generic_id">369</field>
+		<field name="therapitic_id">32</field>
+	</record>
+	<record>
+		<field name="generic_id">370</field>
+		<field name="therapitic_id">238</field>
+	</record>
+	<record>
+		<field name="generic_id">370</field>
+		<field name="therapitic_id">267</field>
+	</record>
+	<record>
+		<field name="generic_id">375</field>
+		<field name="therapitic_id">272</field>
+	</record>
+	<record>
+		<field name="generic_id">377</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">378</field>
+		<field name="therapitic_id">56</field>
+	</record>
+	<record>
+		<field name="generic_id">379</field>
+		<field name="therapitic_id">1</field>
+	</record>
+	<record>
+		<field name="generic_id">379</field>
+		<field name="therapitic_id">376</field>
+	</record>
+	<record>
+		<field name="generic_id">379</field>
+		<field name="therapitic_id">380</field>
+	</record>
+	<record>
+		<field name="generic_id">379</field>
+		<field name="therapitic_id">381</field>
+	</record>
+	<record>
+		<field name="generic_id">380</field>
+		<field name="therapitic_id">330</field>
+	</record>
+	<record>
+		<field name="generic_id">383</field>
+		<field name="therapitic_id">27</field>
+	</record>
+	<record>
+		<field name="generic_id">384</field>
+		<field name="therapitic_id">104</field>
+	</record>
+	<record>
+		<field name="generic_id">385</field>
+		<field name="therapitic_id">104</field>
+	</record>
+	<record>
+		<field name="generic_id">388</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">398</field>
+		<field name="therapitic_id">105</field>
+	</record>
+	<record>
+		<field name="generic_id">400</field>
+		<field name="therapitic_id">278</field>
+	</record>
+	<record>
+		<field name="generic_id">400</field>
+		<field name="therapitic_id">331</field>
+	</record>
+	<record>
+		<field name="generic_id">404</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">405</field>
+		<field name="therapitic_id">225</field>
+	</record>
+	<record>
+		<field name="generic_id">408</field>
+		<field name="therapitic_id">211</field>
+	</record>
+	<record>
+		<field name="generic_id">409</field>
+		<field name="therapitic_id">211</field>
+	</record>
+	<record>
+		<field name="generic_id">410</field>
+		<field name="therapitic_id">211</field>
+	</record>
+	<record>
+		<field name="generic_id">411</field>
+		<field name="therapitic_id">211</field>
+	</record>
+	<record>
+		<field name="generic_id">420</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">423</field>
+		<field name="therapitic_id">119</field>
+	</record>
+	<record>
+		<field name="generic_id">426</field>
+		<field name="therapitic_id">218</field>
+	</record>
+	<record>
+		<field name="generic_id">436</field>
+		<field name="therapitic_id">177</field>
+	</record>
+	<record>
+		<field name="generic_id">445</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">445</field>
+		<field name="therapitic_id">208</field>
+	</record>
+	<record>
+		<field name="generic_id">446</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">446</field>
+		<field name="therapitic_id">208</field>
+	</record>
+	<record>
+		<field name="generic_id">447</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">450</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">457</field>
+		<field name="therapitic_id">181</field>
+	</record>
+	<record>
+		<field name="generic_id">464</field>
+		<field name="therapitic_id">227</field>
+	</record>
+	<record>
+		<field name="generic_id">467</field>
+		<field name="therapitic_id">174</field>
+	</record>
+	<record>
+		<field name="generic_id">472</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">474</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">485</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">501</field>
+		<field name="therapitic_id">77</field>
+	</record>
+	<record>
+		<field name="generic_id">502</field>
+		<field name="therapitic_id">76</field>
+	</record>
+	<record>
+		<field name="generic_id">529</field>
+		<field name="therapitic_id">272</field>
+	</record>
+	<record>
+		<field name="generic_id">531</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">531</field>
+		<field name="therapitic_id">98</field>
+	</record>
+	<record>
+		<field name="generic_id">540</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">541</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">544</field>
+		<field name="therapitic_id">119</field>
+	</record>
+	<record>
+		<field name="generic_id">546</field>
+		<field name="therapitic_id">148</field>
+	</record>
+	<record>
+		<field name="generic_id">550</field>
+		<field name="therapitic_id">43</field>
+	</record>
+	<record>
+		<field name="generic_id">551</field>
+		<field name="therapitic_id">145</field>
+	</record>
+	<record>
+		<field name="generic_id">552</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">558</field>
+		<field name="therapitic_id">26</field>
+	</record>
+	<record>
+		<field name="generic_id">561</field>
+		<field name="therapitic_id">201</field>
+	</record>
+	<record>
+		<field name="generic_id">561</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">564</field>
+		<field name="therapitic_id">46</field>
+	</record>
+	<record>
+		<field name="generic_id">566</field>
+		<field name="therapitic_id">219</field>
+	</record>
+	<record>
+		<field name="generic_id">568</field>
+		<field name="therapitic_id">44</field>
+	</record>
+	<record>
+		<field name="generic_id">570</field>
+		<field name="therapitic_id">205</field>
+	</record>
+	<record>
+		<field name="generic_id">571</field>
+		<field name="therapitic_id">12</field>
+	</record>
+	<record>
+		<field name="generic_id">571</field>
+		<field name="therapitic_id">23</field>
+	</record>
+	<record>
+		<field name="generic_id">571</field>
+		<field name="therapitic_id">386</field>
+	</record>
+	<record>
+		<field name="generic_id">572</field>
+		<field name="therapitic_id">336</field>
+	</record>
+	<record>
+		<field name="generic_id">573</field>
+		<field name="therapitic_id">44</field>
+	</record>
+	<record>
+		<field name="generic_id">574</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">577</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">588</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">590</field>
+		<field name="therapitic_id">4</field>
+	</record>
+	<record>
+		<field name="generic_id">596</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">597</field>
+		<field name="therapitic_id">214</field>
+	</record>
+	<record>
+		<field name="generic_id">598</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">610</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">617</field>
+		<field name="therapitic_id">166</field>
+	</record>
+	<record>
+		<field name="generic_id">619</field>
+		<field name="therapitic_id">45</field>
+	</record>
+	<record>
+		<field name="generic_id">619</field>
+		<field name="therapitic_id">68</field>
+	</record>
+	<record>
+		<field name="generic_id">621</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">623</field>
+		<field name="therapitic_id">34</field>
+	</record>
+	<record>
+		<field name="generic_id">627</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">628</field>
+		<field name="therapitic_id">129</field>
+	</record>
+	<record>
+		<field name="generic_id">631</field>
+		<field name="therapitic_id">222</field>
+	</record>
+	<record>
+		<field name="generic_id">633</field>
+		<field name="therapitic_id">264</field>
+	</record>
+	<record>
+		<field name="generic_id">635</field>
+		<field name="therapitic_id">382</field>
+	</record>
+	<record>
+		<field name="generic_id">635</field>
+		<field name="therapitic_id">384</field>
+	</record>
+	<record>
+		<field name="generic_id">637</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">638</field>
+		<field name="therapitic_id">153</field>
+	</record>
+	<record>
+		<field name="generic_id">639</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">640</field>
+		<field name="therapitic_id">135</field>
+	</record>
+	<record>
+		<field name="generic_id">641</field>
+		<field name="therapitic_id">136</field>
+	</record>
+	<record>
+		<field name="generic_id">646</field>
+		<field name="therapitic_id">98</field>
+	</record>
+	<record>
+		<field name="generic_id">648</field>
+		<field name="therapitic_id">189</field>
+	</record>
+	<record>
+		<field name="generic_id">654</field>
+		<field name="therapitic_id">62</field>
+	</record>
+	<record>
+		<field name="generic_id">655</field>
+		<field name="therapitic_id">1</field>
+	</record>
+	<record>
+		<field name="generic_id">655</field>
+		<field name="therapitic_id">376</field>
+	</record>
+	<record>
+		<field name="generic_id">655</field>
+		<field name="therapitic_id">380</field>
+	</record>
+	<record>
+		<field name="generic_id">655</field>
+		<field name="therapitic_id">381</field>
+	</record>
+	<record>
+		<field name="generic_id">656</field>
+		<field name="therapitic_id">177</field>
+	</record>
+	<record>
+		<field name="generic_id">658</field>
+		<field name="therapitic_id">63</field>
+	</record>
+	<record>
+		<field name="generic_id">659</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">678</field>
+		<field name="therapitic_id">119</field>
+	</record>
+	<record>
+		<field name="generic_id">680</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">680</field>
+		<field name="therapitic_id">144</field>
+	</record>
+	<record>
+		<field name="generic_id">681</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">681</field>
+		<field name="therapitic_id">144</field>
+	</record>
+	<record>
+		<field name="generic_id">682</field>
+		<field name="therapitic_id">284</field>
+	</record>
+	<record>
+		<field name="generic_id">688</field>
+		<field name="therapitic_id">229</field>
+	</record>
+	<record>
+		<field name="generic_id">689</field>
+		<field name="therapitic_id">212</field>
+	</record>
+	<record>
+		<field name="generic_id">691</field>
+		<field name="therapitic_id">212</field>
+	</record>
+	<record>
+		<field name="generic_id">700</field>
+		<field name="therapitic_id">89</field>
+	</record>
+	<record>
+		<field name="generic_id">702</field>
+		<field name="therapitic_id">97</field>
+	</record>
+	<record>
+		<field name="generic_id">704</field>
+		<field name="therapitic_id">97</field>
+	</record>
+	<record>
+		<field name="generic_id">708</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">709</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">711</field>
+		<field name="therapitic_id">337</field>
+	</record>
+	<record>
+		<field name="generic_id">712</field>
+		<field name="therapitic_id">337</field>
+	</record>
+	<record>
+		<field name="generic_id">715</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">715</field>
+		<field name="therapitic_id">263</field>
+	</record>
+	<record>
+		<field name="generic_id">718</field>
+		<field name="therapitic_id">338</field>
+	</record>
+	<record>
+		<field name="generic_id">721</field>
+		<field name="therapitic_id">33</field>
+	</record>
+	<record>
+		<field name="generic_id">721</field>
+		<field name="therapitic_id">392</field>
+	</record>
+	<record>
+		<field name="generic_id">722</field>
+		<field name="therapitic_id">35</field>
+	</record>
+	<record>
+		<field name="generic_id">730</field>
+		<field name="therapitic_id">336</field>
+	</record>
+	<record>
+		<field name="generic_id">731</field>
+		<field name="therapitic_id">191</field>
+	</record>
+	<record>
+		<field name="generic_id">739</field>
+		<field name="therapitic_id">63</field>
+	</record>
+	<record>
+		<field name="generic_id">743</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">745</field>
+		<field name="therapitic_id">235</field>
+	</record>
+	<record>
+		<field name="generic_id">756</field>
+		<field name="therapitic_id">272</field>
+	</record>
+	<record>
+		<field name="generic_id">757</field>
+		<field name="therapitic_id">76</field>
+	</record>
+	<record>
+		<field name="generic_id">761</field>
+		<field name="therapitic_id">51</field>
+	</record>
+	<record>
+		<field name="generic_id">763</field>
+		<field name="therapitic_id">276</field>
+	</record>
+	<record>
+		<field name="generic_id">767</field>
+		<field name="therapitic_id">214</field>
+	</record>
+	<record>
+		<field name="generic_id">768</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">768</field>
+		<field name="therapitic_id">338</field>
+	</record>
+	<record>
+		<field name="generic_id">769</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">770</field>
+		<field name="therapitic_id">79</field>
+	</record>
+	<record>
+		<field name="generic_id">772</field>
+		<field name="therapitic_id">22</field>
+	</record>
+	<record>
+		<field name="generic_id">775</field>
+		<field name="therapitic_id">90</field>
+	</record>
+	<record>
+		<field name="generic_id">775</field>
+		<field name="therapitic_id">339</field>
+	</record>
+	<record>
+		<field name="generic_id">776</field>
+		<field name="therapitic_id">188</field>
+	</record>
+	<record>
+		<field name="generic_id">781</field>
+		<field name="therapitic_id">32</field>
+	</record>
+	<record>
+		<field name="generic_id">781</field>
+		<field name="therapitic_id">391</field>
+	</record>
+	<record>
+		<field name="generic_id">782</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">783</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">784</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">785</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">786</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">787</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">788</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">793</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">793</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">794</field>
+		<field name="therapitic_id">27</field>
+	</record>
+	<record>
+		<field name="generic_id">794</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">796</field>
+		<field name="therapitic_id">229</field>
+	</record>
+	<record>
+		<field name="generic_id">798</field>
+		<field name="therapitic_id">263</field>
+	</record>
+	<record>
+		<field name="generic_id">798</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">799</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">814</field>
+		<field name="therapitic_id">32</field>
+	</record>
+	<record>
+		<field name="generic_id">815</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">818</field>
+		<field name="therapitic_id">65</field>
+	</record>
+	<record>
+		<field name="generic_id">825</field>
+		<field name="therapitic_id">311</field>
+	</record>
+	<record>
+		<field name="generic_id">826</field>
+		<field name="therapitic_id">156</field>
+	</record>
+	<record>
+		<field name="generic_id">834</field>
+		<field name="therapitic_id">69</field>
+	</record>
+	<record>
+		<field name="generic_id">837</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">841</field>
+		<field name="therapitic_id">259</field>
+	</record>
+	<record>
+		<field name="generic_id">842</field>
+		<field name="therapitic_id">188</field>
+	</record>
+	<record>
+		<field name="generic_id">843</field>
+		<field name="therapitic_id">135</field>
+	</record>
+	<record>
+		<field name="generic_id">844</field>
+		<field name="therapitic_id">136</field>
+	</record>
+	<record>
+		<field name="generic_id">845</field>
+		<field name="therapitic_id">136</field>
+	</record>
+	<record>
+		<field name="generic_id">846</field>
+		<field name="therapitic_id">136</field>
+	</record>
+	<record>
+		<field name="generic_id">847</field>
+		<field name="therapitic_id">89</field>
+	</record>
+	<record>
+		<field name="generic_id">847</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">848</field>
+		<field name="therapitic_id">51</field>
+	</record>
+	<record>
+		<field name="generic_id">849</field>
+		<field name="therapitic_id">51</field>
+	</record>
+	<record>
+		<field name="generic_id">852</field>
+		<field name="therapitic_id">14</field>
+	</record>
+	<record>
+		<field name="generic_id">853</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">859</field>
+		<field name="therapitic_id">232</field>
+	</record>
+	<record>
+		<field name="generic_id">862</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">864</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">865</field>
+		<field name="therapitic_id">342</field>
+	</record>
+	<record>
+		<field name="generic_id">866</field>
+		<field name="therapitic_id">73</field>
+	</record>
+	<record>
+		<field name="generic_id">867</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">870</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">873</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">874</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">875</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">876</field>
+		<field name="therapitic_id">98</field>
+	</record>
+	<record>
+		<field name="generic_id">881</field>
+		<field name="therapitic_id">57</field>
+	</record>
+	<record>
+		<field name="generic_id">883</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">898</field>
+		<field name="therapitic_id">57</field>
+	</record>
+	<record>
+		<field name="generic_id">904</field>
+		<field name="therapitic_id">66</field>
+	</record>
+	<record>
+		<field name="generic_id">906</field>
+		<field name="therapitic_id">155</field>
+	</record>
+	<record>
+		<field name="generic_id">908</field>
+		<field name="therapitic_id">203</field>
+	</record>
+	<record>
+		<field name="generic_id">911</field>
+		<field name="therapitic_id">181</field>
+	</record>
+	<record>
+		<field name="generic_id">913</field>
+		<field name="therapitic_id">203</field>
+	</record>
+	<record>
+		<field name="generic_id">922</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">923</field>
+		<field name="therapitic_id">92</field>
+	</record>
+	<record>
+		<field name="generic_id">925</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">927</field>
+		<field name="therapitic_id">19</field>
+	</record>
+	<record>
+		<field name="generic_id">932</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">933</field>
+		<field name="therapitic_id">371</field>
+	</record>
+	<record>
+		<field name="generic_id">933</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">937</field>
+		<field name="therapitic_id">344</field>
+	</record>
+	<record>
+		<field name="generic_id">939</field>
+		<field name="therapitic_id">6</field>
+	</record>
+	<record>
+		<field name="generic_id">939</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">940</field>
+		<field name="therapitic_id">6</field>
+	</record>
+	<record>
+		<field name="generic_id">940</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">941</field>
+		<field name="therapitic_id">6</field>
+	</record>
+	<record>
+		<field name="generic_id">941</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">946</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">947</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">950</field>
+		<field name="therapitic_id">37</field>
+	</record>
+	<record>
+		<field name="generic_id">951</field>
+		<field name="therapitic_id">115</field>
+	</record>
+	<record>
+		<field name="generic_id">953</field>
+		<field name="therapitic_id">4</field>
+	</record>
+	<record>
+		<field name="generic_id">955</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">956</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">957</field>
+		<field name="therapitic_id">263</field>
+	</record>
+	<record>
+		<field name="generic_id">960</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">961</field>
+		<field name="therapitic_id">154</field>
+	</record>
+	<record>
+		<field name="generic_id">964</field>
+		<field name="therapitic_id">336</field>
+	</record>
+	<record>
+		<field name="generic_id">964</field>
+		<field name="therapitic_id">346</field>
+	</record>
+	<record>
+		<field name="generic_id">965</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">965</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">966</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">966</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">968</field>
+		<field name="therapitic_id">201</field>
+	</record>
+	<record>
+		<field name="generic_id">970</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">971</field>
+		<field name="therapitic_id">24</field>
+	</record>
+	<record>
+		<field name="generic_id">972</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">975</field>
+		<field name="therapitic_id">161</field>
+	</record>
+	<record>
+		<field name="generic_id">987</field>
+		<field name="therapitic_id">105</field>
+	</record>
+	<record>
+		<field name="generic_id">988</field>
+		<field name="therapitic_id">23</field>
+	</record>
+	<record>
+		<field name="generic_id">988</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">989</field>
+		<field name="therapitic_id">32</field>
+	</record>
+	<record>
+		<field name="generic_id">990</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">992</field>
+		<field name="therapitic_id">145</field>
+	</record>
+	<record>
+		<field name="generic_id">993</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">994</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">999</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">1001</field>
+		<field name="therapitic_id">162</field>
+	</record>
+	<record>
+		<field name="generic_id">1005</field>
+		<field name="therapitic_id">95</field>
+	</record>
+	<record>
+		<field name="generic_id">1009</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">1011</field>
+		<field name="therapitic_id">208</field>
+	</record>
+	<record>
+		<field name="generic_id">1012</field>
+		<field name="therapitic_id">74</field>
+	</record>
+	<record>
+		<field name="generic_id">1017</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1024</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1025</field>
+		<field name="therapitic_id">148</field>
+	</record>
+	<record>
+		<field name="generic_id">1025</field>
+		<field name="therapitic_id">274</field>
+	</record>
+	<record>
+		<field name="generic_id">1027</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1028</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1029</field>
+		<field name="therapitic_id">265</field>
+	</record>
+	<record>
+		<field name="generic_id">1029</field>
+		<field name="therapitic_id">363</field>
+	</record>
+	<record>
+		<field name="generic_id">1030</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1032</field>
+		<field name="therapitic_id">110</field>
+	</record>
+	<record>
+		<field name="generic_id">1034</field>
+		<field name="therapitic_id">163</field>
+	</record>
+	<record>
+		<field name="generic_id">1036</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">1039</field>
+		<field name="therapitic_id">194</field>
+	</record>
+	<record>
+		<field name="generic_id">1040</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">1048</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1049</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">1050</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">1053</field>
+		<field name="therapitic_id">53</field>
+	</record>
+	<record>
+		<field name="generic_id">1057</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">1058</field>
+		<field name="therapitic_id">80</field>
+	</record>
+	<record>
+		<field name="generic_id">1059</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">1062</field>
+		<field name="therapitic_id">274</field>
+	</record>
+	<record>
+		<field name="generic_id">1066</field>
+		<field name="therapitic_id">188</field>
+	</record>
+	<record>
+		<field name="generic_id">1069</field>
+		<field name="therapitic_id">1</field>
+	</record>
+	<record>
+		<field name="generic_id">1071</field>
+		<field name="therapitic_id">153</field>
+	</record>
+	<record>
+		<field name="generic_id">1076</field>
+		<field name="therapitic_id">115</field>
+	</record>
+	<record>
+		<field name="generic_id">1077</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">1077</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">1079</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">1081</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">1082</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1083</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1085</field>
+		<field name="therapitic_id">350</field>
+	</record>
+	<record>
+		<field name="generic_id">1086</field>
+		<field name="therapitic_id">382</field>
+	</record>
+	<record>
+		<field name="generic_id">1086</field>
+		<field name="therapitic_id">384</field>
+	</record>
+	<record>
+		<field name="generic_id">1088</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">1089</field>
+		<field name="therapitic_id">106</field>
+	</record>
+	<record>
+		<field name="generic_id">1090</field>
+		<field name="therapitic_id">145</field>
+	</record>
+	<record>
+		<field name="generic_id">1091</field>
+		<field name="therapitic_id">138</field>
+	</record>
+	<record>
+		<field name="generic_id">1094</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">1107</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1112</field>
+		<field name="therapitic_id">298</field>
+	</record>
+	<record>
+		<field name="generic_id">1119</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">1120</field>
+		<field name="therapitic_id">28</field>
+	</record>
+	<record>
+		<field name="generic_id">1121</field>
+		<field name="therapitic_id">191</field>
+	</record>
+	<record>
+		<field name="generic_id">1122</field>
+		<field name="therapitic_id">382</field>
+	</record>
+	<record>
+		<field name="generic_id">1122</field>
+		<field name="therapitic_id">384</field>
+	</record>
+	<record>
+		<field name="generic_id">1125</field>
+		<field name="therapitic_id">351</field>
+	</record>
+	<record>
+		<field name="generic_id">1126</field>
+		<field name="therapitic_id">194</field>
+	</record>
+	<record>
+		<field name="generic_id">1128</field>
+		<field name="therapitic_id">238</field>
+	</record>
+	<record>
+		<field name="generic_id">1128</field>
+		<field name="therapitic_id">267</field>
+	</record>
+	<record>
+		<field name="generic_id">1132</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1133</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1134</field>
+		<field name="therapitic_id">56</field>
+	</record>
+	<record>
+		<field name="generic_id">1136</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">1137</field>
+		<field name="therapitic_id">208</field>
+	</record>
+	<record>
+		<field name="generic_id">1142</field>
+		<field name="therapitic_id">87</field>
+	</record>
+	<record>
+		<field name="generic_id">1143</field>
+		<field name="therapitic_id">87</field>
+	</record>
+	<record>
+		<field name="generic_id">1144</field>
+		<field name="therapitic_id">117</field>
+	</record>
+	<record>
+		<field name="generic_id">1149</field>
+		<field name="therapitic_id">76</field>
+	</record>
+	<record>
+		<field name="generic_id">1150</field>
+		<field name="therapitic_id">242</field>
+	</record>
+	<record>
+		<field name="generic_id">1151</field>
+		<field name="therapitic_id">356</field>
+	</record>
+	<record>
+		<field name="generic_id">1156</field>
+		<field name="therapitic_id">120</field>
+	</record>
+	<record>
+		<field name="generic_id">1156</field>
+		<field name="therapitic_id">126</field>
+	</record>
+	<record>
+		<field name="generic_id">1159</field>
+		<field name="therapitic_id">339</field>
+	</record>
+	<record>
+		<field name="generic_id">1161</field>
+		<field name="therapitic_id">372</field>
+	</record>
+	<record>
+		<field name="generic_id">1162</field>
+		<field name="therapitic_id">121</field>
+	</record>
+	<record>
+		<field name="generic_id">1168</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">1169</field>
+		<field name="therapitic_id">377</field>
+	</record>
+	<record>
+		<field name="generic_id">1176</field>
+		<field name="therapitic_id">278</field>
+	</record>
+	<record>
+		<field name="generic_id">1177</field>
+		<field name="therapitic_id">78</field>
+	</record>
+	<record>
+		<field name="generic_id">1184</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">1188</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1192</field>
+		<field name="therapitic_id">202</field>
+	</record>
+	<record>
+		<field name="generic_id">1197</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">1200</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">1200</field>
+		<field name="therapitic_id">104</field>
+	</record>
+	<record>
+		<field name="generic_id">1203</field>
+		<field name="therapitic_id">153</field>
+	</record>
+	<record>
+		<field name="generic_id">1204</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">1204</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">1205</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">1205</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">1206</field>
+		<field name="therapitic_id">46</field>
+	</record>
+	<record>
+		<field name="generic_id">1209</field>
+		<field name="therapitic_id">189</field>
+	</record>
+	<record>
+		<field name="generic_id">1211</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1213</field>
+		<field name="therapitic_id">77</field>
+	</record>
+	<record>
+		<field name="generic_id">1218</field>
+		<field name="therapitic_id">135</field>
+	</record>
+	<record>
+		<field name="generic_id">1219</field>
+		<field name="therapitic_id">178</field>
+	</record>
+	<record>
+		<field name="generic_id">1220</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">1221</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">1222</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">1224</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">1227</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">1228</field>
+		<field name="therapitic_id">146</field>
+	</record>
+	<record>
+		<field name="generic_id">1229</field>
+		<field name="therapitic_id">382</field>
+	</record>
+	<record>
+		<field name="generic_id">1229</field>
+		<field name="therapitic_id">384</field>
+	</record>
+	<record>
+		<field name="generic_id">1231</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">1231</field>
+		<field name="therapitic_id">370</field>
+	</record>
+	<record>
+		<field name="generic_id">1232</field>
+		<field name="therapitic_id">1</field>
+	</record>
+	<record>
+		<field name="generic_id">1232</field>
+		<field name="therapitic_id">376</field>
+	</record>
+	<record>
+		<field name="generic_id">1232</field>
+		<field name="therapitic_id">380</field>
+	</record>
+	<record>
+		<field name="generic_id">1232</field>
+		<field name="therapitic_id">381</field>
+	</record>
+	<record>
+		<field name="generic_id">1235</field>
+		<field name="therapitic_id">163</field>
+	</record>
+	<record>
+		<field name="generic_id">1239</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">1242</field>
+		<field name="therapitic_id">134</field>
+	</record>
+	<record>
+		<field name="generic_id">1249</field>
+		<field name="therapitic_id">59</field>
+	</record>
+	<record>
+		<field name="generic_id">1251</field>
+		<field name="therapitic_id">111</field>
+	</record>
+	<record>
+		<field name="generic_id">1252</field>
+		<field name="therapitic_id">75</field>
+	</record>
+	<record>
+		<field name="generic_id">1255</field>
+		<field name="therapitic_id">372</field>
+	</record>
+	<record>
+		<field name="generic_id">1256</field>
+		<field name="therapitic_id">1</field>
+	</record>
+	<record>
+		<field name="generic_id">1257</field>
+		<field name="therapitic_id">129</field>
+	</record>
+	<record>
+		<field name="generic_id">1263</field>
+		<field name="therapitic_id">358</field>
+	</record>
+	<record>
+		<field name="generic_id">1266</field>
+		<field name="therapitic_id">358</field>
+	</record>
+	<record>
+		<field name="generic_id">1269</field>
+		<field name="therapitic_id">350</field>
+	</record>
+	<record>
+		<field name="generic_id">1272</field>
+		<field name="therapitic_id">145</field>
+	</record>
+	<record>
+		<field name="generic_id">1275</field>
+		<field name="therapitic_id">359</field>
+	</record>
+	<record>
+		<field name="generic_id">1276</field>
+		<field name="therapitic_id">188</field>
+	</record>
+	<record>
+		<field name="generic_id">1277</field>
+		<field name="therapitic_id">106</field>
+	</record>
+	<record>
+		<field name="generic_id">1280</field>
+		<field name="therapitic_id">6</field>
+	</record>
+	<record>
+		<field name="generic_id">1282</field>
+		<field name="therapitic_id">372</field>
+	</record>
+	<record>
+		<field name="generic_id">1285</field>
+		<field name="therapitic_id">331</field>
+	</record>
+	<record>
+		<field name="generic_id">1294</field>
+		<field name="therapitic_id">361</field>
+	</record>
+	<record>
+		<field name="generic_id">1299</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1299</field>
+		<field name="therapitic_id">302</field>
+	</record>
+	<record>
+		<field name="generic_id">1300</field>
+		<field name="therapitic_id">302</field>
+	</record>
+	<record>
+		<field name="generic_id">1301</field>
+		<field name="therapitic_id">302</field>
+	</record>
+	<record>
+		<field name="generic_id">1302</field>
+		<field name="therapitic_id">288</field>
+	</record>
+	<record>
+		<field name="generic_id">1302</field>
+		<field name="therapitic_id">302</field>
+	</record>
+	<record>
+		<field name="generic_id">1304</field>
+		<field name="therapitic_id">22</field>
+	</record>
+	<record>
+		<field name="generic_id">1316</field>
+		<field name="therapitic_id">147</field>
+	</record>
+	<record>
+		<field name="generic_id">1318</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1319</field>
+		<field name="therapitic_id">98</field>
+	</record>
+	<record>
+		<field name="generic_id">1322</field>
+		<field name="therapitic_id">47</field>
+	</record>
+	<record>
+		<field name="generic_id">1325</field>
+		<field name="therapitic_id">129</field>
+	</record>
+	<record>
+		<field name="generic_id">1326</field>
+		<field name="therapitic_id">34</field>
+	</record>
+	<record>
+		<field name="generic_id">1327</field>
+		<field name="therapitic_id">362</field>
+	</record>
+	<record>
+		<field name="generic_id">1328</field>
+		<field name="therapitic_id">134</field>
+	</record>
+	<record>
+		<field name="generic_id">1332</field>
+		<field name="therapitic_id">13</field>
+	</record>
+	<record>
+		<field name="generic_id">1338</field>
+		<field name="therapitic_id">24</field>
+	</record>
+	<record>
+		<field name="generic_id">1338</field>
+		<field name="therapitic_id">25</field>
+	</record>
+	<record>
+		<field name="generic_id">1339</field>
+		<field name="therapitic_id">177</field>
+	</record>
+	<record>
+		<field name="generic_id">1340</field>
+		<field name="therapitic_id">177</field>
+	</record>
+	<record>
+		<field name="generic_id">1348</field>
+		<field name="therapitic_id">132</field>
+	</record>
+	<record>
+		<field name="generic_id">1350</field>
+		<field name="therapitic_id">132</field>
+	</record>
+	<record>
+		<field name="generic_id">1351</field>
+		<field name="therapitic_id">132</field>
+	</record>
+	<record>
+		<field name="generic_id">1356</field>
+		<field name="therapitic_id">111</field>
+	</record>
+	<record>
+		<field name="generic_id">1358</field>
+		<field name="therapitic_id">190</field>
+	</record>
+	<record>
+		<field name="generic_id">1359</field>
+		<field name="therapitic_id">332</field>
+	</record>
+	<record>
+		<field name="generic_id">1365</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1366</field>
+		<field name="therapitic_id">216</field>
+	</record>
+	<record>
+		<field name="generic_id">1367</field>
+		<field name="therapitic_id">25</field>
+	</record>
+	<record>
+		<field name="generic_id">1369</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">1372</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">1375</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">1377</field>
+		<field name="therapitic_id">66</field>
+	</record>
+	<record>
+		<field name="generic_id">1378</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">1385</field>
+		<field name="therapitic_id">364</field>
+	</record>
+	<record>
+		<field name="generic_id">1387</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">1388</field>
+		<field name="therapitic_id">189</field>
+	</record>
+	<record>
+		<field name="generic_id">1392</field>
+		<field name="therapitic_id">153</field>
+	</record>
+	<record>
+		<field name="generic_id">1394</field>
+		<field name="therapitic_id">4</field>
+	</record>
+	<record>
+		<field name="generic_id">1399</field>
+		<field name="therapitic_id">145</field>
+	</record>
+	<record>
+		<field name="generic_id">1402</field>
+		<field name="therapitic_id">280</field>
+	</record>
+	<record>
+		<field name="generic_id">1403</field>
+		<field name="therapitic_id">69</field>
+	</record>
+	<record>
+		<field name="generic_id">1410</field>
+		<field name="therapitic_id">207</field>
+	</record>
+	<record>
+		<field name="generic_id">1415</field>
+		<field name="therapitic_id">33</field>
+	</record>
+	<record>
+		<field name="generic_id">1415</field>
+		<field name="therapitic_id">392</field>
+	</record>
+	<record>
+		<field name="generic_id">1416</field>
+		<field name="therapitic_id">109</field>
+	</record>
+	<record>
+		<field name="generic_id">1417</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">1420</field>
+		<field name="therapitic_id">216</field>
+	</record>
+	<record>
+		<field name="generic_id">1423</field>
+		<field name="therapitic_id">214</field>
+	</record>
+	<record>
+		<field name="generic_id">1430</field>
+		<field name="therapitic_id">4</field>
+	</record>
+	<record>
+		<field name="generic_id">1439</field>
+		<field name="therapitic_id">66</field>
+	</record>
+	<record>
+		<field name="generic_id">1444</field>
+		<field name="therapitic_id">228</field>
+	</record>
+	<record>
+		<field name="generic_id">1445</field>
+		<field name="therapitic_id">362</field>
+	</record>
+	<record>
+		<field name="generic_id">1446</field>
+		<field name="therapitic_id">29</field>
+	</record>
+	<record>
+		<field name="generic_id">1447</field>
+		<field name="therapitic_id">141</field>
+	</record>
+	<record>
+		<field name="generic_id">1448</field>
+		<field name="therapitic_id">373</field>
+	</record>
+	<record>
+		<field name="generic_id">1452</field>
+		<field name="therapitic_id">191</field>
+	</record>
+	<record>
+		<field name="generic_id">1454</field>
+		<field name="therapitic_id">387</field>
+	</record>
+	<record>
+		<field name="generic_id">1459</field>
+		<field name="therapitic_id">55</field>
+	</record>
+	<record>
+		<field name="generic_id">1459</field>
+		<field name="therapitic_id">388</field>
+	</record>
+	<record>
+		<field name="generic_id">1460</field>
+		<field name="therapitic_id">237</field>
+	</record>
+	<record>
+		<field name="generic_id">1464</field>
+		<field name="therapitic_id">240</field>
+	</record>
+	<record>
+		<field name="generic_id">1465</field>
+		<field name="therapitic_id">244</field>
+	</record>
+	<record>
+		<field name="generic_id">1467</field>
+		<field name="therapitic_id">241</field>
+	</record>
+	<record>
+		<field name="generic_id">1468</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">1469</field>
+		<field name="therapitic_id">59</field>
+	</record>
+	<record>
+		<field name="generic_id">1469</field>
+		<field name="therapitic_id">390</field>
+	</record>
+	<record>
+		<field name="generic_id">1473</field>
+		<field name="therapitic_id">74</field>
+	</record>
+	<record>
+		<field name="generic_id">1474</field>
+		<field name="therapitic_id">84</field>
+	</record>
+	<record>
+		<field name="generic_id">1475</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">1476</field>
+		<field name="therapitic_id">246</field>
+	</record>
+	<record>
+		<field name="generic_id">1477</field>
+		<field name="therapitic_id">367</field>
+	</record>
+	<record>
+		<field name="generic_id">1478</field>
+		<field name="therapitic_id">367</field>
+	</record>
+	<record>
+		<field name="generic_id">1483</field>
+		<field name="therapitic_id">111</field>
+	</record>
+	<record>
+		<field name="generic_id">1484</field>
+		<field name="therapitic_id">111</field>
+	</record>
+	<record>
+		<field name="generic_id">1485</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">1486</field>
+		<field name="therapitic_id">322</field>
+	</record>
+	<record>
+		<field name="generic_id">1513</field>
+		<field name="therapitic_id">238</field>
+	</record>
+	<record>
+		<field name="generic_id">1513</field>
+		<field name="therapitic_id">267</field>
+	</record>
+	<record>
+		<field name="generic_id">1515</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">1520</field>
+		<field name="therapitic_id">230</field>
+	</record>
+	<record>
+		<field name="generic_id">1537</field>
+		<field name="therapitic_id">315</field>
+	</record>
+	<record>
+		<field name="generic_id">1564</field>
+		<field name="therapitic_id">368</field>
+	</record>
+	<record>
+		<field name="generic_id">1568</field>
+		<field name="therapitic_id">368</field>
+	</record>
+	<record>
+		<field name="generic_id">1577</field>
+		<field name="therapitic_id">369</field>
+	</record>
+	<record>
+		<field name="generic_id">1582</field>
+		<field name="therapitic_id">114</field>
+	</record>
+	<record>
+		<field name="generic_id">1601</field>
+		<field name="therapitic_id">12</field>
+	</record>
+	<record>
+		<field name="generic_id">1618</field>
+		<field name="therapitic_id">215</field>
+	</record>
+	<record>
+		<field name="generic_id">1642</field>
+		<field name="therapitic_id">174</field>
+	</record>
+	<record>
+		<field name="generic_id">1663</field>
+		<field name="therapitic_id">129</field>
+	</record>
+	<record>
+		<field name="generic_id">1673</field>
+		<field name="therapitic_id">179</field>
+	</record>
+	<record>
+		<field name="generic_id">1674</field>
+		<field name="therapitic_id">315</field>
+	</record>
+	<record>
+		<field name="generic_id">1696</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1738</field>
+		<field name="therapitic_id">332</field>
+	</record>
+	<record>
+		<field name="generic_id">1744</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">1754</field>
+		<field name="therapitic_id">264</field>
+	</record>
+	<record>
+		<field name="generic_id">1755</field>
+		<field name="therapitic_id">264</field>
+	</record>
+	<record>
+		<field name="generic_id">1760</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">1773</field>
+		<field name="therapitic_id">153</field>
+	</record>
+	<record>
+		<field name="generic_id">1784</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">1784</field>
+		<field name="therapitic_id">315</field>
+	</record>
+	<record>
+		<field name="generic_id">1785</field>
+		<field name="therapitic_id">61</field>
+	</record>
+	<record>
+		<field name="generic_id">1785</field>
+		<field name="therapitic_id">315</field>
+	</record>
+	<record>
+		<field name="generic_id">1788</field>
+		<field name="therapitic_id">141</field>
+	</record>
+	<record>
+		<field name="generic_id">1797</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">1804</field>
+		<field name="therapitic_id">89</field>
+	</record>
+	<record>
+		<field name="generic_id">1808</field>
+		<field name="therapitic_id">372</field>
+	</record>
+	<record>
+		<field name="generic_id">1817</field>
+		<field name="therapitic_id">30</field>
+	</record>
+	<record>
+		<field name="generic_id">2016</field>
+		<field name="therapitic_id">311</field>
+	</record>
+	<record>
+		<field name="generic_id">2035</field>
+		<field name="therapitic_id">259</field>
+	</record>
+	<record>
+		<field name="generic_id">2040</field>
+		<field name="therapitic_id">226</field>
+	</record>
+	<record>
+		<field name="generic_id">2051</field>
+		<field name="therapitic_id">189</field>
+	</record>
+	<record>
+		<field name="generic_id">2071</field>
+		<field name="therapitic_id">174</field>
+	</record>
+	<record>
+		<field name="generic_id">2117</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">2136</field>
+		<field name="therapitic_id">305</field>
+	</record>
+	<record>
+		<field name="generic_id">2145</field>
+		<field name="therapitic_id">264</field>
+	</record>
+	<record>
+		<field name="generic_id">2157</field>
+		<field name="therapitic_id">148</field>
+	</record>
+	<record>
+		<field name="generic_id">2165</field>
+		<field name="therapitic_id">311</field>
+	</record>
+	<record>
+		<field name="generic_id">2183</field>
+		<field name="therapitic_id">73</field>
+	</record>
+	<record>
+		<field name="generic_id">2186</field>
+		<field name="therapitic_id">178</field>
+	</record>
+	<record>
+		<field name="generic_id">2186</field>
+		<field name="therapitic_id">195</field>
+	</record>
+	<record>
+		<field name="generic_id">2229</field>
+		<field name="therapitic_id">349</field>
+	</record>
+	<record>
+		<field name="generic_id">2232</field>
+		<field name="therapitic_id">75</field>
+	</record>
+	<record>
+		<field name="generic_id">2257</field>
+		<field name="therapitic_id">352</field>
+	</record>
+	<record>
+		<field name="generic_id">2271</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">2276</field>
+		<field name="therapitic_id">289</field>
+	</record>
+	<record>
+		<field name="generic_id">2279</field>
+		<field name="therapitic_id">354</field>
+	</record>
+	<record>
+		<field name="generic_id">2285</field>
+		<field name="therapitic_id">332</field>
+	</record>
+	<record>
+		<field name="generic_id">2300</field>
+		<field name="therapitic_id">218</field>
+	</record>
+	<record>
+		<field name="generic_id">2332</field>
+		<field name="therapitic_id">306</field>
+	</record>
+	<record>
+		<field name="generic_id">2340</field>
+		<field name="therapitic_id">151</field>
+	</record>
+	<record>
+		<field name="generic_id">2351</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">2352</field>
+		<field name="therapitic_id">142</field>
+	</record>
+	<record>
+		<field name="generic_id">2354</field>
+		<field name="therapitic_id">368</field>
+	</record>
+	<record>
+		<field name="generic_id">2356</field>
+		<field name="therapitic_id">336</field>
+	</record>
+	<record>
+		<field name="generic_id">2358</field>
+		<field name="therapitic_id">191</field>
+	</record>
+	<record>
+		<field name="generic_id">2360</field>
+		<field name="therapitic_id">66</field>
+	</record>
+	<record>
+		<field name="generic_id">2367</field>
+		<field name="therapitic_id">266</field>
+	</record>
+	<record>
+		<field name="generic_id">2386</field>
+		<field name="therapitic_id">73</field>
+	</record>
+	<record>
+		<field name="generic_id">2398</field>
+		<field name="therapitic_id">349</field>
+	</record>
+	<record>
+		<field name="generic_id">2399</field>
+		<field name="therapitic_id">151</field>
+	</record>
+	<record>
+		<field name="generic_id">2414</field>
+		<field name="therapitic_id">132</field>
+	</record>
+	<record>
+		<field name="generic_id">2466</field>
+		<field name="therapitic_id">216</field>
+	</record>
+	<record>
+		<field name="generic_id">2485</field>
+		<field name="therapitic_id">365</field>
+	</record>
+	<record>
+		<field name="generic_id">2486</field>
+		<field name="therapitic_id">42</field>
+	</record>
+	<record>
+		<field name="generic_id">2489</field>
+		<field name="therapitic_id">107</field>
+	</record>
+	<record>
+		<field name="generic_id">2524</field>
+		<field name="therapitic_id">138</field>
+	</record>
+	<record>
+		<field name="generic_id">2525</field>
+		<field name="therapitic_id">366</field>
+	</record>
+	<record>
+		<field name="generic_id">2528</field>
+		<field name="therapitic_id">89</field>
+	</record>
+	<record>
+		<field name="generic_id">2540</field>
+		<field name="therapitic_id">358</field>
+	</record>
+	<record>
+		<field name="generic_id">2549</field>
+		<field name="therapitic_id">156</field>
+	</record>
+	<record>
+		<field name="generic_id">2551</field>
+		<field name="therapitic_id">239</field>
+	</record>
+	<record>
+		<field name="generic_id">2561</field>
+		<field name="therapitic_id">218</field>
+	</record>
+	<record>
+		<field name="generic_id">2564</field>
+		<field name="therapitic_id">215</field>
+	</record>
+	<record>
+		<field name="generic_id">2572</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">2573</field>
+		<field name="therapitic_id">329</field>
+	</record>
+	<record>
+		<field name="generic_id">2582</field>
+		<field name="therapitic_id">143</field>
+	</record>
+	<record>
+		<field name="generic_id">2647</field>
+		<field name="therapitic_id">95</field>
+	</record>
+	<record>
+		<field name="generic_id">2742</field>
+		<field name="therapitic_id">103</field>
+	</record>
+	<record>
+		<field name="generic_id">2745</field>
+		<field name="therapitic_id">284</field>
+	</record>
+	<record>
+		<field name="generic_id">2746</field>
+		<field name="therapitic_id">299</field>
+	</record>
+	<record>
+		<field name="generic_id">2750</field>
+		<field name="therapitic_id">301</field>
+	</record>
+	<record>
+		<field name="generic_id">2751</field>
+		<field name="therapitic_id">304</field>
+	</record>
+	<record>
+		<field name="generic_id">2755</field>
+		<field name="therapitic_id">182</field>
+	</record>
+	<record>
+		<field name="generic_id">1477</field>
+		<field name="therapitic_id">220</field>
+	</record>
+	<record>
+		<field name="generic_id">2158</field>
+		<field name="therapitic_id">220</field>
+	</record>
+	<record>
+		<field name="generic_id">2300</field>
+		<field name="therapitic_id">220</field>
+	</record>
+	<record>
+		<field name="generic_id">2553</field>
+		<field name="therapitic_id">220</field>
+	</record>
+	<record>
+		<field name="generic_id">2586</field>
+		<field name="therapitic_id">220</field>
+	</record>
+	<record>
+		<field name="generic_id">413</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">576</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">813</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">1435</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">58</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">1076</field>
+		<field name="therapitic_id">93</field>
+	</record>
+	<record>
+		<field name="generic_id">917</field>
+		<field name="therapitic_id">394</field>
+	</record>
+	<record>
+		<field name="generic_id">1271</field>
+		<field name="therapitic_id">394</field>
+	</record>
+	<record>
+		<field name="generic_id">1283</field>
+		<field name="therapitic_id">394</field>
+	</record>
+	<record>
+		<field name="generic_id">1456</field>
+		<field name="therapitic_id">394</field>
+	</record>
+	<record>
+		<field name="generic_id">2080</field>
+		<field name="therapitic_id">395</field>
+	</record>
+	<record>
+		<field name="generic_id">60</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">552</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">870</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">883</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">1454</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">1057</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">1059</field>
+		<field name="therapitic_id">52</field>
+	</record>
+	<record>
+		<field name="generic_id">2279</field>
+		<field name="therapitic_id">399</field>
+	</record>
+	<record>
+		<field name="generic_id">1163</field>
+		<field name="therapitic_id">357</field>
+	</record>
+	<record>
+		<field name="generic_id">1408</field>
+		<field name="therapitic_id">357</field>
+	</record>
+	<record>
+		<field name="generic_id">1443</field>
+		<field name="therapitic_id">173</field>
+	</record>
+	<record>
+		<field name="generic_id">894</field>
+		<field name="therapitic_id">173</field>
+	</record>
+	<record>
+		<field name="generic_id">1326</field>
+		<field name="therapitic_id">393</field>
+	</record>
+	<record>
+		<field name="generic_id">623</field>
+		<field name="therapitic_id">393</field>
+	</record>
+	<record>
+		<field name="generic_id">870</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">883</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">1057</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">1059</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">1454</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">60</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">552</field>
+		<field name="therapitic_id">49</field>
+	</record>
+	<record>
+		<field name="generic_id">1163</field>
+		<field name="therapitic_id">113</field>
+	</record>
+	<record>
+		<field name="generic_id">1411</field>
+		<field name="therapitic_id">192</field>
+	</record>
+	<record>
+		<field name="generic_id">1797</field>
+		<field name="therapitic_id">196</field>
+	</record>
+	<record>
+		<field name="generic_id">245</field>
+		<field name="therapitic_id">152</field>
+	</record>
+	<record>
+		<field name="generic_id">1601</field>
+		<field name="therapitic_id">152</field>
+	</record>
+	<record>
+		<field name="generic_id">1155</field>
+		<field name="therapitic_id">164</field>
+	</record>
+	<record>
+		<field name="generic_id">1196</field>
+		<field name="therapitic_id">406</field>
+	</record>
+	<record>
+		<field name="generic_id">727</field>
+		<field name="therapitic_id">406</field>
+	</record>
+	<record>
+		<field name="generic_id">918</field>
+		<field name="therapitic_id">131</field>
+	</record>
+	<record>
+		<field name="generic_id">919</field>
+		<field name="therapitic_id">131</field>
+	</record>
+	<record>
+		<field name="generic_id">628</field>
+		<field name="therapitic_id">20</field>
+	</record>
+	<record>
+		<field name="generic_id">1351</field>
+		<field name="therapitic_id">20</field>
+	</record>
+	<record>
+		<field name="generic_id">1025</field>
+		<field name="therapitic_id">20</field>
+	</record>
+	<record>
+		<field name="generic_id">386</field>
+		<field name="therapitic_id">20</field>
+	</record>
+	<record>
+		<field name="generic_id">1162</field>
+		<field name="therapitic_id">20</field>
+	</record>
+	<record>
+		<field name="generic_id">1060</field>
+		<field name="therapitic_id">21</field>
+	</record>
+	<record>
+		<field name="generic_id">992</field>
+		<field name="therapitic_id">21</field>
+	</record>
+	<record>
+		<field name="generic_id">1090</field>
+		<field name="therapitic_id">21</field>
+	</record>
+	<record>
+		<field name="generic_id">1272</field>
+		<field name="therapitic_id">21</field>
+	</record>
+	<record>
+		<field name="generic_id">13</field>
+		<field name="therapitic_id">16</field>
+	</record>
+	<record>
+		<field name="generic_id">141</field>
+		<field name="therapitic_id">404</field>
+	</record>
+	<record>
+		<field name="generic_id">1161</field>
+		<field name="therapitic_id">404</field>
+	</record>
+	<record>
+		<field name="generic_id">1255</field>
+		<field name="therapitic_id">404</field>
+	</record>
+	<record>
+		<field name="generic_id">1282</field>
+		<field name="therapitic_id">404</field>
+	</record>
+	<record>
+		<field name="generic_id">1808</field>
+		<field name="therapitic_id">404</field>
+	</record>
+	<record>
+		<field name="generic_id">933</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">291</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">837</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">1081</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">1369</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">1448</field>
+		<field name="therapitic_id">402</field>
+	</record>
+	<record>
+		<field name="generic_id">60</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">552</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">870</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">883</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">1057</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">1059</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">1454</field>
+		<field name="therapitic_id">403</field>
+	</record>
+	<record>
+		<field name="generic_id">950</field>
+		<field name="therapitic_id">405</field>
+	</record>
+	<record>
+		<field name="generic_id">9</field>
+		<field name="therapitic_id">282</field>
+	</record>
+	<record>
+		<field name="generic_id">267</field>
+		<field name="therapitic_id">282</field>
+	</record>
+	<record>
+		<field name="generic_id">274</field>
+		<field name="therapitic_id">282</field>
+	</record>
+	<record>
+		<field name="generic_id">1287</field>
+		<field name="therapitic_id">282</field>
+	</record>
+	<record>
+		<field name="generic_id">270</field>
+		<field name="therapitic_id">282</field>
+	</record>
+	<record>
+		<field name="generic_id">19</field>
+		<field name="therapitic_id">224</field>
+	</record>
+	<record>
+		<field name="generic_id">851</field>
+		<field name="therapitic_id">224</field>
+	</record>
+	<record>
+		<field name="generic_id">1420</field>
+		<field name="therapitic_id">224</field>
+	</record>
+	<record>
+		<field name="generic_id">17</field>
+		<field name="therapitic_id">224</field>
+	</record>
+	<record>
+		<field name="generic_id">20</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">615</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">616</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">1131</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">1372</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">2259</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">2424</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">873</field>
+		<field name="therapitic_id">139</field>
+	</record>
+	<record>
+		<field name="generic_id">854</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1234</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1431</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">141</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1255</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1282</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1161</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">936</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">1808</field>
+		<field name="therapitic_id">54</field>
+	</record>
+	<record>
+		<field name="generic_id">141</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">936</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">1282</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">1808</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">1255</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">1161</field>
+		<field name="therapitic_id">64</field>
+	</record>
+	<record>
+		<field name="generic_id">749</field>
+		<field name="therapitic_id">160</field>
+	</record>
+	<record>
+		<field name="generic_id">750</field>
+		<field name="therapitic_id">160</field>
+	</record>
+	<record>
+		<field name="generic_id">754</field>
+		<field name="therapitic_id">160</field>
+	</record>
+	<record>
+		<field name="generic_id">751</field>
+		<field name="therapitic_id">160</field>
+	</record>
+	<record>
+		<field name="generic_id">1006</field>
+		<field name="therapitic_id">7</field>
+	</record>
+	<record>
+		<field name="generic_id">2766</field>
+		<field name="therapitic_id">7</field>
+	</record>
+	<record>
+		<field name="generic_id">157</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">531</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">618</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">911</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">1404</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">1411</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">2768</field>
+		<field name="therapitic_id">180</field>
+	</record>
+	<record>
+		<field name="generic_id">687</field>
+		<field name="therapitic_id">116</field>
+	</record>
+	<record>
+		<field name="generic_id">1914</field>
+		<field name="therapitic_id">116</field>
+	</record>
+	<record>
+		<field name="generic_id">414</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">727</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">893</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1095</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1142</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1143</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1147</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1148</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1159</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1196</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">1414</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">2772</field>
+		<field name="therapitic_id">99</field>
+	</record>
+	<record>
+		<field name="generic_id">2158</field>
+		<field name="therapitic_id">15</field>
+	</record>
+	<record>
+		<field name="generic_id">2770</field>
+		<field name="therapitic_id">15</field>
+	</record>
+	<record>
+		<field name="generic_id">591</field>
+		<field name="therapitic_id">96</field>
+	</record>
+	<record>
+		<field name="generic_id">1002</field>
+		<field name="therapitic_id">96</field>
+	</record>
+	<record>
+		<field name="generic_id">1453</field>
+		<field name="therapitic_id">96</field>
+	</record>
+	<record>
+		<field name="generic_id">2771</field>
+		<field name="therapitic_id">96</field>
+	</record>
+	<record>
+		<field name="generic_id">345</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1243</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1324</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1368</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1433</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1449</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1664</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1677</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">1836</field>
+		<field name="therapitic_id">130</field>
+	</record>
+	<record>
+		<field name="generic_id">133</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">136</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">818</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">961</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">1259</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">1333</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">2743</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">2692</field>
+		<field name="therapitic_id">253</field>
+	</record>
+	<record>
+		<field name="generic_id">2006</field>
+		<field name="therapitic_id">159</field>
+	</record>
+	<record>
+		<field name="generic_id">2007</field>
+		<field name="therapitic_id">159</field>
+	</record>
+	<record>
+		<field name="generic_id">2773</field>
+		<field name="therapitic_id">159</field>
+	</record>
+	<record>
+		<field name="generic_id">1422</field>
+		<field name="therapitic_id">412</field>
+	</record>
+	<record>
+		<field name="generic_id">1422</field>
+		<field name="therapitic_id">413</field>
+	</record>
+	<record>
+		<field name="generic_id">56</field>
+		<field name="therapitic_id">70</field>
+	</record>
+	<record>
+		<field name="generic_id">2779</field>
+		<field name="therapitic_id">70</field>
+	</record>
+	<record>
+		<field name="generic_id">134</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">135</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">416</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">562</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">624</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">1190</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">1393</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">2778</field>
+		<field name="therapitic_id">60</field>
+	</record>
+	<record>
+		<field name="generic_id">134</field>
+		<field name="therapitic_id">389</field>
+	</record>
+	<record>
+		<field name="generic_id">135</field>
+		<field name="therapitic_id">389</field>
+	</record>
+	<record>
+		<field name="generic_id">416</field>
+		<field name="therapitic_id">389</field>
+	</record>
+	<record>
+		<field name="generic_id">1190</field>
+		<field name="therapitic_id">389</field>
+	</record>
+	<record>
+		<field name="generic_id">2778</field>
+		<field name="therapitic_id">389</field>
+	</record>
+	<record>
+		<field name="generic_id">821</field>
+		<field name="therapitic_id">158</field>
+	</record>
+	<record>
+		<field name="generic_id">820</field>
+		<field name="therapitic_id">416</field>
+	</record>
+	<record>
+		<field name="generic_id">2005</field>
+		<field name="therapitic_id">416</field>
+	</record>
+	<record>
+		<field name="generic_id">2776</field>
+		<field name="therapitic_id">416</field>
+	</record>
+	<record>
+		<field name="generic_id">2784</field>
+		<field name="therapitic_id">416</field>
+	</record>
+	<record>
+		<field name="generic_id">835</field>
+		<field name="therapitic_id">71</field>
+	</record>
+	<record>
+		<field name="generic_id">836</field>
+		<field name="therapitic_id">71</field>
+	</record>
+	<record>
+		<field name="generic_id">2786</field>
+		<field name="therapitic_id">71</field>
+	</record>
+	<record>
+		<field name="generic_id">294</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">288</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">289</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">541</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">1032</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">862</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">966</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">967</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">2787</field>
+		<field name="therapitic_id">398</field>
+	</record>
+	<record>
+		<field name="generic_id">1314</field>
+		<field name="therapitic_id">40</field>
+	</record>
+	<record>
+		<field name="generic_id">2796</field>
+		<field name="therapitic_id">40</field>
+	</record>
+	<record>
+		<field name="generic_id">220</field>
+		<field name="therapitic_id">319</field>
+	</record>
+	<record>
+		<field name="generic_id">2795</field>
+		<field name="therapitic_id">319</field>
+	</record>
+	<record>
+		<field name="generic_id">112</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">113</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">114</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">123</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">204</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">205</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">2761</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">2797</field>
+		<field name="therapitic_id">251</field>
+	</record>
+	<record>
+		<field name="generic_id">115</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">116</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">431</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">433</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">450</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">455</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">466</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">716</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">1055</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">1221</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">1463</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">1465</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">2681</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">2759</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">2794</field>
+		<field name="therapitic_id">243</field>
+	</record>
+	<record>
+		<field name="generic_id">160</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">232</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">233</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">376</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">2753</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">2366</field>
+		<field name="therapitic_id">72</field>
+	</record>
+	<record>
+		<field name="generic_id">233</field>
+		<field name="therapitic_id">67</field>
+	</record>
+	<record>
+		<field name="generic_id">1267</field>
+		<field name="therapitic_id">67</field>
+	</record>
+	<record>
+		<field name="generic_id">1983</field>
+		<field name="therapitic_id">67</field>
+	</record>
+	<record>
+		<field name="generic_id">2366</field>
+		<field name="therapitic_id">67</field>
+	</record>
+	<record>
+		<field name="generic_id">719</field>
+		<field name="therapitic_id">67</field>
+	</record>
+	<record>
+		<field name="generic_id">2805</field>
+		<field name="therapitic_id">418</field>
+	</record>
+	<record>
+		<field name="generic_id">2806</field>
+		<field name="therapitic_id">419</field>
+	</record>
+	<record>
+		<field name="generic_id">2333</field>
+		<field name="therapitic_id">295</field>
+	</record>
+	<record>
+		<field name="generic_id">2491</field>
+		<field name="therapitic_id">295</field>
+	</record>
+	<record>
+		<field name="generic_id">1578</field>
+		<field name="therapitic_id">295</field>
+	</record>
+	<record>
+		<field name="generic_id">824</field>
+		<field name="therapitic_id">423</field>
+	</record>
+	<record>
+		<field name="generic_id">2003</field>
+		<field name="therapitic_id">423</field>
+	</record>
+	<record>
+		<field name="generic_id">2008</field>
+		<field name="therapitic_id">423</field>
+	</record>
+	<record>
+		<field name="generic_id">822</field>
+		<field name="therapitic_id">157</field>
+	</record>
+	<record>
+		<field name="generic_id">383</field>
+		<field name="therapitic_id">421</field>
+	</record>
+	<record>
+		<field name="generic_id">194</field>
+		<field name="therapitic_id">421</field>
+	</record>
+	<record>
+		<field name="generic_id">762</field>
+		<field name="therapitic_id">421</field>
+	</record>
+	<record>
+		<field name="generic_id">2810</field>
+		<field name="therapitic_id">421</field>
+	</record>
+	<record>
+		<field name="generic_id">625</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">982</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">1000</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">1006</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">1117</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">1247</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">1443</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">2071</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">2766</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">2811</field>
+		<field name="therapitic_id">279</field>
+	</record>
+	<record>
+		<field name="generic_id">2799</field>
+		<field name="therapitic_id">417</field>
+	</record>
+	<record>
+		<field name="generic_id">2812</field>
+		<field name="therapitic_id">417</field>
+	</record>
+	<record>
+		<field name="generic_id">468</field>
+		<field name="therapitic_id">137</field>
+	</record>
+	<record>
+		<field name="generic_id">2546</field>
+		<field name="therapitic_id">137</field>
+	</record>
+	<record>
+		<field name="generic_id">2813</field>
+		<field name="therapitic_id">137</field>
+	</record>
+	<record>
+		<field name="generic_id">291</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">837</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">933</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">1081</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">1369</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">1448</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">2814</field>
+		<field name="therapitic_id">31</field>
+	</record>
+	<record>
+		<field name="generic_id">1131</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">1238</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">2259</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">2780</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">2807</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">2815</field>
+		<field name="therapitic_id">140</field>
+	</record>
+	<record>
+		<field name="generic_id">1278</field>
+		<field name="therapitic_id">281</field>
+	</record>
+	<record>
+		<field name="generic_id">1361</field>
+		<field name="therapitic_id">281</field>
+	</record>
+	<record>
+		<field name="generic_id">2816</field>
+		<field name="therapitic_id">281</field>
+	</record>
+	<record>
+		<field name="generic_id">148</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">620</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">1084</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">1105</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">1106</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">1471</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">1472</field>
+		<field name="therapitic_id">300</field>
+	</record>
+	<record>
+		<field name="generic_id">939</field>
+		<field name="therapitic_id">385</field>
+	</record>
+	<record>
+		<field name="generic_id">940</field>
+		<field name="therapitic_id">385</field>
+	</record>
+	<record>
+		<field name="generic_id">1280</field>
+		<field name="therapitic_id">385</field>
+	</record>
+	<record>
+		<field name="generic_id">2818</field>
+		<field name="therapitic_id">385</field>
+	</record>
+	<record>
+		<field name="generic_id">2450</field>
+		<field name="therapitic_id">128</field>
+	</record>
+	<record>
+		<field name="generic_id">1328</field>
+		<field name="therapitic_id">128</field>
+	</record>
+	<record>
+		<field name="generic_id">51</field>
+		<field name="therapitic_id">128</field>
+	</record>
+	<record>
+		<field name="generic_id">740</field>
+		<field name="therapitic_id">128</field>
+	</record>
+	<record>
+		<field name="generic_id">332</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">308</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">869</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">990</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">1036</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">1210</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">1582</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">137</field>
+		<field name="therapitic_id">38</field>
+	</record>
+	<record>
+		<field name="generic_id">1507</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">460</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">653</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">2136</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">2165</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">2813</field>
+		<field name="therapitic_id">187</field>
+	</record>
+	<record>
+		<field name="generic_id">196</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">200</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">389</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">390</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">406</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">485</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">1045</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">2311</field>
+		<field name="therapitic_id">317</field>
+	</record>
+	<record>
+		<field name="generic_id">2765</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">312</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">313</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">315</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">316</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">318</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">321</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">322</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">324</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">326</field>
+		<field name="therapitic_id">124</field>
+	</record>
+	<record>
+		<field name="generic_id">2588</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">768</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1088</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">955</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">956</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1119</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1200</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1204</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1205</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">1201</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">366</field>
+		<field name="therapitic_id">408</field>
+	</record>
+	<record>
+		<field name="generic_id">100</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">102</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">1170</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">1171</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">522</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">524</field>
+		<field name="therapitic_id">255</field>
+	</record>
+	<record>
+		<field name="generic_id">122</field>
+		<field name="therapitic_id">245</field>
+	</record>
+	<record>
+		<field name="generic_id">124</field>
+		<field name="therapitic_id">245</field>
+	</record>
+	<record>
+		<field name="generic_id">1054</field>
+		<field name="therapitic_id">245</field>
+	</record>
+	<record>
+		<field name="generic_id">145</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">24</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">143</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">458</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">779</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">1436</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">1437</field>
+		<field name="therapitic_id">290</field>
+	</record>
+	<record>
+		<field name="generic_id">301</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">661</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">662</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">665</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">666</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">840</field>
+		<field name="therapitic_id">258</field>
+	</record>
+	<record>
+		<field name="generic_id">307</field>
+		<field name="therapitic_id">353</field>
+	</record>
+	<record>
+		<field name="generic_id">2263</field>
+		<field name="therapitic_id">353</field>
+	</record>
+	<record>
+		<field name="generic_id">668</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">667</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">128</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">302</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">449</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">600</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">601</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">604</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">663</field>
+		<field name="therapitic_id">261</field>
+	</record>
+	<record>
+		<field name="generic_id">674</field>
+		<field name="therapitic_id">185</field>
+	</record>
+	<record>
+		<field name="generic_id">476</field>
+		<field name="therapitic_id">185</field>
+	</record>
+	<record>
+		<field name="generic_id">930</field>
+		<field name="therapitic_id">185</field>
+	</record>
+	<record>
+		<field name="generic_id">759</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">871</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">872</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">1166</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">1273</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">2781</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">2775</field>
+		<field name="therapitic_id">18</field>
+	</record>
+	<record>
+		<field name="generic_id">809</field>
+		<field name="therapitic_id">285</field>
+	</record>
+	<record>
+		<field name="generic_id">15</field>
+		<field name="therapitic_id">285</field>
+	</record>
+	<record>
+		<field name="generic_id">1427</field>
+		<field name="therapitic_id">285</field>
+	</record>
+	<record>
+		<field name="generic_id">1840</field>
+		<field name="therapitic_id">285</field>
+	</record>
+	<record>
+		<field name="generic_id">855</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">28</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">885</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">952</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">1216</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">2286</field>
+		<field name="therapitic_id">149</field>
+	</record>
+	<record>
+		<field name="generic_id">896</field>
+		<field name="therapitic_id">321</field>
+	</record>
+	<record>
+		<field name="generic_id">238</field>
+		<field name="therapitic_id">321</field>
+	</record>
+	<record>
+		<field name="generic_id">239</field>
+		<field name="therapitic_id">321</field>
+	</record>
+	<record>
+		<field name="generic_id">921</field>
+		<field name="therapitic_id">345</field>
+	</record>
+	<record>
+		<field name="generic_id">942</field>
+		<field name="therapitic_id">345</field>
+	</record>
+	<record>
+		<field name="generic_id">973</field>
+		<field name="therapitic_id">108</field>
+	</record>
+	<record>
+		<field name="generic_id">863</field>
+		<field name="therapitic_id">108</field>
+	</record>
+	<record>
+		<field name="generic_id">1039</field>
+		<field name="therapitic_id">108</field>
+	</record>
+	<record>
+		<field name="generic_id">1124</field>
+		<field name="therapitic_id">108</field>
+	</record>
+	<record>
+		<field name="generic_id">979</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">752</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">753</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">755</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">976</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">977</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">978</field>
+		<field name="therapitic_id">165</field>
+	</record>
+	<record>
+		<field name="generic_id">986</field>
+		<field name="therapitic_id">41</field>
+	</record>
+	<record>
+		<field name="generic_id">415</field>
+		<field name="therapitic_id">41</field>
+	</record>
+	<record>
+		<field name="generic_id">1021</field>
+		<field name="therapitic_id">41</field>
+	</record>
+	<record>
+		<field name="generic_id">998</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">169</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">168</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">338</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">351</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">352</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">652</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">997</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">1237</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">1305</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">1311</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">2752</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">167</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">1182</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">2793</field>
+		<field name="therapitic_id">325</field>
+	</record>
+	<record>
+		<field name="generic_id">1043</field>
+		<field name="therapitic_id">209</field>
+	</record>
+	<record>
+		<field name="generic_id">194</field>
+		<field name="therapitic_id">209</field>
+	</record>
+	<record>
+		<field name="generic_id">1061</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">407</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">414</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">705</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">932</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">999</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">1094</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">1370</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">1474</field>
+		<field name="therapitic_id">85</field>
+	</record>
+	<record>
+		<field name="generic_id">1108</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">143</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">545</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">764</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">802</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">847</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1099</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1109</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1135</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1207</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1320</field>
+		<field name="therapitic_id">3</field>
+	</record>
+	<record>
+		<field name="generic_id">1140</field>
+		<field name="therapitic_id">193</field>
+	</record>
+	<record>
+		<field name="generic_id">1365</field>
+		<field name="therapitic_id">193</field>
+	</record>
+	<record>
+		<field name="generic_id">1416</field>
+		<field name="therapitic_id">193</field>
+	</record>
+	<record>
+		<field name="generic_id">1164</field>
+		<field name="therapitic_id">426</field>
+	</record>
+	<record>
+		<field name="generic_id">1185</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">826</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">828</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">829</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">1182</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">1186</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">1187</field>
+		<field name="therapitic_id">234</field>
+	</record>
+	<record>
+		<field name="generic_id">1208</field>
+		<field name="therapitic_id">296</field>
+	</record>
+	<record>
+		<field name="generic_id">1098</field>
+		<field name="therapitic_id">296</field>
+	</record>
+	<record>
+		<field name="generic_id">2391</field>
+		<field name="therapitic_id">296</field>
+	</record>
+	<record>
+		<field name="generic_id">1212</field>
+		<field name="therapitic_id">427</field>
+	</record>
+	<record>
+		<field name="generic_id">1236</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">2747</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">742</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">725</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">153</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">154</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">403</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1022</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1064</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1116</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1279</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1306</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">2389</field>
+		<field name="therapitic_id">204</field>
+	</record>
+	<record>
+		<field name="generic_id">1244</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">196</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">484</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">485</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">548</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">549</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">694</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">696</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">698</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">792</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">934</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">1194</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">2311</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">2749</field>
+		<field name="therapitic_id">286</field>
+	</record>
+	<record>
+		<field name="generic_id">1380</field>
+		<field name="therapitic_id">168</field>
+	</record>
+	<record>
+		<field name="generic_id">1379</field>
+		<field name="therapitic_id">168</field>
+	</record>
+	<record>
+		<field name="generic_id">2429</field>
+		<field name="therapitic_id">168</field>
+	</record>
+	<record>
+		<field name="generic_id">2430</field>
+		<field name="therapitic_id">168</field>
+	</record>
+	<record>
+		<field name="generic_id">1570</field>
+		<field name="therapitic_id">428</field>
+	</record>
+	<record>
+		<field name="generic_id">1600</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1154</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">895</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">201</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">202</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">203</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">221</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">222</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">575</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">879</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">880</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1152</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1153</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1396</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1397</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1398</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1419</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">1599</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">2449</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">2789</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">2809</field>
+		<field name="therapitic_id">291</field>
+	</record>
+	<record>
+		<field name="generic_id">2382</field>
+		<field name="therapitic_id">323</field>
+	</record>
+	<record>
+		<field name="generic_id">1709</field>
+		<field name="therapitic_id">323</field>
+	</record>
+	<record>
+		<field name="generic_id">273</field>
+		<field name="therapitic_id">323</field>
+	</record>
+	<record>
+		<field name="generic_id">271</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">265</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">505</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">506</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">507</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">509</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">510</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">511</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">512</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">513</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">514</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">516</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">517</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">518</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">519</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">520</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">521</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">720</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1173</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1174</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1285</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1291</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1313</field>
+		<field name="therapitic_id">257</field>
+	</record>
+	<record>
+		<field name="generic_id">1729</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">293</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">305</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">396</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">470</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">569</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">649</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">800</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">926</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">969</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1092</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1118</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1371</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1458</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1497</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1584</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1612</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1645</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1683</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1687</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1690</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1695</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1750</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1752</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1782</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1796</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1803</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1844</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2032</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2059</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2063</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2127</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2157</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2159</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2260</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2443</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2466</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">2498</field>
+		<field name="therapitic_id">310</field>
+	</record>
+	<record>
+		<field name="generic_id">1778</field>
+		<field name="therapitic_id">172</field>
+	</record>
+	<record>
+		<field name="generic_id">1777</field>
+		<field name="therapitic_id">172</field>
+	</record>
+	<record>
+		<field name="generic_id">1834</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">190</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">191</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">192</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">195</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">197</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">198</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">199</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">2563</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">2817</field>
+		<field name="therapitic_id">210</field>
+	</record>
+	<record>
+		<field name="generic_id">1839</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">1837</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">833</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">159</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">830</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">831</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">832</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">2027</field>
+		<field name="therapitic_id">341</field>
+	</record>
+	<record>
+		<field name="generic_id">1841</field>
+		<field name="therapitic_id">430</field>
+	</record>
+	<record>
+		<field name="generic_id">1918</field>
+		<field name="therapitic_id">431</field>
+	</record>
+	<record>
+		<field name="generic_id">2067</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">99</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">707</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">1362</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">1792</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">2069</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">2126</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">2473</field>
+		<field name="therapitic_id">312</field>
+	</record>
+	<record>
+		<field name="generic_id">2108</field>
+		<field name="therapitic_id">313</field>
+	</record>
+	<record>
+		<field name="generic_id">1145</field>
+		<field name="therapitic_id">313</field>
+	</record>
+	<record>
+		<field name="generic_id">532</field>
+		<field name="therapitic_id">313</field>
+	</record>
+	<record>
+		<field name="generic_id">103</field>
+		<field name="therapitic_id">313</field>
+	</record>
+	<record>
+		<field name="generic_id">2109</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">245</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">297</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">298</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">614</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">1189</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">1202</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">1253</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">1428</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">1601</field>
+		<field name="therapitic_id">320</field>
+	</record>
+	<record>
+		<field name="generic_id">2161</field>
+		<field name="therapitic_id">335</field>
+	</record>
+	<record>
+		<field name="generic_id">563</field>
+		<field name="therapitic_id">335</field>
+	</record>
+	<record>
+		<field name="generic_id">528</field>
+		<field name="therapitic_id">335</field>
+	</record>
+	<record>
+		<field name="generic_id">2227</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">464</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">478</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">589</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">642</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">643</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">644</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">645</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">894</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">938</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">1071</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">1075</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">1203</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">1699</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">1773</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">2061</field>
+		<field name="therapitic_id">171</field>
+	</record>
+	<record>
+		<field name="generic_id">2294</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">495</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">496</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">497</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">500</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">1510</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">1511</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">1512</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">1892</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">2288</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">2292</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">2295</field>
+		<field name="therapitic_id">256</field>
+	</record>
+	<record>
+		<field name="generic_id">2307</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">690</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">193</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">200</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">347</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">406</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">486</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">488</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">489</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">693</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">695</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">744</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">792</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">935</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">1042</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">1045</field>
+		<field name="therapitic_id">287</field>
+	</record>
+	<record>
+		<field name="generic_id">2322</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">412</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">638</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">1653</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">1654</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">1810</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">1814</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">1862</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">2130</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">2342</field>
+		<field name="therapitic_id">150</field>
+	</record>
+	<record>
+		<field name="generic_id">2442</field>
+		<field name="therapitic_id">88</field>
+	</record>
+	<record>
+		<field name="generic_id">366</field>
+		<field name="therapitic_id">88</field>
+	</record>
+	<record>
+		<field name="generic_id">555</field>
+		<field name="therapitic_id">88</field>
+	</record>
+	<record>
+		<field name="generic_id">1426</field>
+		<field name="therapitic_id">88</field>
+	</record>
+	<record>
+		<field name="generic_id">1805</field>
+		<field name="therapitic_id">88</field>
+	</record>
+	<record>
+		<field name="generic_id">2536</field>
+		<field name="therapitic_id">326</field>
+	</record>
+	<record>
+		<field name="generic_id">1647</field>
+		<field name="therapitic_id">326</field>
+	</record>
+	<record>
+		<field name="generic_id">868</field>
+		<field name="therapitic_id">326</field>
+	</record>
+	<record>
+		<field name="generic_id">2585</field>
+		<field name="therapitic_id">326</field>
+	</record>
+	<record>
+		<field name="generic_id">2557</field>
+		<field name="therapitic_id">231</field>
+	</record>
+	<record>
+		<field name="generic_id">146</field>
+		<field name="therapitic_id">231</field>
+	</record>
+	<record>
+		<field name="generic_id">559</field>
+		<field name="therapitic_id">231</field>
+	</record>
+	<record>
+		<field name="generic_id">2575</field>
+		<field name="therapitic_id">170</field>
+	</record>
+	<record>
+		<field name="generic_id">1029</field>
+		<field name="therapitic_id">170</field>
+	</record>
+	<record>
+		<field name="generic_id">2577</field>
+		<field name="therapitic_id">316</field>
+	</record>
+	<record>
+		<field name="generic_id">125</field>
+		<field name="therapitic_id">316</field>
+	</record>
+	<record>
+		<field name="generic_id">126</field>
+		<field name="therapitic_id">316</field>
+	</record>
+	<record>
+		<field name="generic_id">184</field>
+		<field name="therapitic_id">316</field>
+	</record>
+	<record>
+		<field name="generic_id">185</field>
+		<field name="therapitic_id">316</field>
+	</record>
+	<record>
+		<field name="generic_id">2581</field>
+		<field name="therapitic_id">347</field>
+	</record>
+	<record>
+		<field name="generic_id">176</field>
+		<field name="therapitic_id">347</field>
+	</record>
+	<record>
+		<field name="generic_id">1003</field>
+		<field name="therapitic_id">347</field>
+	</record>
+	<record>
+		<field name="generic_id">1004</field>
+		<field name="therapitic_id">347</field>
+	</record>
+	<record>
+		<field name="generic_id">1192</field>
+		<field name="therapitic_id">347</field>
+	</record>
+	<record>
+		<field name="generic_id">2589</field>
+		<field name="therapitic_id">297</field>
+	</record>
+	<record>
+		<field name="generic_id">692</field>
+		<field name="therapitic_id">297</field>
+	</record>
+	<record>
+		<field name="generic_id">1110</field>
+		<field name="therapitic_id">297</field>
+	</record>
+	<record>
+		<field name="generic_id">1146</field>
+		<field name="therapitic_id">297</field>
+	</record>
+	<record>
+		<field name="generic_id">2590</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">363</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">560</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">588</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">801</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">954</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">1141</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">1204</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">1205</field>
+		<field name="therapitic_id">183</field>
+	</record>
+	<record>
+		<field name="generic_id">2623</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">611</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">777</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">1641</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">1692</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">1746</field>
+		<field name="therapitic_id">58</field>
+	</record>
+	<record>
+		<field name="generic_id">2624</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">147</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">173</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">174</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">175</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">797</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">1574</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">2744</field>
+		<field name="therapitic_id">223</field>
+	</record>
+	<record>
+		<field name="generic_id">2626</field>
+		<field name="therapitic_id">271</field>
+	</record>
+	<record>
+		<field name="generic_id">1230</field>
+		<field name="therapitic_id">271</field>
+	</record>
+	<record>
+		<field name="generic_id">1331</field>
+		<field name="therapitic_id">271</field>
+	</record>
+	<record>
+		<field name="generic_id">2627</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">21</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">53</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">54</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">505</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">509</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">510</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">511</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">512</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">514</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">521</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">1519</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">2790</field>
+		<field name="therapitic_id">254</field>
+	</record>
+	<record>
+		<field name="generic_id">2628</field>
+		<field name="therapitic_id">355</field>
+	</record>
+	<record>
+		<field name="generic_id">55</field>
+		<field name="therapitic_id">355</field>
+	</record>
+	<record>
+		<field name="generic_id">1417</field>
+		<field name="therapitic_id">355</field>
+	</record>
+	<record>
+		<field name="generic_id">2630</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">810</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">626</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">653</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">1321</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">1357</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">1418</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">1578</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">1617</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">2219</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">811</field>
+		<field name="therapitic_id">318</field>
+	</record>
+	<record>
+		<field name="generic_id">2633</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">2384</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">1198</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">1067</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">214</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">1056</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">1103</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">1104</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">2324</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">2367</field>
+		<field name="therapitic_id">348</field>
+	</record>
+	<record>
+		<field name="generic_id">2646</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">2076</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">35</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">442</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">638</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">938</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">1071</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">1203</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">1737</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">1773</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">2125</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">2802</field>
+		<field name="therapitic_id">169</field>
+	</record>
+	<record>
+		<field name="generic_id">1129</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">397</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">634</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">701</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">714</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">1129</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">1274</field>
+		<field name="therapitic_id">94</field>
+	</record>
+	<record>
+		<field name="generic_id">2652</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">40</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">41</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">42</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">43</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">44</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">45</field>
+		<field name="therapitic_id">379</field>
+	</record>
+	<record>
+		<field name="generic_id">2652</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">40</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">41</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">42</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">43</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">44</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">45</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">211</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">939</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">940</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">941</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">1168</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">1169</field>
+		<field name="therapitic_id">8</field>
+	</record>
+	<record>
+		<field name="generic_id">2656</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">2685</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">6</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">7</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">330</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">491</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">492</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">534</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">536</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">538</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">539</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">636</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">647</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">706</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">799</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">808</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">816</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">863</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">882</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">959</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">962</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1031</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1093</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1160</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1270</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1338</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1340</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1373</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1408</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1409</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">1913</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">2053</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">2451</field>
+		<field name="therapitic_id">176</field>
+	</record>
+	<record>
+		<field name="generic_id">2656</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">2685</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">6</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">7</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">330</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">491</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">492</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">534</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">536</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">538</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">539</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">636</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">647</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">706</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">808</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">816</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">959</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">962</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1031</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1093</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1160</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1270</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1307</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1340</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1373</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">1409</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">2053</field>
+		<field name="therapitic_id">273</field>
+	</record>
+	<record>
+		<field name="generic_id">2684</field>
+		<field name="therapitic_id">10</field>
+	</record>
+	<record>
+		<field name="generic_id">72</field>
+		<field name="therapitic_id">10</field>
+	</record>
+	<record>
+		<field name="generic_id">73</field>
+		<field name="therapitic_id">10</field>
+	</record>
+	<record>
+		<field name="generic_id">2648</field>
+		<field name="therapitic_id">10</field>
+	</record>
+	<record>
+		<field name="generic_id">2689</field>
+		<field name="therapitic_id">422</field>
+	</record>
+	<record>
+		<field name="generic_id">536</field>
+		<field name="therapitic_id">422</field>
+	</record>
+	<record>
+		<field name="generic_id">808</field>
+		<field name="therapitic_id">422</field>
+	</record>
+	<record>
+		<field name="generic_id">2689</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">2685</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">2656</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">650</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">6</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">7</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">330</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">491</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">492</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">534</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">536</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">538</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">539</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">636</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">647</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">706</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">808</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">816</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">959</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">962</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">971</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1031</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1093</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1160</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1270</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1340</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1373</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1408</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">1409</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">2053</field>
+		<field name="therapitic_id">175</field>
+	</record>
+	<record>
+		<field name="generic_id">2702</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2492</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2523</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">460</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1499</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1507</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1536</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1565</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1673</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1715</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1716</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1717</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1718</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1872</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1884</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1888</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1891</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1894</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1895</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1906</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1909</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1928</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1929</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">1944</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2084</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2091</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2114</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2128</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2129</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2230</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2290</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2323</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2326</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2331</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2432</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2493</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2636</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2670</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2327</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2808</field>
+		<field name="therapitic_id">314</field>
+	</record>
+	<record>
+		<field name="generic_id">2704</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">60</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">1059</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">883</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">870</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">552</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">1454</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">1057</field>
+		<field name="therapitic_id">411</field>
+	</record>
+	<record>
+		<field name="generic_id">2707</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">1776</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">504</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">25</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">909</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">908</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">110</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">912</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">913</field>
+		<field name="therapitic_id">397</field>
+	</record>
+	<record>
+		<field name="generic_id">2708</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">339</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">475</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">594</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">673</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">899</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">900</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">929</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">1008</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">1258</field>
+		<field name="therapitic_id">184</field>
+	</record>
+	<record>
+		<field name="generic_id">2711</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">2709</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">479</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">773</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">774</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">1010</field>
+		<field name="therapitic_id">334</field>
+	</record>
+	<record>
+		<field name="generic_id">2728</field>
+		<field name="therapitic_id">360</field>
+	</record>
+	<record>
+		<field name="generic_id">2379</field>
+		<field name="therapitic_id">360</field>
+	</record>
+	<record>
+		<field name="generic_id">2741</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">493</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">635</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">877</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">1086</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">1122</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">1229</field>
+		<field name="therapitic_id">2</field>
+	</record>
+	<record>
+		<field name="generic_id">2741</field>
+		<field name="therapitic_id">374</field>
+	</record>
+	<record>
+		<field name="generic_id">635</field>
+		<field name="therapitic_id">374</field>
+	</record>
+	<record>
+		<field name="generic_id">1086</field>
+		<field name="therapitic_id">374</field>
+	</record>
+	<record>
+		<field name="generic_id">1122</field>
+		<field name="therapitic_id">374</field>
+	</record>
+	<record>
+		<field name="generic_id">1229</field>
+		<field name="therapitic_id">374</field>
+	</record>
+	<record>
+		<field name="generic_id">2741</field>
+		<field name="therapitic_id">383</field>
+	</record>
+	<record>
+		<field name="generic_id">635</field>
+		<field name="therapitic_id">383</field>
+	</record>
+	<record>
+		<field name="generic_id">1086</field>
+		<field name="therapitic_id">383</field>
+	</record>
+	<record>
+		<field name="generic_id">1122</field>
+		<field name="therapitic_id">383</field>
+	</record>
+	<record>
+		<field name="generic_id">1229</field>
+		<field name="therapitic_id">383</field>
+	</record>
+	<record>
+		<field name="generic_id">2756</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1383</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1382</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1044</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1020</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">151</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">155</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">156</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">170</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">183</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">346</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">349</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">388</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">734</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">743</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">766</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">902</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">903</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">925</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1033</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1079</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1112</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1341</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1342</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1382</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">1406</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">2748</field>
+		<field name="therapitic_id">283</field>
+	</record>
+	<record>
+		<field name="generic_id">2757</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">189</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">490</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">789</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">983</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">984</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">985</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">1193</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">1701</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">1422</field>
+		<field name="therapitic_id">167</field>
+	</record>
+	<record>
+		<field name="generic_id">2762</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">244</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">420</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">595</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">596</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">660</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">689</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">859</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">995</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">1096</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">1376</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">1401</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">1402</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">2572</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">2754</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">2801</field>
+		<field name="therapitic_id">206</field>
+	</record>
+	<record>
+		<field name="generic_id">2763</field>
+		<field name="therapitic_id">269</field>
+	</record>
+	<record>
+		<field name="generic_id">29</field>
+		<field name="therapitic_id">269</field>
+	</record>
+	<record>
+		<field name="generic_id">1482</field>
+		<field name="therapitic_id">269</field>
+	</record>
+	<record>
+		<field name="generic_id">2347</field>
+		<field name="therapitic_id">269</field>
+	</record>
+	<record>
+		<field name="generic_id">807</field>
+		<field name="therapitic_id">269</field>
+	</record>
+	<record>
+		<field name="generic_id">2783</field>
+		<field name="therapitic_id">425</field>
+	</record>
+	<record>
+		<field name="generic_id">182</field>
+		<field name="therapitic_id">425</field>
+	</record>
+	<record>
+		<field name="generic_id">2788</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">2735</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">123</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">130</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">303</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">443</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">602</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">603</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">669</field>
+		<field name="therapitic_id">262</field>
+	</record>
+	<record>
+		<field name="generic_id">2791</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2700</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2701</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2699</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">806</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">805</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2381</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2301</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">306</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">461</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">498</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">499</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">760</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">804</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">1167</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">1179</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">1183</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">1308</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2782</field>
+		<field name="therapitic_id">292</field>
+	</record>
+	<record>
+		<field name="generic_id">2803</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">259</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">117</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">118</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">121</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">219</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">252</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">256</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">717</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">1051</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">2767</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">2764</field>
+		<field name="therapitic_id">247</field>
+	</record>
+	<record>
+		<field name="generic_id">308</field>
+		<field name="therapitic_id">39</field>
+	</record>
+	<record>
+		<field name="generic_id">31</field>
+		<field name="therapitic_id">39</field>
+	</record>
+	<record>
+		<field name="generic_id">869</field>
+		<field name="therapitic_id">39</field>
+	</record>
+	<record>
+		<field name="generic_id">1191</field>
+		<field name="therapitic_id">39</field>
+	</record>
+	<record>
+		<field name="generic_id">1374</field>
+		<field name="therapitic_id">39</field>
+	</record>
+	<record>
+		<field name="generic_id">2819</field>
+		<field name="therapitic_id">433</field>
+	</record>
+	<record>
+		<field name="generic_id">2820</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">469</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">592</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">676</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">677</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">1320</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">1363</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">1374</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">1412</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">2777</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">2798</field>
+		<field name="therapitic_id">277</field>
+	</record>
+	<record>
+		<field name="generic_id">2821</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">473</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">579</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">1111</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">1381</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">1395</field>
+		<field name="therapitic_id">127</field>
+	</record>
+	<record>
+		<field name="generic_id">2828</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">422</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">726</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">744</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">790</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">791</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">793</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">794</field>
+		<field name="therapitic_id">213</field>
+	</record>
+	<record>
+		<field name="generic_id">2225</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">386</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">733</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">738</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">901</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">924</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">1018</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">1019</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">1078</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">1130</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">1323</field>
+		<field name="therapitic_id">133</field>
+	</record>
+	<record>
+		<field name="generic_id">2829</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">425</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">106</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">1080</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">1226</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">1246</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">1481</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">2800</field>
+		<field name="therapitic_id">91</field>
+	</record>
+	<record>
+		<field name="generic_id">2584</field>
+		<field name="therapitic_id">432</field>
+	</record>
+	<record>
+		<field name="generic_id">2586</field>
+		<field name="therapitic_id">432</field>
+	</record>
+	<record>
+		<field name="generic_id">2553</field>
+		<field name="therapitic_id">432</field>
+	</record>
+	<record>
+		<field name="generic_id">2625</field>
+		<field name="therapitic_id">432</field>
+	</record>
+	<record>
+		<field name="generic_id">916</field>
+		<field name="therapitic_id">432</field>
+	</record>
+	<record>
+		<field name="generic_id">2550</field>
+		<field name="therapitic_id">221</field>
+	</record>
+	<record>
+		<field name="generic_id">1264</field>
+		<field name="therapitic_id">221</field>
+	</record>
+	<record>
+		<field name="generic_id">2362</field>
+		<field name="therapitic_id">221</field>
+	</record>
+</table></tables>
