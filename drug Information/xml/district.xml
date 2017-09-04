@@ -1,0 +1,259 @@
+
+<table name="district">
+	<record>
+		<field name="id">1</field>
+		<field name="name">DHAKA</field>
+	</record>
+	<record>
+		<field name="id">2</field>
+		<field name="name">BAGERHAT</field>
+	</record>
+	<record>
+		<field name="id">3</field>
+		<field name="name">BANDARBAN</field>
+	</record>
+	<record>
+		<field name="id">4</field>
+		<field name="name">BARGUNA</field>
+	</record>
+	<record>
+		<field name="id">5</field>
+		<field name="name">BARISAL</field>
+	</record>
+	<record>
+		<field name="id">6</field>
+		<field name="name">BHOLA</field>
+	</record>
+	<record>
+		<field name="id">7</field>
+		<field name="name">BOGRA</field>
+	</record>
+	<record>
+		<field name="id">8</field>
+		<field name="name">BRAHMANRIA</field>
+	</record>
+	<record>
+		<field name="id">9</field>
+		<field name="name">CHANDPUR</field>
+	</record>
+	<record>
+		<field name="id">10</field>
+		<field name="name">CHAPAINAWABGANJ</field>
+	</record>
+	<record>
+		<field name="id">11</field>
+		<field name="name">CHITTAGONG</field>
+	</record>
+	<record>
+		<field name="id">12</field>
+		<field name="name">CHUADANGA</field>
+	</record>
+	<record>
+		<field name="id">13</field>
+		<field name="name">COMILLA</field>
+	</record>
+	<record>
+		<field name="id">14</field>
+		<field name="name">COX&apos;S BAZAR</field>
+	</record>
+	<record>
+		<field name="id">15</field>
+		<field name="name">DINAJPUR</field>
+	</record>
+	<record>
+		<field name="id">16</field>
+		<field name="name">FARIDPUR</field>
+	</record>
+	<record>
+		<field name="id">17</field>
+		<field name="name">FENI</field>
+	</record>
+	<record>
+		<field name="id">18</field>
+		<field name="name">GAIBANDHA</field>
+	</record>
+	<record>
+		<field name="id">19</field>
+		<field name="name">GAZIPUR</field>
+	</record>
+	<record>
+		<field name="id">20</field>
+		<field name="name">GOPALGANJ </field>
+	</record>
+	<record>
+		<field name="id">21</field>
+		<field name="name">HABIGANJ </field>
+	</record>
+	<record>
+		<field name="id">22</field>
+		<field name="name">JAMALPUR</field>
+	</record>
+	<record>
+		<field name="id">23</field>
+		<field name="name">JESSORE</field>
+	</record>
+	<record>
+		<field name="id">24</field>
+		<field name="name">JHALAKATI </field>
+	</record>
+	<record>
+		<field name="id">25</field>
+		<field name="name">JHENAIDAH </field>
+	</record>
+	<record>
+		<field name="id">26</field>
+		<field name="name">JOYPURHAT </field>
+	</record>
+	<record>
+		<field name="id">27</field>
+		<field name="name">KHAGRACHHARI </field>
+	</record>
+	<record>
+		<field name="id">28</field>
+		<field name="name">KHULNA</field>
+	</record>
+	<record>
+		<field name="id">29</field>
+		<field name="name">KISHOREGANJ </field>
+	</record>
+	<record>
+		<field name="id">30</field>
+		<field name="name">KURIGRAM </field>
+	</record>
+	<record>
+		<field name="id">31</field>
+		<field name="name">KUSHTIA </field>
+	</record>
+	<record>
+		<field name="id">32</field>
+		<field name="name">LAKSHMIPUR</field>
+	</record>
+	<record>
+		<field name="id">33</field>
+		<field name="name">LALMONIRHAT </field>
+	</record>
+	<record>
+		<field name="id">34</field>
+		<field name="name">MADARIPUR </field>
+	</record>
+	<record>
+		<field name="id">35</field>
+		<field name="name">MAGURA </field>
+	</record>
+	<record>
+		<field name="id">36</field>
+		<field name="name">MANIKGANJ </field>
+	</record>
+	<record>
+		<field name="id">37</field>
+		<field name="name">MEHERPUR </field>
+	</record>
+	<record>
+		<field name="id">38</field>
+		<field name="name">MOULVIBAZAR </field>
+	</record>
+	<record>
+		<field name="id">39</field>
+		<field name="name">MUNSHIGANJ </field>
+	</record>
+	<record>
+		<field name="id">40</field>
+		<field name="name">MYMENSINGH </field>
+	</record>
+	<record>
+		<field name="id">41</field>
+		<field name="name">NAOGAON </field>
+	</record>
+	<record>
+		<field name="id">42</field>
+		<field name="name">NARAIL </field>
+	</record>
+	<record>
+		<field name="id">43</field>
+		<field name="name">NARAYANGANJ </field>
+	</record>
+	<record>
+		<field name="id">44</field>
+		<field name="name">NARSINGDI </field>
+	</record>
+	<record>
+		<field name="id">45</field>
+		<field name="name">NATORE </field>
+	</record>
+	<record>
+		<field name="id">46</field>
+		<field name="name">NETROKONA </field>
+	</record>
+	<record>
+		<field name="id">47</field>
+		<field name="name">NILPHAMARI </field>
+	</record>
+	<record>
+		<field name="id">48</field>
+		<field name="name">NOAKHALI </field>
+	</record>
+	<record>
+		<field name="id">49</field>
+		<field name="name">PABNA </field>
+	</record>
+	<record>
+		<field name="id">50</field>
+		<field name="name">PANCHAGARH </field>
+	</record>
+	<record>
+		<field name="id">51</field>
+		<field name="name">PATUAKHALI </field>
+	</record>
+	<record>
+		<field name="id">52</field>
+		<field name="name">PIROJPUR </field>
+	</record>
+	<record>
+		<field name="id">53</field>
+		<field name="name">RAJBARI </field>
+	</record>
+	<record>
+		<field name="id">54</field>
+		<field name="name">RAJSHAHI</field>
+	</record>
+	<record>
+		<field name="id">55</field>
+		<field name="name">RANGAMATI </field>
+	</record>
+	<record>
+		<field name="id">56</field>
+		<field name="name">RANGPUR </field>
+	</record>
+	<record>
+		<field name="id">57</field>
+		<field name="name">SATKHIRA </field>
+	</record>
+	<record>
+		<field name="id">58</field>
+		<field name="name">SHARIATPUR </field>
+	</record>
+	<record>
+		<field name="id">59</field>
+		<field name="name">SHERPUR </field>
+	</record>
+	<record>
+		<field name="id">60</field>
+		<field name="name">SIRAJGANJ </field>
+	</record>
+	<record>
+		<field name="id">61</field>
+		<field name="name">SUNAMGANJ </field>
+	</record>
+	<record>
+		<field name="id">62</field>
+		<field name="name">SYLHET </field>
+	</record>
+	<record>
+		<field name="id">63</field>
+		<field name="name">TANGAIL </field>
+	</record>
+	<record>
+		<field name="id">64</field>
+		<field name="name">THAKURGAON</field>
+	</record>
+</table></tables>
