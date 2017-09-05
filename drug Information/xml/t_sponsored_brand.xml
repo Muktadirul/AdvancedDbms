@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_sponsored_brand">
+	<fields>
+		<field name="brand_id" type="Text"/>
+		<field name="generic_id" type="Text"/>
+	</fields>
+	<record>
+		<field name="brand_id">311</field>
+		<field name="generic_id">492</field>
+	</record>
+	<record>
+		<field name="brand_id">349</field>
+		<field name="generic_id">781</field>
+	</record>
+	<record>
+		<field name="brand_id">350</field>
+		<field name="generic_id">781</field>
+	</record>
+	<record>
+		<field name="brand_id">420</field>
+		<field name="generic_id">1089</field>
+	</record>
+	<record>
+		<field name="brand_id">467</field>
+		<field name="generic_id">24</field>
+	</record>
+	<record>
+		<field name="brand_id">723</field>
+		<field name="generic_id">1141</field>
+	</record>
+	<record>
+		<field name="brand_id">739</field>
+		<field name="generic_id">31</field>
+	</record>
+	<record>
+		<field name="brand_id">847</field>
+		<field name="generic_id">668</field>
+	</record>
+	<record>
+		<field name="brand_id">849</field>
+		<field name="generic_id">601</field>
+	</record>
+	<record>
+		<field name="brand_id">850</field>
+		<field name="generic_id">128</field>
+	</record>
+	<record>
+		<field name="brand_id">863</field>
+		<field name="generic_id">1230</field>
+	</record>
+	<record>
+		<field name="brand_id">911</field>
+		<field name="generic_id">34</field>
+	</record>
+	<record>
+		<field name="brand_id">941</field>
+		<field name="generic_id">41</field>
+	</record>
+	<record>
+		<field name="brand_id">942</field>
+		<field name="generic_id">44</field>
+	</record>
+	<record>
+		<field name="brand_id">1023</field>
+		<field name="generic_id">572</field>
+	</record>
+	<record>
+		<field name="brand_id">1046</field>
+		<field name="generic_id">832</field>
+	</record>
+	<record>
+		<field name="brand_id">1047</field>
+		<field name="generic_id">832</field>
+	</record>
+	<record>
+		<field name="brand_id">1064</field>
+		<field name="generic_id">51</field>
+	</record>
+	<record>
+		<field name="brand_id">1065</field>
+		<field name="generic_id">51</field>
+	</record>
+	<record>
+		<field name="brand_id">1142</field>
+		<field name="generic_id">60</field>
+	</record>
+	<record>
+		<field name="brand_id">1462</field>
+		<field name="generic_id">1388</field>
+	</record>
+	<record>
+		<field name="brand_id">1463</field>
+		<field name="generic_id">1388</field>
+	</record>
+	<record>
+		<field name="brand_id">1486</field>
+		<field name="generic_id">849</field>
+	</record>
+	<record>
+		<field name="brand_id">1740</field>
+		<field name="generic_id">17</field>
+	</record>
+	<record>
+		<field name="brand_id">1835</field>
+		<field name="generic_id">1166</field>
+	</record>
+	<record>
+		<field name="brand_id">1838</field>
+		<field name="generic_id">770</field>
+	</record>
+	<record>
+		<field name="brand_id">1887</field>
+		<field name="generic_id">106</field>
+	</record>
+	<record>
+		<field name="brand_id">1888</field>
+		<field name="generic_id">106</field>
+	</record>
+	<record>
+		<field name="brand_id">1998</field>
+		<field name="generic_id">397</field>
+	</record>
+	<record>
+		<field name="brand_id">2002</field>
+		<field name="generic_id">108</field>
+	</record>
+	<record>
+		<field name="brand_id">2438</field>
+		<field name="generic_id">148</field>
+	</record>
+	<record>
+		<field name="brand_id">2540</field>
+		<field name="generic_id">152</field>
+	</record>
+	<record>
+		<field name="brand_id">2680</field>
+		<field name="generic_id">158</field>
+	</record>
+	<record>
+		<field name="brand_id">2681</field>
+		<field name="generic_id">158</field>
+	</record>
+	<record>
+		<field name="brand_id">2682</field>
+		<field name="generic_id">158</field>
+	</record>
+	<record>
+		<field name="brand_id">2689</field>
+		<field name="generic_id">1142</field>
+	</record>
+	<record>
+		<field name="brand_id">2690</field>
+		<field name="generic_id">1143</field>
+	</record>
+	<record>
+		<field name="brand_id">2795</field>
+		<field name="generic_id">63</field>
+	</record>
+	<record>
+		<field name="brand_id">2796</field>
+		<field name="generic_id">63</field>
+	</record>
+	<record>
+		<field name="brand_id">2797</field>
+		<field name="generic_id">63</field>
+	</record>
+	<record>
+		<field name="brand_id">2798</field>
+		<field name="generic_id">63</field>
+	</record>
+	<record>
+		<field name="brand_id">2902</field>
+		<field name="generic_id">183</field>
+	</record>
+	<record>
+		<field name="brand_id">2930</field>
+		<field name="generic_id">196</field>
+	</record>
+	<record>
+		<field name="brand_id">2931</field>
+		<field name="generic_id">199</field>
+	</record>
+	<record>
+		<field name="brand_id">2945</field>
+		<field name="generic_id">195</field>
+	</record>
+	<record>
+		<field name="brand_id">2971</field>
+		<field name="generic_id">182</field>
+	</record>
+	<record>
+		<field name="brand_id">3012</field>
+		<field name="generic_id">388</field>
+	</record>
+	<record>
+		<field name="brand_id">3014</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">3015</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">3016</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">3017</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">3018</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">3214</field>
+		<field name="generic_id">29</field>
+	</record>
+	<record>
+		<field name="brand_id">3215</field>
+		<field name="generic_id">30</field>
+	</record>
+	<record>
+		<field name="brand_id">3271</field>
+		<field name="generic_id">221</field>
+	</record>
+	<record>
+		<field name="brand_id">3272</field>
+		<field name="generic_id">222</field>
+	</record>
+	<record>
+		<field name="brand_id">3401</field>
+		<field name="generic_id">233</field>
+	</record>
+	<record>
+		<field name="brand_id">3402</field>
+		<field name="generic_id">233</field>
+	</record>
+	<record>
+		<field name="brand_id">3403</field>
+		<field name="generic_id">233</field>
+	</record>
+	<record>
+		<field name="brand_id">3407</field>
+		<field name="generic_id">235</field>
+	</record>
+	<record>
+		<field name="brand_id">3418</field>
+		<field name="generic_id">236</field>
+	</record>
+	<record>
+		<field name="brand_id">3419</field>
+		<field name="generic_id">236</field>
+	</record>
+	<record>
+		<field name="brand_id">3420</field>
+		<field name="generic_id">236</field>
+	</record>
+	<record>
+		<field name="brand_id">3573</field>
+		<field name="generic_id">258</field>
+	</record>
+	<record>
+		<field name="brand_id">3574</field>
+		<field name="generic_id">258</field>
+	</record>
+	<record>
+		<field name="brand_id">3677</field>
+		<field name="generic_id">219</field>
+	</record>
+	<record>
+		<field name="brand_id">3826</field>
+		<field name="generic_id">716</field>
+	</record>
+	<record>
+		<field name="brand_id">3870</field>
+		<field name="generic_id">296</field>
+	</record>
+	<record>
+		<field name="brand_id">3871</field>
+		<field name="generic_id">296</field>
+	</record>
+	<record>
+		<field name="brand_id">3872</field>
+		<field name="generic_id">296</field>
+	</record>
+	<record>
+		<field name="brand_id">3941</field>
+		<field name="generic_id">308</field>
+	</record>
+	<record>
+		<field name="brand_id">3942</field>
+		<field name="generic_id">308</field>
+	</record>
+	<record>
+		<field name="brand_id">3943</field>
+		<field name="generic_id">308</field>
+	</record>
+	<record>
+		<field name="brand_id">3960</field>
+		<field name="generic_id">22</field>
+	</record>
+	<record>
+		<field name="brand_id">3971</field>
+		<field name="generic_id">259</field>
+	</record>
+	<record>
+		<field name="brand_id">4014</field>
+		<field name="generic_id">1464</field>
+	</record>
+	<record>
+		<field name="brand_id">4195</field>
+		<field name="generic_id">318</field>
+	</record>
+	<record>
+		<field name="brand_id">4196</field>
+		<field name="generic_id">318</field>
+	</record>
+	<record>
+		<field name="brand_id">4197</field>
+		<field name="generic_id">318</field>
+	</record>
+	<record>
+		<field name="brand_id">4331</field>
+		<field name="generic_id">1238</field>
+	</record>
+	<record>
+		<field name="brand_id">4339</field>
+		<field name="generic_id">330</field>
+	</record>
+	<record>
+		<field name="brand_id">4340</field>
+		<field name="generic_id">330</field>
+	</record>
+	<record>
+		<field name="brand_id">4367</field>
+		<field name="generic_id">1422</field>
+	</record>
+	<record>
+		<field name="brand_id">4368</field>
+		<field name="generic_id">1422</field>
+	</record>
+	<record>
+		<field name="brand_id">4885</field>
+		<field name="generic_id">377</field>
+	</record>
+	<record>
+		<field name="brand_id">4950</field>
+		<field name="generic_id">2572</field>
+	</record>
+	<record>
+		<field name="brand_id">5005</field>
+		<field name="generic_id">405</field>
+	</record>
+	<record>
+		<field name="brand_id">5264</field>
+		<field name="generic_id">431</field>
+	</record>
+	<record>
+		<field name="brand_id">5321</field>
+		<field name="generic_id">251</field>
+	</record>
+	<record>
+		<field name="brand_id">5322</field>
+		<field name="generic_id">251</field>
+	</record>
+	<record>
+		<field name="brand_id">5381</field>
+		<field name="generic_id">976</field>
+	</record>
+	<record>
+		<field name="brand_id">5382</field>
+		<field name="generic_id">976</field>
+	</record>
+	<record>
+		<field name="brand_id">5383</field>
+		<field name="generic_id">840</field>
+	</record>
+	<record>
+		<field name="brand_id">5384</field>
+		<field name="generic_id">840</field>
+	</record>
+	<record>
+		<field name="brand_id">5465</field>
+		<field name="generic_id">1194</field>
+	</record>
+	<record>
+		<field name="brand_id">5685</field>
+		<field name="generic_id">1202</field>
+	</record>
+	<record>
+		<field name="brand_id">5686</field>
+		<field name="generic_id">1202</field>
+	</record>
+	<record>
+		<field name="brand_id">5854</field>
+		<field name="generic_id">469</field>
+	</record>
+	<record>
+		<field name="brand_id">6089</field>
+		<field name="generic_id">1376</field>
+	</record>
+	<record>
+		<field name="brand_id">6290</field>
+		<field name="generic_id">489</field>
+	</record>
+	<record>
+		<field name="brand_id">6579</field>
+		<field name="generic_id">1415</field>
+	</record>
+	<record>
+		<field name="brand_id">6581</field>
+		<field name="generic_id">1436</field>
+	</record>
+	<record>
+		<field name="brand_id">6582</field>
+		<field name="generic_id">1437</field>
+	</record>
+	<record>
+		<field name="brand_id">6583</field>
+		<field name="generic_id">1146</field>
+	</record>
+	<record>
+		<field name="brand_id">6670</field>
+		<field name="generic_id">558</field>
+	</record>
+	<record>
+		<field name="brand_id">6777</field>
+		<field name="generic_id">568</field>
+	</record>
+	<record>
+		<field name="brand_id">6924</field>
+		<field name="generic_id">1367</field>
+	</record>
+	<record>
+		<field name="brand_id">6972</field>
+		<field name="generic_id">577</field>
+	</record>
+	<record>
+		<field name="brand_id">7029</field>
+		<field name="generic_id">590</field>
+	</record>
+	<record>
+		<field name="brand_id">7060</field>
+		<field name="generic_id">591</field>
+	</record>
+	<record>
+		<field name="brand_id">7061</field>
+		<field name="generic_id">591</field>
+	</record>
+	<record>
+		<field name="brand_id">7217</field>
+		<field name="generic_id">596</field>
+	</record>
+	<record>
+		<field name="brand_id">7218</field>
+		<field name="generic_id">596</field>
+	</record>
+	<record>
+		<field name="brand_id">7220</field>
+		<field name="generic_id">595</field>
+	</record>
+	<record>
+		<field name="brand_id">7254</field>
+		<field name="generic_id">722</field>
+	</record>
+	<record>
+		<field name="brand_id">7255</field>
+		<field name="generic_id">722</field>
+	</record>
+	<record>
+		<field name="brand_id">7290</field>
+		<field name="generic_id">647</field>
+	</record>
+	<record>
+		<field name="brand_id">7291</field>
+		<field name="generic_id">647</field>
+	</record>
+	<record>
+		<field name="brand_id">7308</field>
+		<field name="generic_id">312</field>
+	</record>
+	<record>
+		<field name="brand_id">7310</field>
+		<field name="generic_id">312</field>
+	</record>
+	<record>
+		<field name="brand_id">7376</field>
+		<field name="generic_id">1137</field>
+	</record>
+	<record>
+		<field name="brand_id">7377</field>
+		<field name="generic_id">446</field>
+	</record>
+	<record>
+		<field name="brand_id">7420</field>
+		<field name="generic_id">955</field>
+	</record>
+	<record>
+		<field name="brand_id">7421</field>
+		<field name="generic_id">956</field>
+	</record>
+	<record>
+		<field name="brand_id">7514</field>
+		<field name="generic_id">929</field>
+	</record>
+	<record>
+		<field name="brand_id">7667</field>
+		<field name="generic_id">623</field>
+	</record>
+	<record>
+		<field name="brand_id">8092</field>
+		<field name="generic_id">864</field>
+	</record>
+	<record>
+		<field name="brand_id">8125</field>
+		<field name="generic_id">1444</field>
+	</record>
+	<record>
+		<field name="brand_id">8159</field>
+		<field name="generic_id">906</field>
+	</record>
+	<record>
+		<field name="brand_id">8161</field>
+		<field name="generic_id">126</field>
+	</record>
+	<record>
+		<field name="brand_id">8289</field>
+		<field name="generic_id">200</field>
+	</record>
+	<record>
+		<field name="brand_id">8305</field>
+		<field name="generic_id">654</field>
+	</record>
+	<record>
+		<field name="brand_id">8442</field>
+		<field name="generic_id">1431</field>
+	</record>
+	<record>
+		<field name="brand_id">8443</field>
+		<field name="generic_id">1431</field>
+	</record>
+	<record>
+		<field name="brand_id">8491</field>
+		<field name="generic_id">1805</field>
+	</record>
+	<record>
+		<field name="brand_id">8573</field>
+		<field name="generic_id">841</field>
+	</record>
+	<record>
+		<field name="brand_id">8798</field>
+		<field name="generic_id">1167</field>
+	</record>
+	<record>
+		<field name="brand_id">8846</field>
+		<field name="generic_id">628</field>
+	</record>
+	<record>
+		<field name="brand_id">8847</field>
+		<field name="generic_id">628</field>
+	</record>
+	<record>
+		<field name="brand_id">8848</field>
+		<field name="generic_id">628</field>
+	</record>
+	<record>
+		<field name="brand_id">8920</field>
+		<field name="generic_id">995</field>
+	</record>
+	<record>
+		<field name="brand_id">8956</field>
+		<field name="generic_id">157</field>
+	</record>
+	<record>
+		<field name="brand_id">8957</field>
+		<field name="generic_id">157</field>
+	</record>
+	<record>
+		<field name="brand_id">8958</field>
+		<field name="generic_id">157</field>
+	</record>
+	<record>
+		<field name="brand_id">8964</field>
+		<field name="generic_id">457</field>
+	</record>
+	<record>
+		<field name="brand_id">8965</field>
+		<field name="generic_id">457</field>
+	</record>
+	<record>
+		<field name="brand_id">9229</field>
+		<field name="generic_id">1426</field>
+	</record>
+	<record>
+		<field name="brand_id">9230</field>
+		<field name="generic_id">1426</field>
+	</record>
+	<record>
+		<field name="brand_id">9269</field>
+		<field name="generic_id">1091</field>
+	</record>
+	<record>
+		<field name="brand_id">9365</field>
+		<field name="generic_id">717</field>
+	</record>
+	<record>
+		<field name="brand_id">9397</field>
+		<field name="generic_id">726</field>
+	</record>
+	<record>
+		<field name="brand_id">9436</field>
+		<field name="generic_id">1246</field>
+	</record>
+	<record>
+		<field name="brand_id">9437</field>
+		<field name="generic_id">1246</field>
+	</record>
+	<record>
+		<field name="brand_id">9438</field>
+		<field name="generic_id">1246</field>
+	</record>
+	<record>
+		<field name="brand_id">9811</field>
+		<field name="generic_id">727</field>
+	</record>
+	<record>
+		<field name="brand_id">9812</field>
+		<field name="generic_id">727</field>
+	</record>
+	<record>
+		<field name="brand_id">9813</field>
+		<field name="generic_id">727</field>
+	</record>
+	<record>
+		<field name="brand_id">9896</field>
+		<field name="generic_id">734</field>
+	</record>
+	<record>
+		<field name="brand_id">9897</field>
+		<field name="generic_id">733</field>
+	</record>
+	<record>
+		<field name="brand_id">9899</field>
+		<field name="generic_id">733</field>
+	</record>
+	<record>
+		<field name="brand_id">10091</field>
+		<field name="generic_id">643</field>
+	</record>
+	<record>
+		<field name="brand_id">10412</field>
+		<field name="generic_id">775</field>
+	</record>
+	<record>
+		<field name="brand_id">10413</field>
+		<field name="generic_id">775</field>
+	</record>
+	<record>
+		<field name="brand_id">10702</field>
+		<field name="generic_id">757</field>
+	</record>
+	<record>
+		<field name="brand_id">10758</field>
+		<field name="generic_id">999</field>
+	</record>
+	<record>
+		<field name="brand_id">10759</field>
+		<field name="generic_id">999</field>
+	</record>
+	<record>
+		<field name="brand_id">10760</field>
+		<field name="generic_id">999</field>
+	</record>
+	<record>
+		<field name="brand_id">10761</field>
+		<field name="generic_id">999</field>
+	</record>
+	<record>
+		<field name="brand_id">10777</field>
+		<field name="generic_id">1307</field>
+	</record>
+	<record>
+		<field name="brand_id">10845</field>
+		<field name="generic_id">814</field>
+	</record>
+	<record>
+		<field name="brand_id">10846</field>
+		<field name="generic_id">814</field>
+	</record>
+	<record>
+		<field name="brand_id">10862</field>
+		<field name="generic_id">346</field>
+	</record>
+	<record>
+		<field name="brand_id">10913</field>
+		<field name="generic_id">678</field>
+	</record>
+	<record>
+		<field name="brand_id">10914</field>
+		<field name="generic_id">678</field>
+	</record>
+	<record>
+		<field name="brand_id">10915</field>
+		<field name="generic_id">678</field>
+	</record>
+	<record>
+		<field name="brand_id">10925</field>
+		<field name="generic_id">815</field>
+	</record>
+	<record>
+		<field name="brand_id">10926</field>
+		<field name="generic_id">815</field>
+	</record>
+	<record>
+		<field name="brand_id">11017</field>
+		<field name="generic_id">20</field>
+	</record>
+	<record>
+		<field name="brand_id">11034</field>
+		<field name="generic_id">872</field>
+	</record>
+	<record>
+		<field name="brand_id">11051</field>
+		<field name="generic_id">1326</field>
+	</record>
+	<record>
+		<field name="brand_id">11056</field>
+		<field name="generic_id">1467</field>
+	</record>
+	<record>
+		<field name="brand_id">11057</field>
+		<field name="generic_id">1467</field>
+	</record>
+	<record>
+		<field name="brand_id">11098</field>
+		<field name="generic_id">540</field>
+	</record>
+	<record>
+		<field name="brand_id">11099</field>
+		<field name="generic_id">538</field>
+	</record>
+	<record>
+		<field name="brand_id">11100</field>
+		<field name="generic_id">538</field>
+	</record>
+	<record>
+		<field name="brand_id">11101</field>
+		<field name="generic_id">536</field>
+	</record>
+	<record>
+		<field name="brand_id">11102</field>
+		<field name="generic_id">534</field>
+	</record>
+	<record>
+		<field name="brand_id">11105</field>
+		<field name="generic_id">740</field>
+	</record>
+	<record>
+		<field name="brand_id">11107</field>
+		<field name="generic_id">740</field>
+	</record>
+	<record>
+		<field name="brand_id">11108</field>
+		<field name="generic_id">790</field>
+	</record>
+	<record>
+		<field name="brand_id">11109</field>
+		<field name="generic_id">789</field>
+	</record>
+	<record>
+		<field name="brand_id">11110</field>
+		<field name="generic_id">624</field>
+	</record>
+	<record>
+		<field name="brand_id">11111</field>
+		<field name="generic_id">624</field>
+	</record>
+	<record>
+		<field name="brand_id">11116</field>
+		<field name="generic_id">1406</field>
+	</record>
+	<record>
+		<field name="brand_id">11128</field>
+		<field name="generic_id">1417</field>
+	</record>
+	<record>
+		<field name="brand_id">11129</field>
+		<field name="generic_id">1417</field>
+	</record>
+	<record>
+		<field name="brand_id">11170</field>
+		<field name="generic_id">834</field>
+	</record>
+	<record>
+		<field name="brand_id">11295</field>
+		<field name="generic_id">854</field>
+	</record>
+	<record>
+		<field name="brand_id">11296</field>
+		<field name="generic_id">854</field>
+	</record>
+	<record>
+		<field name="brand_id">11427</field>
+		<field name="generic_id">756</field>
+	</record>
+	<record>
+		<field name="brand_id">11453</field>
+		<field name="generic_id">1150</field>
+	</record>
+	<record>
+		<field name="brand_id">11621</field>
+		<field name="generic_id">866</field>
+	</record>
+	<record>
+		<field name="brand_id">11622</field>
+		<field name="generic_id">866</field>
+	</record>
+	<record>
+		<field name="brand_id">11623</field>
+		<field name="generic_id">867</field>
+	</record>
+	<record>
+		<field name="brand_id">11758</field>
+		<field name="generic_id">1663</field>
+	</record>
+	<record>
+		<field name="brand_id">11759</field>
+		<field name="generic_id">1663</field>
+	</record>
+	<record>
+		<field name="brand_id">11766</field>
+		<field name="generic_id">1150</field>
+	</record>
+	<record>
+		<field name="brand_id">11778</field>
+		<field name="generic_id">436</field>
+	</record>
+	<record>
+		<field name="brand_id">11779</field>
+		<field name="generic_id">436</field>
+	</record>
+	<record>
+		<field name="brand_id">11879</field>
+		<field name="generic_id">870</field>
+	</record>
+	<record>
+		<field name="brand_id">11880</field>
+		<field name="generic_id">870</field>
+	</record>
+	<record>
+		<field name="brand_id">11907</field>
+		<field name="generic_id">570</field>
+	</record>
+	<record>
+		<field name="brand_id">11919</field>
+		<field name="generic_id">873</field>
+	</record>
+	<record>
+		<field name="brand_id">11971</field>
+		<field name="generic_id">883</field>
+	</record>
+	<record>
+		<field name="brand_id">12059</field>
+		<field name="generic_id">1280</field>
+	</record>
+	<record>
+		<field name="brand_id">12228</field>
+		<field name="generic_id">903</field>
+	</record>
+	<record>
+		<field name="brand_id">12235</field>
+		<field name="generic_id">902</field>
+	</record>
+	<record>
+		<field name="brand_id">12422</field>
+		<field name="generic_id">919</field>
+	</record>
+	<record>
+		<field name="brand_id">12423</field>
+		<field name="generic_id">918</field>
+	</record>
+	<record>
+		<field name="brand_id">12424</field>
+		<field name="generic_id">918</field>
+	</record>
+	<record>
+		<field name="brand_id">12499</field>
+		<field name="generic_id">923</field>
+	</record>
+	<record>
+		<field name="brand_id">12502</field>
+		<field name="generic_id">552</field>
+	</record>
+	<record>
+		<field name="brand_id">12503</field>
+		<field name="generic_id">552</field>
+	</record>
+	<record>
+		<field name="brand_id">12587</field>
+		<field name="generic_id">925</field>
+	</record>
+	<record>
+		<field name="brand_id">12604</field>
+		<field name="generic_id">1084</field>
+	</record>
+	<record>
+		<field name="brand_id">12605</field>
+		<field name="generic_id">1082</field>
+	</record>
+	<record>
+		<field name="brand_id">12628</field>
+		<field name="generic_id">135</field>
+	</record>
+	<record>
+		<field name="brand_id">12778</field>
+		<field name="generic_id">751</field>
+	</record>
+	<record>
+		<field name="brand_id">12779</field>
+		<field name="generic_id">751</field>
+	</record>
+	<record>
+		<field name="brand_id">12780</field>
+		<field name="generic_id">751</field>
+	</record>
+	<record>
+		<field name="brand_id">12781</field>
+		<field name="generic_id">751</field>
+	</record>
+	<record>
+		<field name="brand_id">12794</field>
+		<field name="generic_id">934</field>
+	</record>
+	<record>
+		<field name="brand_id">12795</field>
+		<field name="generic_id">935</field>
+	</record>
+	<record>
+		<field name="brand_id">12832</field>
+		<field name="generic_id">467</field>
+	</record>
+	<record>
+		<field name="brand_id">12833</field>
+		<field name="generic_id">467</field>
+	</record>
+	<record>
+		<field name="brand_id">12835</field>
+		<field name="generic_id">932</field>
+	</record>
+	<record>
+		<field name="brand_id">12849</field>
+		<field name="generic_id">805</field>
+	</record>
+	<record>
+		<field name="brand_id">12850</field>
+		<field name="generic_id">806</field>
+	</record>
+	<record>
+		<field name="brand_id">12905</field>
+		<field name="generic_id">709</field>
+	</record>
+	<record>
+		<field name="brand_id">12906</field>
+		<field name="generic_id">711</field>
+	</record>
+	<record>
+		<field name="brand_id">12921</field>
+		<field name="generic_id">644</field>
+	</record>
+	<record>
+		<field name="brand_id">13082</field>
+		<field name="generic_id">939</field>
+	</record>
+	<record>
+		<field name="brand_id">13195</field>
+		<field name="generic_id">954</field>
+	</record>
+	<record>
+		<field name="brand_id">13318</field>
+		<field name="generic_id">755</field>
+	</record>
+	<record>
+		<field name="brand_id">13319</field>
+		<field name="generic_id">755</field>
+	</record>
+	<record>
+		<field name="brand_id">13320</field>
+		<field name="generic_id">755</field>
+	</record>
+	<record>
+		<field name="brand_id">13421</field>
+		<field name="generic_id">1577</field>
+	</record>
+	<record>
+		<field name="brand_id">13501</field>
+		<field name="generic_id">485</field>
+	</record>
+	<record>
+		<field name="brand_id">13508</field>
+		<field name="generic_id">694</field>
+	</record>
+	<record>
+		<field name="brand_id">13509</field>
+		<field name="generic_id">696</field>
+	</record>
+	<record>
+		<field name="brand_id">13816</field>
+		<field name="generic_id">1000</field>
+	</record>
+	<record>
+		<field name="brand_id">13912</field>
+		<field name="generic_id">1132</field>
+	</record>
+	<record>
+		<field name="brand_id">13989</field>
+		<field name="generic_id">1010</field>
+	</record>
+	<record>
+		<field name="brand_id">13990</field>
+		<field name="generic_id">1009</field>
+	</record>
+	<record>
+		<field name="brand_id">13991</field>
+		<field name="generic_id">1009</field>
+	</record>
+	<record>
+		<field name="brand_id">14222</field>
+		<field name="generic_id">1018</field>
+	</record>
+	<record>
+		<field name="brand_id">14261</field>
+		<field name="generic_id">228</field>
+	</record>
+	<record>
+		<field name="brand_id">14262</field>
+		<field name="generic_id">228</field>
+	</record>
+	<record>
+		<field name="brand_id">14407</field>
+		<field name="generic_id">911</field>
+	</record>
+	<record>
+		<field name="brand_id">14408</field>
+		<field name="generic_id">573</field>
+	</record>
+	<record>
+		<field name="brand_id">14536</field>
+		<field name="generic_id">1477</field>
+	</record>
+	<record>
+		<field name="brand_id">14696</field>
+		<field name="generic_id">155</field>
+	</record>
+	<record>
+		<field name="brand_id">14711</field>
+		<field name="generic_id">1039</field>
+	</record>
+	<record>
+		<field name="brand_id">14712</field>
+		<field name="generic_id">1039</field>
+	</record>
+	<record>
+		<field name="brand_id">14769</field>
+		<field name="generic_id">475</field>
+	</record>
+	<record>
+		<field name="brand_id">14770</field>
+		<field name="generic_id">475</field>
+	</record>
+	<record>
+		<field name="brand_id">15075</field>
+		<field name="generic_id">818</field>
+	</record>
+	<record>
+		<field name="brand_id">15076</field>
+		<field name="generic_id">818</field>
+	</record>
+	<record>
+		<field name="brand_id">15176</field>
+		<field name="generic_id">682</field>
+	</record>
+	<record>
+		<field name="brand_id">15281</field>
+		<field name="generic_id">882</field>
+	</record>
+	<record>
+		<field name="brand_id">15282</field>
+		<field name="generic_id">882</field>
+	</record>
+	<record>
+		<field name="brand_id">15283</field>
+		<field name="generic_id">882</field>
+	</record>
+	<record>
+		<field name="brand_id">15288</field>
+		<field name="generic_id">658</field>
+	</record>
+	<record>
+		<field name="brand_id">15312</field>
+		<field name="generic_id">1235</field>
+	</record>
+	<record>
+		<field name="brand_id">15313</field>
+		<field name="generic_id">1235</field>
+	</record>
+	<record>
+		<field name="brand_id">15314</field>
+		<field name="generic_id">1235</field>
+	</record>
+	<record>
+		<field name="brand_id">15333</field>
+		<field name="generic_id">1452</field>
+	</record>
+	<record>
+		<field name="brand_id">15336</field>
+		<field name="generic_id">564</field>
+	</record>
+	<record>
+		<field name="brand_id">15342</field>
+		<field name="generic_id">619</field>
+	</record>
+	<record>
+		<field name="brand_id">15421</field>
+		<field name="generic_id">1071</field>
+	</record>
+	<record>
+		<field name="brand_id">15551</field>
+		<field name="generic_id">409</field>
+	</record>
+	<record>
+		<field name="brand_id">15592</field>
+		<field name="generic_id">881</field>
+	</record>
+	<record>
+		<field name="brand_id">15593</field>
+		<field name="generic_id">898</field>
+	</record>
+	<record>
+		<field name="brand_id">15707</field>
+		<field name="generic_id">1080</field>
+	</record>
+	<record>
+		<field name="brand_id">15708</field>
+		<field name="generic_id">1080</field>
+	</record>
+	<record>
+		<field name="brand_id">15888</field>
+		<field name="generic_id">1088</field>
+	</record>
+	<record>
+		<field name="brand_id">15889</field>
+		<field name="generic_id">1088</field>
+	</record>
+	<record>
+		<field name="brand_id">15890</field>
+		<field name="generic_id">1088</field>
+	</record>
+	<record>
+		<field name="brand_id">15951</field>
+		<field name="generic_id">659</field>
+	</record>
+	<record>
+		<field name="brand_id">15952</field>
+		<field name="generic_id">659</field>
+	</record>
+	<record>
+		<field name="brand_id">15953</field>
+		<field name="generic_id">659</field>
+	</record>
+	<record>
+		<field name="brand_id">16205</field>
+		<field name="generic_id">650</field>
+	</record>
+	<record>
+		<field name="brand_id">16206</field>
+		<field name="generic_id">650</field>
+	</record>
+	<record>
+		<field name="brand_id">16207</field>
+		<field name="generic_id">650</field>
+	</record>
+	<record>
+		<field name="brand_id">16257</field>
+		<field name="generic_id">652</field>
+	</record>
+	<record>
+		<field name="brand_id">16259</field>
+		<field name="generic_id">997</field>
+	</record>
+	<record>
+		<field name="brand_id">16328</field>
+		<field name="generic_id">783</field>
+	</record>
+	<record>
+		<field name="brand_id">16332</field>
+		<field name="generic_id">783</field>
+	</record>
+	<record>
+		<field name="brand_id">16370</field>
+		<field name="generic_id">370</field>
+	</record>
+	<record>
+		<field name="brand_id">16371</field>
+		<field name="generic_id">370</field>
+	</record>
+	<record>
+		<field name="brand_id">16416</field>
+		<field name="generic_id">310</field>
+	</record>
+	<record>
+		<field name="brand_id">16417</field>
+		<field name="generic_id">310</field>
+	</record>
+	<record>
+		<field name="brand_id">16419</field>
+		<field name="generic_id">310</field>
+	</record>
+	<record>
+		<field name="brand_id">16453</field>
+		<field name="generic_id">412</field>
+	</record>
+	<record>
+		<field name="brand_id">16454</field>
+		<field name="generic_id">412</field>
+	</record>
+	<record>
+		<field name="brand_id">16477</field>
+		<field name="generic_id">1095</field>
+	</record>
+	<record>
+		<field name="brand_id">16478</field>
+		<field name="generic_id">1095</field>
+	</record>
+	<record>
+		<field name="brand_id">16479</field>
+		<field name="generic_id">1095</field>
+	</record>
+	<record>
+		<field name="brand_id">16628</field>
+		<field name="generic_id">1119</field>
+	</record>
+	<record>
+		<field name="brand_id">16629</field>
+		<field name="generic_id">1119</field>
+	</record>
+	<record>
+		<field name="brand_id">16630</field>
+		<field name="generic_id">1119</field>
+	</record>
+	<record>
+		<field name="brand_id">16864</field>
+		<field name="generic_id">611</field>
+	</record>
+	<record>
+		<field name="brand_id">16865</field>
+		<field name="generic_id">611</field>
+	</record>
+	<record>
+		<field name="brand_id">16866</field>
+		<field name="generic_id">611</field>
+	</record>
+	<record>
+		<field name="brand_id">16867</field>
+		<field name="generic_id">611</field>
+	</record>
+	<record>
+		<field name="brand_id">16947</field>
+		<field name="generic_id">1257</field>
+	</record>
+	<record>
+		<field name="brand_id">16948</field>
+		<field name="generic_id">1257</field>
+	</record>
+	<record>
+		<field name="brand_id">16949</field>
+		<field name="generic_id">1257</field>
+	</record>
+	<record>
+		<field name="brand_id">17159</field>
+		<field name="generic_id">1136</field>
+	</record>
+	<record>
+		<field name="brand_id">17388</field>
+		<field name="generic_id">1155</field>
+	</record>
+	<record>
+		<field name="brand_id">17389</field>
+		<field name="generic_id">1155</field>
+	</record>
+	<record>
+		<field name="brand_id">17662</field>
+		<field name="generic_id">813</field>
+	</record>
+	<record>
+		<field name="brand_id">17695</field>
+		<field name="generic_id">123</field>
+	</record>
+	<record>
+		<field name="brand_id">17821</field>
+		<field name="generic_id">990</field>
+	</record>
+	<record>
+		<field name="brand_id">17904</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17905</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17907</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17908</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17909</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17910</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17911</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">17912</field>
+		<field name="generic_id">336</field>
+	</record>
+	<record>
+		<field name="brand_id">18085</field>
+		<field name="generic_id">1363</field>
+	</record>
+	<record>
+		<field name="brand_id">18167</field>
+		<field name="generic_id">113</field>
+	</record>
+	<record>
+		<field name="brand_id">18168</field>
+		<field name="generic_id">112</field>
+	</record>
+	<record>
+		<field name="brand_id">18215</field>
+		<field name="generic_id">491</field>
+	</record>
+	<record>
+		<field name="brand_id">18216</field>
+		<field name="generic_id">491</field>
+	</record>
+	<record>
+		<field name="brand_id">18217</field>
+		<field name="generic_id">491</field>
+	</record>
+	<record>
+		<field name="brand_id">18218</field>
+		<field name="generic_id">491</field>
+	</record>
+	<record>
+		<field name="brand_id">18253</field>
+		<field name="generic_id">1339</field>
+	</record>
+	<record>
+		<field name="brand_id">18389</field>
+		<field name="generic_id">1234</field>
+	</record>
+	<record>
+		<field name="brand_id">18425</field>
+		<field name="generic_id">1231</field>
+	</record>
+	<record>
+		<field name="brand_id">18426</field>
+		<field name="generic_id">1231</field>
+	</record>
+	<record>
+		<field name="brand_id">18427</field>
+		<field name="generic_id">1231</field>
+	</record>
+	<record>
+		<field name="brand_id">18428</field>
+		<field name="generic_id">1231</field>
+	</record>
+	<record>
+		<field name="brand_id">18429</field>
+		<field name="generic_id">785</field>
+	</record>
+	<record>
+		<field name="brand_id">18430</field>
+		<field name="generic_id">785</field>
+	</record>
+	<record>
+		<field name="brand_id">18593</field>
+		<field name="generic_id">799</field>
+	</record>
+	<record>
+		<field name="brand_id">18801</field>
+		<field name="generic_id">1275</field>
+	</record>
+	<record>
+		<field name="brand_id">18858</field>
+		<field name="generic_id">762</field>
+	</record>
+	<record>
+		<field name="brand_id">18871</field>
+		<field name="generic_id">1274</field>
+	</record>
+	<record>
+		<field name="brand_id">18872</field>
+		<field name="generic_id">1274</field>
+	</record>
+	<record>
+		<field name="brand_id">18884</field>
+		<field name="generic_id">1125</field>
+	</record>
+	<record>
+		<field name="brand_id">18900</field>
+		<field name="generic_id">247</field>
+	</record>
+	<record>
+		<field name="brand_id">19088</field>
+		<field name="generic_id">1050</field>
+	</record>
+	<record>
+		<field name="brand_id">19106</field>
+		<field name="generic_id">1243</field>
+	</record>
+	<record>
+		<field name="brand_id">19107</field>
+		<field name="generic_id">1243</field>
+	</record>
+	<record>
+		<field name="brand_id">19240</field>
+		<field name="generic_id">1251</field>
+	</record>
+	<record>
+		<field name="brand_id">19359</field>
+		<field name="generic_id">1253</field>
+	</record>
+	<record>
+		<field name="brand_id">19360</field>
+		<field name="generic_id">1253</field>
+	</record>
+	<record>
+		<field name="brand_id">19361</field>
+		<field name="generic_id">1253</field>
+	</record>
+	<record>
+		<field name="brand_id">19454</field>
+		<field name="generic_id">1252</field>
+	</record>
+	<record>
+		<field name="brand_id">19543</field>
+		<field name="generic_id">1258</field>
+	</record>
+	<record>
+		<field name="brand_id">19557</field>
+		<field name="generic_id">1105</field>
+	</record>
+	<record>
+		<field name="brand_id">19655</field>
+		<field name="generic_id">966</field>
+	</record>
+	<record>
+		<field name="brand_id">19735</field>
+		<field name="generic_id">986</field>
+	</record>
+	<record>
+		<field name="brand_id">19803</field>
+		<field name="generic_id">899</field>
+	</record>
+	<record>
+		<field name="brand_id">19804</field>
+		<field name="generic_id">900</field>
+	</record>
+	<record>
+		<field name="brand_id">19821</field>
+		<field name="generic_id">1272</field>
+	</record>
+	<record>
+		<field name="brand_id">20175</field>
+		<field name="generic_id">324</field>
+	</record>
+	<record>
+		<field name="brand_id">20176</field>
+		<field name="generic_id">324</field>
+	</record>
+	<record>
+		<field name="brand_id">20177</field>
+		<field name="generic_id">324</field>
+	</record>
+	<record>
+		<field name="brand_id">20183</field>
+		<field name="generic_id">224</field>
+	</record>
+	<record>
+		<field name="brand_id">20195</field>
+		<field name="generic_id">1278</field>
+	</record>
+	<record>
+		<field name="brand_id">20197</field>
+		<field name="generic_id">1278</field>
+	</record>
+	<record>
+		<field name="brand_id">20262</field>
+		<field name="generic_id">16</field>
+	</record>
+	<record>
+		<field name="brand_id">20336</field>
+		<field name="generic_id">1283</field>
+	</record>
+	<record>
+		<field name="brand_id">20337</field>
+		<field name="generic_id">1283</field>
+	</record>
+	<record>
+		<field name="brand_id">20338</field>
+		<field name="generic_id">1283</field>
+	</record>
+	<record>
+		<field name="brand_id">20488</field>
+		<field name="generic_id">146</field>
+	</record>
+	<record>
+		<field name="brand_id">20536</field>
+		<field name="generic_id">46</field>
+	</record>
+	<record>
+		<field name="brand_id">20653</field>
+		<field name="generic_id">239</field>
+	</record>
+	<record>
+		<field name="brand_id">20675</field>
+		<field name="generic_id">559</field>
+	</record>
+	<record>
+		<field name="brand_id">20798</field>
+		<field name="generic_id">1327</field>
+	</record>
+	<record>
+		<field name="brand_id">20855</field>
+		<field name="generic_id">501</field>
+	</record>
+	<record>
+		<field name="brand_id">20856</field>
+		<field name="generic_id">930</field>
+	</record>
+	<record>
+		<field name="brand_id">20857</field>
+		<field name="generic_id">930</field>
+	</record>
+	<record>
+		<field name="brand_id">20860</field>
+		<field name="generic_id">1212</field>
+	</record>
+	<record>
+		<field name="brand_id">21080</field>
+		<field name="generic_id">62</field>
+	</record>
+	<record>
+		<field name="brand_id">21134</field>
+		<field name="generic_id">1361</field>
+	</record>
+	<record>
+		<field name="brand_id">21250</field>
+		<field name="generic_id">1366</field>
+	</record>
+	<record>
+		<field name="brand_id">21358</field>
+		<field name="generic_id">315</field>
+	</record>
+	<record>
+		<field name="brand_id">21359</field>
+		<field name="generic_id">315</field>
+	</record>
+	<record>
+		<field name="brand_id">21366</field>
+		<field name="generic_id">702</field>
+	</record>
+	<record>
+		<field name="brand_id">21425</field>
+		<field name="generic_id">1374</field>
+	</record>
+	<record>
+		<field name="brand_id">21426</field>
+		<field name="generic_id">1374</field>
+	</record>
+	<record>
+		<field name="brand_id">21436</field>
+		<field name="generic_id">1368</field>
+	</record>
+	<record>
+		<field name="brand_id">21499</field>
+		<field name="generic_id">1381</field>
+	</record>
+	<record>
+		<field name="brand_id">21678</field>
+		<field name="generic_id">1032</field>
+	</record>
+	<record>
+		<field name="brand_id">21679</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">21683</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">21684</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">21694</field>
+		<field name="generic_id">1395</field>
+	</record>
+	<record>
+		<field name="brand_id">21739</field>
+		<field name="generic_id">1396</field>
+	</record>
+	<record>
+		<field name="brand_id">21740</field>
+		<field name="generic_id">1397</field>
+	</record>
+	<record>
+		<field name="brand_id">21745</field>
+		<field name="generic_id">1394</field>
+	</record>
+	<record>
+		<field name="brand_id">21746</field>
+		<field name="generic_id">1394</field>
+	</record>
+	<record>
+		<field name="brand_id">21769</field>
+		<field name="generic_id">1324</field>
+	</record>
+	<record>
+		<field name="brand_id">21867</field>
+		<field name="generic_id">1412</field>
+	</record>
+	<record>
+		<field name="brand_id">21868</field>
+		<field name="generic_id">1412</field>
+	</record>
+	<record>
+		<field name="brand_id">21874</field>
+		<field name="generic_id">502</field>
+	</record>
+	<record>
+		<field name="brand_id">21907</field>
+		<field name="generic_id">294</field>
+	</record>
+	<record>
+		<field name="brand_id">21909</field>
+		<field name="generic_id">997</field>
+	</record>
+	<record>
+		<field name="brand_id">21910</field>
+		<field name="generic_id">791</field>
+	</record>
+	<record>
+		<field name="brand_id">21921</field>
+		<field name="generic_id">1414</field>
+	</record>
+	<record>
+		<field name="brand_id">21922</field>
+		<field name="generic_id">1414</field>
+	</record>
+	<record>
+		<field name="brand_id">22043</field>
+		<field name="generic_id">1419</field>
+	</record>
+	<record>
+		<field name="brand_id">22044</field>
+		<field name="generic_id">1398</field>
+	</record>
+	<record>
+		<field name="brand_id">22192</field>
+		<field name="generic_id">1430</field>
+	</record>
+	<record>
+		<field name="brand_id">22272</field>
+		<field name="generic_id">761</field>
+	</record>
+	<record>
+		<field name="brand_id">22273</field>
+		<field name="generic_id">761</field>
+	</record>
+	<record>
+		<field name="brand_id">22275</field>
+		<field name="generic_id">761</field>
+	</record>
+	<record>
+		<field name="brand_id">22492</field>
+		<field name="generic_id">1392</field>
+	</record>
+	<record>
+		<field name="brand_id">22692</field>
+		<field name="generic_id">677</field>
+	</record>
+	<record>
+		<field name="brand_id">22693</field>
+		<field name="generic_id">677</field>
+	</record>
+	<record>
+		<field name="brand_id">22810</field>
+		<field name="generic_id">1447</field>
+	</record>
+	<record>
+		<field name="brand_id">22811</field>
+		<field name="generic_id">1447</field>
+	</record>
+	<record>
+		<field name="brand_id">22819</field>
+		<field name="generic_id">788</field>
+	</record>
+	<record>
+		<field name="brand_id">22820</field>
+		<field name="generic_id">788</field>
+	</record>
+	<record>
+		<field name="brand_id">22821</field>
+		<field name="generic_id">788</field>
+	</record>
+	<record>
+		<field name="brand_id">22822</field>
+		<field name="generic_id">1448</field>
+	</record>
+	<record>
+		<field name="brand_id">22823</field>
+		<field name="generic_id">1448</field>
+	</record>
+	<record>
+		<field name="brand_id">22824</field>
+		<field name="generic_id">1448</field>
+	</record>
+	<record>
+		<field name="brand_id">22902</field>
+		<field name="generic_id">1282</field>
+	</record>
+	<record>
+		<field name="brand_id">22989</field>
+		<field name="generic_id">1454</field>
+	</record>
+	<record>
+		<field name="brand_id">22990</field>
+		<field name="generic_id">1454</field>
+	</record>
+	<record>
+		<field name="brand_id">22992</field>
+		<field name="generic_id">1454</field>
+	</record>
+	<record>
+		<field name="brand_id">22993</field>
+		<field name="generic_id">1454</field>
+	</record>
+	<record>
+		<field name="brand_id">23170</field>
+		<field name="generic_id">1459</field>
+	</record>
+	<record>
+		<field name="brand_id">23464</field>
+		<field name="generic_id">1469</field>
+	</record>
+	<record>
+		<field name="brand_id">23553</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23554</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23555</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23556</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23557</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23558</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">23579</field>
+		<field name="generic_id">1416</field>
+	</record>
+	<record>
+		<field name="brand_id">23580</field>
+		<field name="generic_id">1416</field>
+	</record>
+	<record>
+		<field name="brand_id">23581</field>
+		<field name="generic_id">1416</field>
+	</record>
+	<record>
+		<field name="brand_id">23582</field>
+		<field name="generic_id">1416</field>
+	</record>
+	<record>
+		<field name="brand_id">23717</field>
+		<field name="generic_id">1003</field>
+	</record>
+	<record>
+		<field name="brand_id">23775</field>
+		<field name="generic_id">225</field>
+	</record>
+	<record>
+		<field name="brand_id">23915</field>
+		<field name="generic_id">1300</field>
+	</record>
+	<record>
+		<field name="brand_id">23936</field>
+		<field name="generic_id">1372</field>
+	</record>
+	<record>
+		<field name="brand_id">23937</field>
+		<field name="generic_id">784</field>
+	</record>
+	<record>
+		<field name="brand_id">23938</field>
+		<field name="generic_id">1081</field>
+	</record>
+	<record>
+		<field name="brand_id">23939</field>
+		<field name="generic_id">1081</field>
+	</record>
+	<record>
+		<field name="brand_id">23952</field>
+		<field name="generic_id">1379</field>
+	</record>
+	<record>
+		<field name="brand_id">23985</field>
+		<field name="generic_id">425</field>
+	</record>
+	<record>
+		<field name="brand_id">23986</field>
+		<field name="generic_id">425</field>
+	</record>
+	<record>
+		<field name="brand_id">24125</field>
+		<field name="generic_id">1476</field>
+	</record>
+	<record>
+		<field name="brand_id">24126</field>
+		<field name="generic_id">1476</field>
+	</record>
+	<record>
+		<field name="brand_id">24129</field>
+		<field name="generic_id">1476</field>
+	</record>
+	<record>
+		<field name="brand_id">24331</field>
+		<field name="generic_id">1483</field>
+	</record>
+	<record>
+		<field name="brand_id">24342</field>
+		<field name="generic_id">639</field>
+	</record>
+	<record>
+		<field name="brand_id">24343</field>
+		<field name="generic_id">639</field>
+	</record>
+	<record>
+		<field name="brand_id">25840</field>
+		<field name="generic_id">377</field>
+	</record>
+	<record>
+		<field name="brand_id">25848</field>
+		<field name="generic_id">64</field>
+	</record>
+	<record>
+		<field name="brand_id">25849</field>
+		<field name="generic_id">64</field>
+	</record>
+	<record>
+		<field name="brand_id">25859</field>
+		<field name="generic_id">1019</field>
+	</record>
+	<record>
+		<field name="brand_id">25860</field>
+		<field name="generic_id">1088</field>
+	</record>
+	<record>
+		<field name="brand_id">25862</field>
+		<field name="generic_id">738</field>
+	</record>
+	<record>
+		<field name="brand_id">25865</field>
+		<field name="generic_id">964</field>
+	</record>
+	<record>
+		<field name="brand_id">25866</field>
+		<field name="generic_id">2358</field>
+	</record>
+	<record>
+		<field name="brand_id">25869</field>
+		<field name="generic_id">1373</field>
+	</record>
+	<record>
+		<field name="brand_id">25875</field>
+		<field name="generic_id">18</field>
+	</record>
+	<record>
+		<field name="brand_id">25876</field>
+		<field name="generic_id">232</field>
+	</record>
+	<record>
+		<field name="brand_id">25877</field>
+		<field name="generic_id">1618</field>
+	</record>
+	<record>
+		<field name="brand_id">25878</field>
+		<field name="generic_id">1663</field>
+	</record>
+	<record>
+		<field name="brand_id">25879</field>
+		<field name="generic_id">406</field>
+	</record>
+	<record>
+		<field name="brand_id">25880</field>
+		<field name="generic_id">469</field>
+	</record>
+	<record>
+		<field name="brand_id">25881</field>
+		<field name="generic_id">469</field>
+	</record>
+	<record>
+		<field name="brand_id">25882</field>
+		<field name="generic_id">594</field>
+	</record>
+	<record>
+		<field name="brand_id">25883</field>
+		<field name="generic_id">594</field>
+	</record>
+	<record>
+		<field name="brand_id">25884</field>
+		<field name="generic_id">638</field>
+	</record>
+	<record>
+		<field name="brand_id">25888</field>
+		<field name="generic_id">2007</field>
+	</record>
+	<record>
+		<field name="brand_id">25890</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">25891</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">25892</field>
+		<field name="generic_id">1031</field>
+	</record>
+	<record>
+		<field name="brand_id">25895</field>
+		<field name="generic_id">2360</field>
+	</record>
+	<record>
+		<field name="brand_id">25896</field>
+		<field name="generic_id">1274</field>
+	</record>
+	<record>
+		<field name="brand_id">25899</field>
+		<field name="generic_id">1454</field>
+	</record>
+	<record>
+		<field name="brand_id">25901</field>
+		<field name="generic_id">652</field>
+	</record>
+	<record>
+		<field name="brand_id">25907</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">25910</field>
+		<field name="generic_id">386</field>
+	</record>
+	<record>
+		<field name="brand_id">25924</field>
+		<field name="generic_id">1106</field>
+	</record>
+	<record>
+		<field name="brand_id">25925</field>
+		<field name="generic_id">1105</field>
+	</record>
+	<record>
+		<field name="brand_id">25931</field>
+		<field name="generic_id">2432</field>
+	</record>
+	<record>
+		<field name="brand_id">25950</field>
+		<field name="generic_id">967</field>
+	</record>
+	<record>
+		<field name="brand_id">25992</field>
+		<field name="generic_id">315</field>
+	</record>
+	<record>
+		<field name="brand_id">26084</field>
+		<field name="generic_id">1299</field>
+	</record>
+	<record>
+		<field name="brand_id">26162</field>
+		<field name="generic_id">303</field>
+	</record>
+	<record>
+		<field name="brand_id">26193</field>
+		<field name="generic_id">124</field>
+	</record>
+	<record>
+		<field name="brand_id">26440</field>
+		<field name="generic_id">1136</field>
+	</record>
+	<record>
+		<field name="brand_id">26441</field>
+		<field name="generic_id">1136</field>
+	</record>
+	<record>
+		<field name="brand_id">26563</field>
+		<field name="generic_id">315</field>
+	</record>
+	<record>
+		<field name="brand_id">26995</field>
+		<field name="generic_id">734</field>
+	</record>
+	<record>
+		<field name="brand_id">27057</field>
+		<field name="generic_id">796</field>
+	</record>
+	<record>
+		<field name="brand_id">27080</field>
+		<field name="generic_id">868</field>
+	</record>
+	<record>
+		<field name="brand_id">27140</field>
+		<field name="generic_id">2636</field>
+	</record>
+	<record>
+		<field name="brand_id">27261</field>
+		<field name="generic_id">1359</field>
+	</record>
+	<record>
+		<field name="brand_id">27751</field>
+		<field name="generic_id">1428</field>
+	</record>
+	<record>
+		<field name="brand_id">27752</field>
+		<field name="generic_id">1428</field>
+	</record>
+	<record>
+		<field name="brand_id">27756</field>
+		<field name="generic_id">1051</field>
+	</record>
+	<record>
+		<field name="brand_id">27758</field>
+		<field name="generic_id">1142</field>
+	</record>
+	<record>
+		<field name="brand_id">27759</field>
+		<field name="generic_id">1142</field>
+	</record>
+	<record>
+		<field name="brand_id">27819</field>
+		<field name="generic_id">1405</field>
+	</record>
+	<record>
+		<field name="brand_id">27820</field>
+		<field name="generic_id">1405</field>
+	</record>
+	<record>
+		<field name="brand_id">27829</field>
+		<field name="generic_id">643</field>
+	</record>
+	<record>
+		<field name="brand_id">27849</field>
+		<field name="generic_id">2366</field>
+	</record>
+	<record>
+		<field name="brand_id">27850</field>
+		<field name="generic_id">2366</field>
+	</record>
+	<record>
+		<field name="brand_id">27851</field>
+		<field name="generic_id">2366</field>
+	</record>
+</table></tables>

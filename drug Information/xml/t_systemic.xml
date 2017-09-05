@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_systemic">
+	<fields>
+		<field name="systemic_id" type="Text"/>
+		<field name="systemic_name" type="Text"/>
+		<field name="systemic_parent_id" type="Text"/>
+	</fields>
+	<record>
+		<field name="systemic_id">1</field>
+		<field name="systemic_name">Gastrointestinal system drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">2</field>
+		<field name="systemic_name">Cardiovascular system drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">3</field>
+		<field name="systemic_name">Respiratory system drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">4</field>
+		<field name="systemic_name">Central nervous system drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">5</field>
+		<field name="systemic_name">Antimicrobial drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">6</field>
+		<field name="systemic_name">Endocrine &amp; Metabolic System drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">7</field>
+		<field name="systemic_name">Musculo-Skeletal System</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">8</field>
+		<field name="systemic_name">Allergy &amp; Immune System</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">9</field>
+		<field name="systemic_name">Anesthetics &amp; Neuromuscular blocking drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">10</field>
+		<field name="systemic_name">Drugs acting on Skin</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">11</field>
+		<field name="systemic_name">Drugs for Vitamin Mineral &amp; Nutritional deficiency disorders</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">12</field>
+		<field name="systemic_name">Drugs for Anemia &amp; other blood disorders</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">13</field>
+		<field name="systemic_name">Drugs for Bone Formation &amp; Bone Disorders</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">14</field>
+		<field name="systemic_name">Genito-urinary system drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">15</field>
+		<field name="systemic_name">Eye preparations</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">16</field>
+		<field name="systemic_name">E.N.T preparations</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">17</field>
+		<field name="systemic_name">Carcinochemotherapeutic &amp; Cytotoxic immunosuppressants</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">18</field>
+		<field name="systemic_name">Miscellaneous Drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">19</field>
+		<field name="systemic_name">Drugs for Peptic ulcer</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">20</field>
+		<field name="systemic_name">Drugs for Constipation</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">21</field>
+		<field name="systemic_name">Drugs for Diarrhea</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">22</field>
+		<field name="systemic_name">Drugs for Emetics</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">23</field>
+		<field name="systemic_name">Drugs for chronic inflammatory disease(Anti-inflammatory)</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">24</field>
+		<field name="systemic_name">Local preparation for anal and rectal disorder</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">25</field>
+		<field name="systemic_name">Drug affecting intestinal secretions</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">26</field>
+		<field name="systemic_name">Drugs for hypertension(Anti-hypertensive)</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">27</field>
+		<field name="systemic_name">Drugs for congestive heart failure (CHF)</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">28</field>
+		<field name="systemic_name">Drugs for arrhythmias(Anti-arrhythmic)</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">29</field>
+		<field name="systemic_name">Drugs for angina &amp; ischaemic heart diseases(Anti-ischaemic)</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">30</field>
+		<field name="systemic_name">Drugs for peripheral and cerebral vasodilatation &amp; neurosensory oxygenator</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">31</field>
+		<field name="systemic_name">Anti-coagulants</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">32</field>
+		<field name="systemic_name">Antiplatelet &amp; anti-fibrinolytic/haemostatic drugs</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">33</field>
+		<field name="systemic_name">Drugs for lipid regulation</field>
+		<field name="systemic_parent_id">2</field>
+	</record>
+	<record>
+		<field name="systemic_id">34</field>
+		<field name="systemic_name">Drugs for asthma &amp; prophylaxis</field>
+		<field name="systemic_parent_id">3</field>
+	</record>
+	<record>
+		<field name="systemic_id">35</field>
+		<field name="systemic_name">Drugs for cough &amp; cold</field>
+		<field name="systemic_parent_id">3</field>
+	</record>
+	<record>
+		<field name="systemic_id">36</field>
+		<field name="systemic_name">Respiratory stimulants &amp; pulmonary surfactants</field>
+		<field name="systemic_parent_id">3</field>
+	</record>
+	<record>
+		<field name="systemic_id">37</field>
+		<field name="systemic_name">Drugs for Sedation &amp; Hypnosis</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">38</field>
+		<field name="systemic_name">Drugs for psychosis(Anti-psychotic)</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">39</field>
+		<field name="systemic_name">Drugs for depression</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">40</field>
+		<field name="systemic_name">Drugs for epilepsy/convulsion</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">41</field>
+		<field name="systemic_name">Drugs for neurodegenerative diseases</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">42</field>
+		<field name="systemic_name">Drugs for nausea vomiting &amp; vertigo</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">43</field>
+		<field name="systemic_name">Drugs for other CNS diseases</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">44</field>
+		<field name="systemic_name">Analgesics &amp; Anti-pyretic</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">45</field>
+		<field name="systemic_name">Drugs for Acute Migraine Attack</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">46</field>
+		<field name="systemic_name">Prophylactics of Migraine</field>
+		<field name="systemic_parent_id">4</field>
+	</record>
+	<record>
+		<field name="systemic_id">47</field>
+		<field name="systemic_name">Drugs for bacterial infections(Anti-bacterial)</field>
+		<field name="systemic_parent_id">5</field>
+	</record>
+	<record>
+		<field name="systemic_id">48</field>
+		<field name="systemic_name">Drugs for viral infections(Anti-viral)</field>
+		<field name="systemic_parent_id">5</field>
+	</record>
+	<record>
+		<field name="systemic_id">49</field>
+		<field name="systemic_name">Drugs for fungal infections(Anti-fungal)</field>
+		<field name="systemic_parent_id">5</field>
+	</record>
+	<record>
+		<field name="systemic_id">50</field>
+		<field name="systemic_name">Drugs for protozoal infections(Anti-protozoal)</field>
+		<field name="systemic_parent_id">5</field>
+	</record>
+	<record>
+		<field name="systemic_id">51</field>
+		<field name="systemic_name">Drugs for helminthiasis(Anti-helminthic)</field>
+		<field name="systemic_parent_id">5</field>
+	</record>
+	<record>
+		<field name="systemic_id">52</field>
+		<field name="systemic_name">Hypothalamic &amp; Pituitary hormones &amp; Anti oestrogens</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">53</field>
+		<field name="systemic_name">Thyroid hormones &amp; Anti Thyroid drugs</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">54</field>
+		<field name="systemic_name">Anti-diabetic (Parenteral hypoglycemic drugs)</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">55</field>
+		<field name="systemic_name">Anti-diabetic (Oral hypoglycemic drugs)</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">56</field>
+		<field name="systemic_name">Drugs for Diabetic Peripheral Neuropathy</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">57</field>
+		<field name="systemic_name">Corticosteroid hormones</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">58</field>
+		<field name="systemic_name">Gonadal hormones (sex hormones) and their antagonists</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">59</field>
+		<field name="systemic_name">Other hormonal drugs</field>
+		<field name="systemic_parent_id">6</field>
+	</record>
+	<record>
+		<field name="systemic_id">60</field>
+		<field name="systemic_name">Drugs for Inflammation and Rheumatic Diseases(Anti-inflammatory &amp; Anti-rheumatic)</field>
+		<field name="systemic_parent_id">7</field>
+	</record>
+	<record>
+		<field name="systemic_id">61</field>
+		<field name="systemic_name">Drugs for Neuromuscular Disorders</field>
+		<field name="systemic_parent_id">7</field>
+	</record>
+	<record>
+		<field name="systemic_id">62</field>
+		<field name="systemic_name">Drugs for Soft- tissue Inflammation</field>
+		<field name="systemic_parent_id">7</field>
+	</record>
+	<record>
+		<field name="systemic_id">63</field>
+		<field name="systemic_name">Drugs for general anesthesia</field>
+		<field name="systemic_parent_id">9</field>
+	</record>
+	<record>
+		<field name="systemic_id">64</field>
+		<field name="systemic_name">Neuromuscular blocking drugs (muscle relaxants)</field>
+		<field name="systemic_parent_id">9</field>
+	</record>
+	<record>
+		<field name="systemic_id">65</field>
+		<field name="systemic_name">Drugs for post-operative pain</field>
+		<field name="systemic_parent_id">9</field>
+	</record>
+	<record>
+		<field name="systemic_id">66</field>
+		<field name="systemic_name">Drugs for anesthesia recovery</field>
+		<field name="systemic_parent_id">9</field>
+	</record>
+	<record>
+		<field name="systemic_id">67</field>
+		<field name="systemic_name">Local anesthetics &amp; Regional anesthetics</field>
+		<field name="systemic_parent_id">9</field>
+	</record>
+	<record>
+		<field name="systemic_id">68</field>
+		<field name="systemic_name">Topical Antihistamines Anti-pruritic &amp; Local anesthetics</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">69</field>
+		<field name="systemic_name">Topical Anti-infective Drugs</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">70</field>
+		<field name="systemic_name">Topical corticosteroids &amp; combined preparations</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">71</field>
+		<field name="systemic_name">Anti-eczema &amp; Anti-psoriasis preparations</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">72</field>
+		<field name="systemic_name">Preparations for Warts &amp; Calluses</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">73</field>
+		<field name="systemic_name">Drugs for Acne &amp; Rosacea</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">74</field>
+		<field name="systemic_name">Drugs for Ichthyosis &amp; Scaly skin</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">75</field>
+		<field name="systemic_name">Drugs for hyperpigmentation</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">76</field>
+		<field name="systemic_name">Drugs for Vitiligo</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">77</field>
+		<field name="systemic_name">Protection of skin from solar radiation</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">78</field>
+		<field name="systemic_name">Shampoos &amp; Other scalp preparations / anti-dandruff preparations</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">79</field>
+		<field name="systemic_name">Anti-septics &amp; Skin disinfectants</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">80</field>
+		<field name="systemic_name">Specific Vitamin Preparations</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">81</field>
+		<field name="systemic_name">Combined vitamin preparations</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">82</field>
+		<field name="systemic_name">Mineral preparations</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">83</field>
+		<field name="systemic_name">Multi-vitamin &amp; Multi-mineral combined preparations</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">84</field>
+		<field name="systemic_name">Nutritional &amp; Energy supplement preparations</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">85</field>
+		<field name="systemic_name">Water &amp; electrolytes replacement &amp; plasma substitutes</field>
+		<field name="systemic_parent_id">11</field>
+	</record>
+	<record>
+		<field name="systemic_id">86</field>
+		<field name="systemic_name">Drugs for Iron Deficiency Anemia</field>
+		<field name="systemic_parent_id">12</field>
+	</record>
+	<record>
+		<field name="systemic_id">87</field>
+		<field name="systemic_name">Drugs for macrocytic Anemia</field>
+		<field name="systemic_parent_id">12</field>
+	</record>
+	<record>
+		<field name="systemic_id">88</field>
+		<field name="systemic_name">Drugs for Other Anemia</field>
+		<field name="systemic_parent_id">12</field>
+	</record>
+	<record>
+		<field name="systemic_id">89</field>
+		<field name="systemic_name">Drugs used in bone formation</field>
+		<field name="systemic_parent_id">13</field>
+	</record>
+	<record>
+		<field name="systemic_id">90</field>
+		<field name="systemic_name">Drugs used in cartilage formation</field>
+		<field name="systemic_parent_id">13</field>
+	</record>
+	<record>
+		<field name="systemic_id">91</field>
+		<field name="systemic_name">Drugs used in inflammatory diseases of bones &amp; joints</field>
+		<field name="systemic_parent_id">13</field>
+	</record>
+	<record>
+		<field name="systemic_id">92</field>
+		<field name="systemic_name">Urinary anti-infective</field>
+		<field name="systemic_parent_id">14</field>
+	</record>
+	<record>
+		<field name="systemic_id">93</field>
+		<field name="systemic_name">Drugs for Prostate Enlargement</field>
+		<field name="systemic_parent_id">14</field>
+	</record>
+	<record>
+		<field name="systemic_id">94</field>
+		<field name="systemic_name">Anti-kidney stone preparations</field>
+		<field name="systemic_parent_id">14</field>
+	</record>
+	<record>
+		<field name="systemic_id">95</field>
+		<field name="systemic_name">Drugs used in genital problems</field>
+		<field name="systemic_parent_id">14</field>
+	</record>
+	<record>
+		<field name="systemic_id">96</field>
+		<field name="systemic_name">Other genito-urinary preparations</field>
+		<field name="systemic_parent_id">14</field>
+	</record>
+	<record>
+		<field name="systemic_id">97</field>
+		<field name="systemic_name">Aural preparations</field>
+		<field name="systemic_parent_id">16</field>
+	</record>
+	<record>
+		<field name="systemic_id">98</field>
+		<field name="systemic_name">Nasal preparations</field>
+		<field name="systemic_parent_id">16</field>
+	</record>
+	<record>
+		<field name="systemic_id">99</field>
+		<field name="systemic_name">Mouth &amp; Throat preparations</field>
+		<field name="systemic_parent_id">16</field>
+	</record>
+	<record>
+		<field name="systemic_id">105</field>
+		<field name="systemic_name">Antidote preparations</field>
+		<field name="systemic_parent_id">43</field>
+	</record>
+	<record>
+		<field name="systemic_id">110</field>
+		<field name="systemic_name">Other drugs used for peptic ulcer disease</field>
+		<field name="systemic_parent_id">19</field>
+	</record>
+	<record>
+		<field name="systemic_id">111</field>
+		<field name="systemic_name">Enema &amp; bowel cleansing solution</field>
+		<field name="systemic_parent_id">20</field>
+	</record>
+	<record>
+		<field name="systemic_id">112</field>
+		<field name="systemic_name">Combined preparation for constipation</field>
+		<field name="systemic_parent_id">20</field>
+	</record>
+	<record>
+		<field name="systemic_id">113</field>
+		<field name="systemic_name">Other laxative preparations</field>
+		<field name="systemic_parent_id">20</field>
+	</record>
+	<record>
+		<field name="systemic_id">114</field>
+		<field name="systemic_name">Antacid with laxative action</field>
+		<field name="systemic_parent_id">20</field>
+	</record>
+	<record>
+		<field name="systemic_id">115</field>
+		<field name="systemic_name">Bile acid sequestrants</field>
+		<field name="systemic_parent_id">25</field>
+	</record>
+	<record>
+		<field name="systemic_id">116</field>
+		<field name="systemic_name">Cholagogues, Cholelitholytics &amp; Hepatic Protectors</field>
+		<field name="systemic_parent_id">25</field>
+	</record>
+	<record>
+		<field name="systemic_id">117</field>
+		<field name="systemic_name">Drugs affecting exocrine secretions</field>
+		<field name="systemic_parent_id">25</field>
+	</record>
+	<record>
+		<field name="systemic_id">118</field>
+		<field name="systemic_name">Direct Renin Inhibitors</field>
+		<field name="systemic_parent_id">26</field>
+	</record>
+	<record>
+		<field name="systemic_id">119</field>
+		<field name="systemic_name">Edothelin receptor antagonist/other anti-hypertensive</field>
+		<field name="systemic_parent_id">26</field>
+	</record>
+	<record>
+		<field name="systemic_id">120</field>
+		<field name="systemic_name">Thiazide &amp; related diuretics</field>
+		<field name="systemic_parent_id">26</field>
+	</record>
+	<record>
+		<field name="systemic_id">121</field>
+		<field name="systemic_name">Combined preparations of Anti-anginal &amp; lipid lowering drugs</field>
+		<field name="systemic_parent_id">29</field>
+	</record>
+	<record>
+		<field name="systemic_id">122</field>
+		<field name="systemic_name">Hematopoietic drug</field>
+		<field name="systemic_parent_id">31</field>
+	</record>
+	<record>
+		<field name="systemic_id">123</field>
+		<field name="systemic_name">Fibrinolytics (Thrombolytics)</field>
+		<field name="systemic_parent_id">31</field>
+	</record>
+	<record>
+		<field name="systemic_id">124</field>
+		<field name="systemic_name">Antihaemophilic factor</field>
+		<field name="systemic_parent_id">32</field>
+	</record>
+	<record>
+		<field name="systemic_id">125</field>
+		<field name="systemic_name">Haemostatic drugs</field>
+		<field name="systemic_parent_id">32</field>
+	</record>
+	<record>
+		<field name="systemic_id">126</field>
+		<field name="systemic_name">Dressing products </field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+	<record>
+		<field name="systemic_id">127</field>
+		<field name="systemic_name">Drugs for GERD</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">128</field>
+		<field name="systemic_name">Drugs for Esophagitis</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">129</field>
+		<field name="systemic_name">Drugs for Dyspepsia</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">130</field>
+		<field name="systemic_name">Drugs for Zollinger-Ellison Syndrome</field>
+		<field name="systemic_parent_id">1</field>
+	</record>
+	<record>
+		<field name="systemic_id">133</field>
+		<field name="systemic_name">Cerebrovascular System Drugs</field>
+		<field name="systemic_parent_id">0</field>
+	</record>
+	<record>
+		<field name="systemic_id">136</field>
+		<field name="systemic_name">Drugs for Ischemic Stroke</field>
+		<field name="systemic_parent_id">133</field>
+	</record>
+	<record>
+		<field name="systemic_id">137</field>
+		<field name="systemic_name">Drugs used in Allergic disorders</field>
+		<field name="systemic_parent_id">8</field>
+	</record>
+	<record>
+		<field name="systemic_id">138</field>
+		<field name="systemic_name">Vaccines, Anti-sera &amp; immunological drugs</field>
+		<field name="systemic_parent_id">8</field>
+	</record>
+	<record>
+		<field name="systemic_id">139</field>
+		<field name="systemic_name">Drugs for Hemorrhagic Stroke</field>
+		<field name="systemic_parent_id">133</field>
+	</record>
+	<record>
+		<field name="systemic_id">140</field>
+		<field name="systemic_name">Analgesics drugs (Topical)</field>
+		<field name="systemic_parent_id">10</field>
+	</record>
+</table></tables>
