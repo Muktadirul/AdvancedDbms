@@ -162,12 +162,13 @@ while ($row = $stmt->fetch()) {
 		padding: 0;
 		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
 		font-size: 14px;
-                background-color: yellow;
+                
 	}
 
 	#calendar {
 		max-width: 900px;
 		margin: 0 auto;
+                background-color: #ffffff;
 	}
 
 </style>
