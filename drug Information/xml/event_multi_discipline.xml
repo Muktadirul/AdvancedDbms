@@ -1,0 +1,6855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="event_multi_discipline">
+	<fields>
+		<field name="id" type="Long"/>
+		<field name="discipline_id" type="Long"/>
+		<field name="event_id" type="Long"/>
+	</fields>
+	<record>
+		<field name="id">57</field>
+		<field name="discipline_id">5</field>
+		<field name="event_id">331</field>
+	</record>
+	<record>
+		<field name="id">58</field>
+		<field name="discipline_id">5</field>
+		<field name="event_id">332</field>
+	</record>
+	<record>
+		<field name="id">67</field>
+		<field name="discipline_id">5</field>
+		<field name="event_id">340</field>
+	</record>
+	<record>
+		<field name="id">199</field>
+		<field name="discipline_id">5</field>
+		<field name="event_id">59</field>
+	</record>
+	<record>
+		<field name="id">352</field>
+		<field name="discipline_id">5</field>
+		<field name="event_id">171</field>
+	</record>
+	<record>
+		<field name="id">553</field>
+		<field name="discipline_id">15</field>
+		<field name="event_id">10</field>
+	</record>
+	<record>
+		<field name="id">565</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">14</field>
+	</record>
+	<record>
+		<field name="id">566</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">14</field>
+	</record>
+	<record>
+		<field name="id">568</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">15</field>
+	</record>
+	<record>
+		<field name="id">576</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">9</field>
+	</record>
+	<record>
+		<field name="id">578</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">13</field>
+	</record>
+	<record>
+		<field name="id">579</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">7</field>
+	</record>
+	<record>
+		<field name="id">580</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">7</field>
+	</record>
+	<record>
+		<field name="id">581</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">16</field>
+	</record>
+	<record>
+		<field name="id">582</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">18</field>
+	</record>
+	<record>
+		<field name="id">583</field>
+		<field name="discipline_id">73</field>
+		<field name="event_id">18</field>
+	</record>
+	<record>
+		<field name="id">584</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">11</field>
+	</record>
+	<record>
+		<field name="id">585</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">11</field>
+	</record>
+	<record>
+		<field name="id">586</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">11</field>
+	</record>
+	<record>
+		<field name="id">587</field>
+		<field name="discipline_id">65</field>
+		<field name="event_id">20</field>
+	</record>
+	<record>
+		<field name="id">588</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">19</field>
+	</record>
+	<record>
+		<field name="id">589</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">22</field>
+	</record>
+	<record>
+		<field name="id">590</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">22</field>
+	</record>
+	<record>
+		<field name="id">591</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">22</field>
+	</record>
+	<record>
+		<field name="id">592</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">21</field>
+	</record>
+	<record>
+		<field name="id">593</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">26</field>
+	</record>
+	<record>
+		<field name="id">594</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">23</field>
+	</record>
+	<record>
+		<field name="id">595</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">23</field>
+	</record>
+	<record>
+		<field name="id">596</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">23</field>
+	</record>
+	<record>
+		<field name="id">597</field>
+		<field name="discipline_id">27</field>
+		<field name="event_id">25</field>
+	</record>
+	<record>
+		<field name="id">598</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">25</field>
+	</record>
+	<record>
+		<field name="id">599</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">25</field>
+	</record>
+	<record>
+		<field name="id">600</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">25</field>
+	</record>
+	<record>
+		<field name="id">601</field>
+		<field name="discipline_id">28</field>
+		<field name="event_id">29</field>
+	</record>
+	<record>
+		<field name="id">602</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">29</field>
+	</record>
+	<record>
+		<field name="id">603</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">27</field>
+	</record>
+	<record>
+		<field name="id">604</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">28</field>
+	</record>
+	<record>
+		<field name="id">605</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">28</field>
+	</record>
+	<record>
+		<field name="id">606</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">28</field>
+	</record>
+	<record>
+		<field name="id">607</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">28</field>
+	</record>
+	<record>
+		<field name="id">608</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">28</field>
+	</record>
+	<record>
+		<field name="id">609</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">35</field>
+	</record>
+	<record>
+		<field name="id">610</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">24</field>
+	</record>
+	<record>
+		<field name="id">611</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">24</field>
+	</record>
+	<record>
+		<field name="id">612</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">30</field>
+	</record>
+	<record>
+		<field name="id">613</field>
+		<field name="discipline_id">37</field>
+		<field name="event_id">30</field>
+	</record>
+	<record>
+		<field name="id">614</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">30</field>
+	</record>
+	<record>
+		<field name="id">615</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">30</field>
+	</record>
+	<record>
+		<field name="id">616</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">31</field>
+	</record>
+	<record>
+		<field name="id">617</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">31</field>
+	</record>
+	<record>
+		<field name="id">618</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">33</field>
+	</record>
+	<record>
+		<field name="id">619</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">32</field>
+	</record>
+	<record>
+		<field name="id">620</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">34</field>
+	</record>
+	<record>
+		<field name="id">621</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">38</field>
+	</record>
+	<record>
+		<field name="id">622</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">38</field>
+	</record>
+	<record>
+		<field name="id">623</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">39</field>
+	</record>
+	<record>
+		<field name="id">628</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">41</field>
+	</record>
+	<record>
+		<field name="id">629</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">41</field>
+	</record>
+	<record>
+		<field name="id">630</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">41</field>
+	</record>
+	<record>
+		<field name="id">631</field>
+		<field name="discipline_id">67</field>
+		<field name="event_id">41</field>
+	</record>
+	<record>
+		<field name="id">632</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">37</field>
+	</record>
+	<record>
+		<field name="id">633</field>
+		<field name="discipline_id">40</field>
+		<field name="event_id">37</field>
+	</record>
+	<record>
+		<field name="id">634</field>
+		<field name="discipline_id">62</field>
+		<field name="event_id">37</field>
+	</record>
+	<record>
+		<field name="id">635</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">36</field>
+	</record>
+	<record>
+		<field name="id">636</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">36</field>
+	</record>
+	<record>
+		<field name="id">637</field>
+		<field name="discipline_id">51</field>
+		<field name="event_id">36</field>
+	</record>
+	<record>
+		<field name="id">638</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">40</field>
+	</record>
+	<record>
+		<field name="id">639</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">40</field>
+	</record>
+	<record>
+		<field name="id">640</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">42</field>
+	</record>
+	<record>
+		<field name="id">641</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">43</field>
+	</record>
+	<record>
+		<field name="id">642</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">45</field>
+	</record>
+	<record>
+		<field name="id">643</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">45</field>
+	</record>
+	<record>
+		<field name="id">644</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">44</field>
+	</record>
+	<record>
+		<field name="id">645</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">44</field>
+	</record>
+	<record>
+		<field name="id">646</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">46</field>
+	</record>
+	<record>
+		<field name="id">647</field>
+		<field name="discipline_id">28</field>
+		<field name="event_id">46</field>
+	</record>
+	<record>
+		<field name="id">648</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">48</field>
+	</record>
+	<record>
+		<field name="id">649</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">48</field>
+	</record>
+	<record>
+		<field name="id">650</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">48</field>
+	</record>
+	<record>
+		<field name="id">651</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">47</field>
+	</record>
+	<record>
+		<field name="id">652</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">49</field>
+	</record>
+	<record>
+		<field name="id">653</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">49</field>
+	</record>
+	<record>
+		<field name="id">654</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">49</field>
+	</record>
+	<record>
+		<field name="id">655</field>
+		<field name="discipline_id">73</field>
+		<field name="event_id">49</field>
+	</record>
+	<record>
+		<field name="id">656</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">51</field>
+	</record>
+	<record>
+		<field name="id">657</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">50</field>
+	</record>
+	<record>
+		<field name="id">658</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">52</field>
+	</record>
+	<record>
+		<field name="id">659</field>
+		<field name="discipline_id">6</field>
+		<field name="event_id">2</field>
+	</record>
+	<record>
+		<field name="id">664</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">6</field>
+	</record>
+	<record>
+		<field name="id">665</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">666</field>
+		<field name="discipline_id">62</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">667</field>
+		<field name="discipline_id">69</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">668</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">669</field>
+		<field name="discipline_id">71</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">670</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">671</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">8</field>
+	</record>
+	<record>
+		<field name="id">672</field>
+		<field name="discipline_id">27</field>
+		<field name="event_id">54</field>
+	</record>
+	<record>
+		<field name="id">673</field>
+		<field name="discipline_id">39</field>
+		<field name="event_id">54</field>
+	</record>
+	<record>
+		<field name="id">674</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">54</field>
+	</record>
+	<record>
+		<field name="id">675</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">53</field>
+	</record>
+	<record>
+		<field name="id">676</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">53</field>
+	</record>
+	<record>
+		<field name="id">677</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">55</field>
+	</record>
+	<record>
+		<field name="id">678</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">56</field>
+	</record>
+	<record>
+		<field name="id">679</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">57</field>
+	</record>
+	<record>
+		<field name="id">680</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">60</field>
+	</record>
+	<record>
+		<field name="id">681</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">58</field>
+	</record>
+	<record>
+		<field name="id">686</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">62</field>
+	</record>
+	<record>
+		<field name="id">694</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">67</field>
+	</record>
+	<record>
+		<field name="id">697</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">66</field>
+	</record>
+	<record>
+		<field name="id">699</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">70</field>
+	</record>
+	<record>
+		<field name="id">700</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">70</field>
+	</record>
+	<record>
+		<field name="id">701</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">70</field>
+	</record>
+	<record>
+		<field name="id">702</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">71</field>
+	</record>
+	<record>
+		<field name="id">703</field>
+		<field name="discipline_id">6</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">704</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">705</field>
+		<field name="discipline_id">39</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">706</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">707</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">708</field>
+		<field name="discipline_id">69</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">709</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">710</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">73</field>
+	</record>
+	<record>
+		<field name="id">716</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">75</field>
+	</record>
+	<record>
+		<field name="id">717</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">75</field>
+	</record>
+	<record>
+		<field name="id">718</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">75</field>
+	</record>
+	<record>
+		<field name="id">744</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">745</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">746</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">747</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">748</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">749</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">750</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">78</field>
+	</record>
+	<record>
+		<field name="id">751</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">81</field>
+	</record>
+	<record>
+		<field name="id">752</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">81</field>
+	</record>
+	<record>
+		<field name="id">753</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">81</field>
+	</record>
+	<record>
+		<field name="id">754</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">81</field>
+	</record>
+	<record>
+		<field name="id">755</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">81</field>
+	</record>
+	<record>
+		<field name="id">761</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">86</field>
+	</record>
+	<record>
+		<field name="id">772</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">91</field>
+	</record>
+	<record>
+		<field name="id">788</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">96</field>
+	</record>
+	<record>
+		<field name="id">789</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">790</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">791</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">792</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">793</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">794</field>
+		<field name="discipline_id">69</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">795</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">94</field>
+	</record>
+	<record>
+		<field name="id">799</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">97</field>
+	</record>
+	<record>
+		<field name="id">802</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">803</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">804</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">805</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">806</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">807</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">808</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">809</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">810</field>
+		<field name="discipline_id">69</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">811</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">812</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">813</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">100</field>
+	</record>
+	<record>
+		<field name="id">814</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">101</field>
+	</record>
+	<record>
+		<field name="id">821</field>
+		<field name="discipline_id">65</field>
+		<field name="event_id">103</field>
+	</record>
+	<record>
+		<field name="id">826</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">106</field>
+	</record>
+	<record>
+		<field name="id">827</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">106</field>
+	</record>
+	<record>
+		<field name="id">828</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">106</field>
+	</record>
+	<record>
+		<field name="id">850</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">111</field>
+	</record>
+	<record>
+		<field name="id">851</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">111</field>
+	</record>
+	<record>
+		<field name="id">852</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">111</field>
+	</record>
+	<record>
+		<field name="id">853</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">114</field>
+	</record>
+	<record>
+		<field name="id">854</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">114</field>
+	</record>
+	<record>
+		<field name="id">855</field>
+		<field name="discipline_id">69</field>
+		<field name="event_id">114</field>
+	</record>
+	<record>
+		<field name="id">856</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">114</field>
+	</record>
+	<record>
+		<field name="id">857</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">113</field>
+	</record>
+	<record>
+		<field name="id">860</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">123</field>
+	</record>
+	<record>
+		<field name="id">861</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">123</field>
+	</record>
+	<record>
+		<field name="id">862</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">123</field>
+	</record>
+	<record>
+		<field name="id">867</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">117</field>
+	</record>
+	<record>
+		<field name="id">868</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">118</field>
+	</record>
+	<record>
+		<field name="id">869</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">118</field>
+	</record>
+	<record>
+		<field name="id">870</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">118</field>
+	</record>
+	<record>
+		<field name="id">882</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">124</field>
+	</record>
+	<record>
+		<field name="id">886</field>
+		<field name="discipline_id">65</field>
+		<field name="event_id">126</field>
+	</record>
+	<record>
+		<field name="id">890</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">130</field>
+	</record>
+	<record>
+		<field name="id">891</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">130</field>
+	</record>
+	<record>
+		<field name="id">910</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">133</field>
+	</record>
+	<record>
+		<field name="id">911</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">133</field>
+	</record>
+	<record>
+		<field name="id">924</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">139</field>
+	</record>
+	<record>
+		<field name="id">932</field>
+		<field name="discipline_id">6</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">933</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">934</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">935</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">936</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">937</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">938</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">939</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">143</field>
+	</record>
+	<record>
+		<field name="id">945</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">145</field>
+	</record>
+	<record>
+		<field name="id">946</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">145</field>
+	</record>
+	<record>
+		<field name="id">947</field>
+		<field name="discipline_id">56</field>
+		<field name="event_id">145</field>
+	</record>
+	<record>
+		<field name="id">948</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">146</field>
+	</record>
+	<record>
+		<field name="id">949</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">147</field>
+	</record>
+	<record>
+		<field name="id">967</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">151</field>
+	</record>
+	<record>
+		<field name="id">968</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">151</field>
+	</record>
+	<record>
+		<field name="id">971</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">150</field>
+	</record>
+	<record>
+		<field name="id">982</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">161</field>
+	</record>
+	<record>
+		<field name="id">983</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">161</field>
+	</record>
+	<record>
+		<field name="id">984</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">161</field>
+	</record>
+	<record>
+		<field name="id">993</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">160</field>
+	</record>
+	<record>
+		<field name="id">999</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">164</field>
+	</record>
+	<record>
+		<field name="id">1000</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">164</field>
+	</record>
+	<record>
+		<field name="id">1001</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">164</field>
+	</record>
+	<record>
+		<field name="id">1028</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">180</field>
+	</record>
+	<record>
+		<field name="id">1043</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">192</field>
+	</record>
+	<record>
+		<field name="id">1048</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">196</field>
+	</record>
+	<record>
+		<field name="id">1061</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">5</field>
+	</record>
+	<record>
+		<field name="id">1066</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">110</field>
+	</record>
+	<record>
+		<field name="id">1067</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">110</field>
+	</record>
+	<record>
+		<field name="id">1069</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">174</field>
+	</record>
+	<record>
+		<field name="id">1070</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">174</field>
+	</record>
+	<record>
+		<field name="id">1071</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">174</field>
+	</record>
+	<record>
+		<field name="id">1080</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">392</field>
+	</record>
+	<record>
+		<field name="id">1081</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">392</field>
+	</record>
+	<record>
+		<field name="id">1082</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">392</field>
+	</record>
+	<record>
+		<field name="id">1092</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">209</field>
+	</record>
+	<record>
+		<field name="id">1093</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">209</field>
+	</record>
+	<record>
+		<field name="id">1098</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">212</field>
+	</record>
+	<record>
+		<field name="id">1099</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">213</field>
+	</record>
+	<record>
+		<field name="id">1100</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">213</field>
+	</record>
+	<record>
+		<field name="id">1104</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">215</field>
+	</record>
+	<record>
+		<field name="id">1105</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">215</field>
+	</record>
+	<record>
+		<field name="id">1106</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">217</field>
+	</record>
+	<record>
+		<field name="id">1107</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">217</field>
+	</record>
+	<record>
+		<field name="id">1108</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">222</field>
+	</record>
+	<record>
+		<field name="id">1109</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">222</field>
+	</record>
+	<record>
+		<field name="id">1134</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">233</field>
+	</record>
+	<record>
+		<field name="id">1135</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">233</field>
+	</record>
+	<record>
+		<field name="id">1136</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">235</field>
+	</record>
+	<record>
+		<field name="id">1139</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">238</field>
+	</record>
+	<record>
+		<field name="id">1145</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">241</field>
+	</record>
+	<record>
+		<field name="id">1146</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">241</field>
+	</record>
+	<record>
+		<field name="id">1147</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">240</field>
+	</record>
+	<record>
+		<field name="id">1148</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">240</field>
+	</record>
+	<record>
+		<field name="id">1149</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">240</field>
+	</record>
+	<record>
+		<field name="id">1151</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">243</field>
+	</record>
+	<record>
+		<field name="id">1161</field>
+		<field name="discipline_id">6</field>
+		<field name="event_id">247</field>
+	</record>
+	<record>
+		<field name="id">1162</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">247</field>
+	</record>
+	<record>
+		<field name="id">1176</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">252</field>
+	</record>
+	<record>
+		<field name="id">1177</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">251</field>
+	</record>
+	<record>
+		<field name="id">1190</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">253</field>
+	</record>
+	<record>
+		<field name="id">1191</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">253</field>
+	</record>
+	<record>
+		<field name="id">1192</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">253</field>
+	</record>
+	<record>
+		<field name="id">1193</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">253</field>
+	</record>
+	<record>
+		<field name="id">1200</field>
+		<field name="discipline_id">15</field>
+		<field name="event_id">259</field>
+	</record>
+	<record>
+		<field name="id">1201</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">259</field>
+	</record>
+	<record>
+		<field name="id">1202</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">259</field>
+	</record>
+	<record>
+		<field name="id">1203</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">259</field>
+	</record>
+	<record>
+		<field name="id">1204</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">259</field>
+	</record>
+	<record>
+		<field name="id">1210</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">264</field>
+	</record>
+	<record>
+		<field name="id">1211</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">265</field>
+	</record>
+	<record>
+		<field name="id">1212</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">265</field>
+	</record>
+	<record>
+		<field name="id">1213</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">265</field>
+	</record>
+	<record>
+		<field name="id">1214</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1215</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1216</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1217</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1218</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1219</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">261</field>
+	</record>
+	<record>
+		<field name="id">1220</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1221</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1222</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1223</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1224</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1225</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">262</field>
+	</record>
+	<record>
+		<field name="id">1226</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">263</field>
+	</record>
+	<record>
+		<field name="id">1233</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">258</field>
+	</record>
+	<record>
+		<field name="id">1234</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">257</field>
+	</record>
+	<record>
+		<field name="id">1235</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">269</field>
+	</record>
+	<record>
+		<field name="id">1236</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">271</field>
+	</record>
+	<record>
+		<field name="id">1237</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">271</field>
+	</record>
+	<record>
+		<field name="id">1238</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">271</field>
+	</record>
+	<record>
+		<field name="id">1239</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">272</field>
+	</record>
+	<record>
+		<field name="id">1243</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">276</field>
+	</record>
+	<record>
+		<field name="id">1244</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">276</field>
+	</record>
+	<record>
+		<field name="id">1245</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">276</field>
+	</record>
+	<record>
+		<field name="id">1265</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">278</field>
+	</record>
+	<record>
+		<field name="id">1266</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">275</field>
+	</record>
+	<record>
+		<field name="id">1267</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">275</field>
+	</record>
+	<record>
+		<field name="id">1268</field>
+		<field name="discipline_id">15</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1269</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1270</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1271</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1272</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1273</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1274</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1275</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1276</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1277</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">280</field>
+	</record>
+	<record>
+		<field name="id">1278</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1279</field>
+		<field name="discipline_id">6</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1280</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1281</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1282</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1283</field>
+		<field name="discipline_id">39</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1284</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1285</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1286</field>
+		<field name="discipline_id">47</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1287</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1288</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1289</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1290</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">281</field>
+	</record>
+	<record>
+		<field name="id">1300</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">285</field>
+	</record>
+	<record>
+		<field name="id">1311</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">289</field>
+	</record>
+	<record>
+		<field name="id">1312</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">289</field>
+	</record>
+	<record>
+		<field name="id">1313</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">290</field>
+	</record>
+	<record>
+		<field name="id">1314</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">291</field>
+	</record>
+	<record>
+		<field name="id">1315</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">291</field>
+	</record>
+	<record>
+		<field name="id">1316</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">291</field>
+	</record>
+	<record>
+		<field name="id">1317</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">292</field>
+	</record>
+	<record>
+		<field name="id">1318</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">292</field>
+	</record>
+	<record>
+		<field name="id">1321</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">296</field>
+	</record>
+	<record>
+		<field name="id">1336</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">300</field>
+	</record>
+	<record>
+		<field name="id">1337</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">300</field>
+	</record>
+	<record>
+		<field name="id">1338</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">300</field>
+	</record>
+	<record>
+		<field name="id">1339</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">301</field>
+	</record>
+	<record>
+		<field name="id">1340</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">301</field>
+	</record>
+	<record>
+		<field name="id">1341</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">301</field>
+	</record>
+	<record>
+		<field name="id">1342</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">301</field>
+	</record>
+	<record>
+		<field name="id">1343</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">301</field>
+	</record>
+	<record>
+		<field name="id">1352</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1353</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1354</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1355</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1356</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1357</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1358</field>
+		<field name="discipline_id">62</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1359</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1360</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1361</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">305</field>
+	</record>
+	<record>
+		<field name="id">1362</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">309</field>
+	</record>
+	<record>
+		<field name="id">1363</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">309</field>
+	</record>
+	<record>
+		<field name="id">1364</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">309</field>
+	</record>
+	<record>
+		<field name="id">1365</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">309</field>
+	</record>
+	<record>
+		<field name="id">1366</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">309</field>
+	</record>
+	<record>
+		<field name="id">1367</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">306</field>
+	</record>
+	<record>
+		<field name="id">1368</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">306</field>
+	</record>
+	<record>
+		<field name="id">1369</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">306</field>
+	</record>
+	<record>
+		<field name="id">1370</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">306</field>
+	</record>
+	<record>
+		<field name="id">1371</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">307</field>
+	</record>
+	<record>
+		<field name="id">1372</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">307</field>
+	</record>
+	<record>
+		<field name="id">1373</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">307</field>
+	</record>
+	<record>
+		<field name="id">1374</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">307</field>
+	</record>
+	<record>
+		<field name="id">1375</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">307</field>
+	</record>
+	<record>
+		<field name="id">1390</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">312</field>
+	</record>
+	<record>
+		<field name="id">1391</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">312</field>
+	</record>
+	<record>
+		<field name="id">1392</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">313</field>
+	</record>
+	<record>
+		<field name="id">1393</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">313</field>
+	</record>
+	<record>
+		<field name="id">1425</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">327</field>
+	</record>
+	<record>
+		<field name="id">1426</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">327</field>
+	</record>
+	<record>
+		<field name="id">1427</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">327</field>
+	</record>
+	<record>
+		<field name="id">1428</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">328</field>
+	</record>
+	<record>
+		<field name="id">1429</field>
+		<field name="discipline_id">54</field>
+		<field name="event_id">328</field>
+	</record>
+	<record>
+		<field name="id">1430</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">328</field>
+	</record>
+	<record>
+		<field name="id">1434</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">333</field>
+	</record>
+	<record>
+		<field name="id">1435</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">333</field>
+	</record>
+	<record>
+		<field name="id">1436</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">333</field>
+	</record>
+	<record>
+		<field name="id">1437</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">333</field>
+	</record>
+	<record>
+		<field name="id">1438</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1439</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1440</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1441</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1442</field>
+		<field name="discipline_id">56</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1443</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">335</field>
+	</record>
+	<record>
+		<field name="id">1445</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">337</field>
+	</record>
+	<record>
+		<field name="id">1458</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">345</field>
+	</record>
+	<record>
+		<field name="id">1459</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">345</field>
+	</record>
+	<record>
+		<field name="id">1460</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">346</field>
+	</record>
+	<record>
+		<field name="id">1470</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">349</field>
+	</record>
+	<record>
+		<field name="id">1471</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">351</field>
+	</record>
+	<record>
+		<field name="id">1472</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">354</field>
+	</record>
+	<record>
+		<field name="id">1492</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">359</field>
+	</record>
+	<record>
+		<field name="id">1493</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">359</field>
+	</record>
+	<record>
+		<field name="id">1499</field>
+		<field name="discipline_id">43</field>
+		<field name="event_id">363</field>
+	</record>
+	<record>
+		<field name="id">1507</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">365</field>
+	</record>
+	<record>
+		<field name="id">1508</field>
+		<field name="discipline_id">73</field>
+		<field name="event_id">365</field>
+	</record>
+	<record>
+		<field name="id">1512</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">367</field>
+	</record>
+	<record>
+		<field name="id">1522</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">372</field>
+	</record>
+	<record>
+		<field name="id">1526</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">375</field>
+	</record>
+	<record>
+		<field name="id">1534</field>
+		<field name="discipline_id">57</field>
+		<field name="event_id">378</field>
+	</record>
+	<record>
+		<field name="id">1539</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">380</field>
+	</record>
+	<record>
+		<field name="id">1540</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">380</field>
+	</record>
+	<record>
+		<field name="id">1541</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">382</field>
+	</record>
+	<record>
+		<field name="id">1542</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">382</field>
+	</record>
+	<record>
+		<field name="id">1543</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">384</field>
+	</record>
+	<record>
+		<field name="id">1547</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">386</field>
+	</record>
+	<record>
+		<field name="id">1550</field>
+		<field name="discipline_id">65</field>
+		<field name="event_id">388</field>
+	</record>
+	<record>
+		<field name="id">1554</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">389</field>
+	</record>
+	<record>
+		<field name="id">1558</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">383</field>
+	</record>
+	<record>
+		<field name="id">1559</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">383</field>
+	</record>
+	<record>
+		<field name="id">1560</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">383</field>
+	</record>
+	<record>
+		<field name="id">1561</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">334</field>
+	</record>
+	<record>
+		<field name="id">1562</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">334</field>
+	</record>
+	<record>
+		<field name="id">1563</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">334</field>
+	</record>
+	<record>
+		<field name="id">1596</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">400</field>
+	</record>
+	<record>
+		<field name="id">1597</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">400</field>
+	</record>
+	<record>
+		<field name="id">1598</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">400</field>
+	</record>
+	<record>
+		<field name="id">1600</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">402</field>
+	</record>
+	<record>
+		<field name="id">1615</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">405</field>
+	</record>
+	<record>
+		<field name="id">1616</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">405</field>
+	</record>
+	<record>
+		<field name="id">1617</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">405</field>
+	</record>
+	<record>
+		<field name="id">1618</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">405</field>
+	</record>
+	<record>
+		<field name="id">1619</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">406</field>
+	</record>
+	<record>
+		<field name="id">1625</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1626</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1627</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1628</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1629</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1630</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1631</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1632</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1633</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">409</field>
+	</record>
+	<record>
+		<field name="id">1635</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">411</field>
+	</record>
+	<record>
+		<field name="id">1651</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">417</field>
+	</record>
+	<record>
+		<field name="id">1652</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">418</field>
+	</record>
+	<record>
+		<field name="id">1653</field>
+		<field name="discipline_id">48</field>
+		<field name="event_id">418</field>
+	</record>
+	<record>
+		<field name="id">1654</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">418</field>
+	</record>
+	<record>
+		<field name="id">1655</field>
+		<field name="discipline_id">73</field>
+		<field name="event_id">418</field>
+	</record>
+	<record>
+		<field name="id">1656</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">418</field>
+	</record>
+	<record>
+		<field name="id">1670</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">3</field>
+	</record>
+	<record>
+		<field name="id">1674</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">4</field>
+	</record>
+	<record>
+		<field name="id">1675</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">4</field>
+	</record>
+	<record>
+		<field name="id">1676</field>
+		<field name="discipline_id">51</field>
+		<field name="event_id">4</field>
+	</record>
+	<record>
+		<field name="id">1680</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">226</field>
+	</record>
+	<record>
+		<field name="id">1681</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">228</field>
+	</record>
+	<record>
+		<field name="id">1682</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">214</field>
+	</record>
+	<record>
+		<field name="id">1683</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">214</field>
+	</record>
+	<record>
+		<field name="id">1684</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">195</field>
+	</record>
+	<record>
+		<field name="id">1685</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">194</field>
+	</record>
+	<record>
+		<field name="id">1686</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">194</field>
+	</record>
+	<record>
+		<field name="id">1687</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">194</field>
+	</record>
+	<record>
+		<field name="id">1688</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">17</field>
+	</record>
+	<record>
+		<field name="id">1689</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">17</field>
+	</record>
+	<record>
+		<field name="id">1690</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">61</field>
+	</record>
+	<record>
+		<field name="id">1691</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">61</field>
+	</record>
+	<record>
+		<field name="id">1692</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">61</field>
+	</record>
+	<record>
+		<field name="id">1694</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">63</field>
+	</record>
+	<record>
+		<field name="id">1695</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">64</field>
+	</record>
+	<record>
+		<field name="id">1696</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">64</field>
+	</record>
+	<record>
+		<field name="id">1697</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">64</field>
+	</record>
+	<record>
+		<field name="id">1698</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">64</field>
+	</record>
+	<record>
+		<field name="id">1699</field>
+		<field name="discipline_id">40</field>
+		<field name="event_id">69</field>
+	</record>
+	<record>
+		<field name="id">1700</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">210</field>
+	</record>
+	<record>
+		<field name="id">1701</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">210</field>
+	</record>
+	<record>
+		<field name="id">1702</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">200</field>
+	</record>
+	<record>
+		<field name="id">1703</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">230</field>
+	</record>
+	<record>
+		<field name="id">1704</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">230</field>
+	</record>
+	<record>
+		<field name="id">1705</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">230</field>
+	</record>
+	<record>
+		<field name="id">1706</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">191</field>
+	</record>
+	<record>
+		<field name="id">1707</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">202</field>
+	</record>
+	<record>
+		<field name="id">1708</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">207</field>
+	</record>
+	<record>
+		<field name="id">1709</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">205</field>
+	</record>
+	<record>
+		<field name="id">1710</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">204</field>
+	</record>
+	<record>
+		<field name="id">1711</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">204</field>
+	</record>
+	<record>
+		<field name="id">1712</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">204</field>
+	</record>
+	<record>
+		<field name="id">1713</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">201</field>
+	</record>
+	<record>
+		<field name="id">1714</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">201</field>
+	</record>
+	<record>
+		<field name="id">1715</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">201</field>
+	</record>
+	<record>
+		<field name="id">1716</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">193</field>
+	</record>
+	<record>
+		<field name="id">1717</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">193</field>
+	</record>
+	<record>
+		<field name="id">1718</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">193</field>
+	</record>
+	<record>
+		<field name="id">1719</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">206</field>
+	</record>
+	<record>
+		<field name="id">1720</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">227</field>
+	</record>
+	<record>
+		<field name="id">1721</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">227</field>
+	</record>
+	<record>
+		<field name="id">1722</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">227</field>
+	</record>
+	<record>
+		<field name="id">1723</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">187</field>
+	</record>
+	<record>
+		<field name="id">1724</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">190</field>
+	</record>
+	<record>
+		<field name="id">1725</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">190</field>
+	</record>
+	<record>
+		<field name="id">1726</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">190</field>
+	</record>
+	<record>
+		<field name="id">1727</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">186</field>
+	</record>
+	<record>
+		<field name="id">1728</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">237</field>
+	</record>
+	<record>
+		<field name="id">1729</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">237</field>
+	</record>
+	<record>
+		<field name="id">1730</field>
+		<field name="discipline_id">47</field>
+		<field name="event_id">208</field>
+	</record>
+	<record>
+		<field name="id">1731</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">208</field>
+	</record>
+	<record>
+		<field name="id">1732</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">216</field>
+	</record>
+	<record>
+		<field name="id">1733</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1734</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1735</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1736</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1737</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1738</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1739</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1740</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">279</field>
+	</record>
+	<record>
+		<field name="id">1741</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">267</field>
+	</record>
+	<record>
+		<field name="id">1742</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">267</field>
+	</record>
+	<record>
+		<field name="id">1743</field>
+		<field name="discipline_id">51</field>
+		<field name="event_id">267</field>
+	</record>
+	<record>
+		<field name="id">1744</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">283</field>
+	</record>
+	<record>
+		<field name="id">1745</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">283</field>
+	</record>
+	<record>
+		<field name="id">1746</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">283</field>
+	</record>
+	<record>
+		<field name="id">1747</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">270</field>
+	</record>
+	<record>
+		<field name="id">1748</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">270</field>
+	</record>
+	<record>
+		<field name="id">1749</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">270</field>
+	</record>
+	<record>
+		<field name="id">1750</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">270</field>
+	</record>
+	<record>
+		<field name="id">1751</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">270</field>
+	</record>
+	<record>
+		<field name="id">1752</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">254</field>
+	</record>
+	<record>
+		<field name="id">1753</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">254</field>
+	</record>
+	<record>
+		<field name="id">1754</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">254</field>
+	</record>
+	<record>
+		<field name="id">1755</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">254</field>
+	</record>
+	<record>
+		<field name="id">1756</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">254</field>
+	</record>
+	<record>
+		<field name="id">1757</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1758</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1759</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1760</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1761</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1762</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">274</field>
+	</record>
+	<record>
+		<field name="id">1763</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1764</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1765</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1766</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1767</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1768</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1769</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">286</field>
+	</record>
+	<record>
+		<field name="id">1770</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">246</field>
+	</record>
+	<record>
+		<field name="id">1771</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">246</field>
+	</record>
+	<record>
+		<field name="id">1772</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">246</field>
+	</record>
+	<record>
+		<field name="id">1773</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">244</field>
+	</record>
+	<record>
+		<field name="id">1774</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">244</field>
+	</record>
+	<record>
+		<field name="id">1775</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">288</field>
+	</record>
+	<record>
+		<field name="id">1776</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">250</field>
+	</record>
+	<record>
+		<field name="id">1777</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">273</field>
+	</record>
+	<record>
+		<field name="id">1778</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">273</field>
+	</record>
+	<record>
+		<field name="id">1779</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">266</field>
+	</record>
+	<record>
+		<field name="id">1780</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">284</field>
+	</record>
+	<record>
+		<field name="id">1781</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">284</field>
+	</record>
+	<record>
+		<field name="id">1782</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">284</field>
+	</record>
+	<record>
+		<field name="id">1783</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">282</field>
+	</record>
+	<record>
+		<field name="id">1784</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">256</field>
+	</record>
+	<record>
+		<field name="id">1785</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">256</field>
+	</record>
+	<record>
+		<field name="id">1786</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">256</field>
+	</record>
+	<record>
+		<field name="id">1787</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">256</field>
+	</record>
+	<record>
+		<field name="id">1788</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">256</field>
+	</record>
+	<record>
+		<field name="id">1789</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">245</field>
+	</record>
+	<record>
+		<field name="id">1790</field>
+		<field name="discipline_id">37</field>
+		<field name="event_id">245</field>
+	</record>
+	<record>
+		<field name="id">1791</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">245</field>
+	</record>
+	<record>
+		<field name="id">1792</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">322</field>
+	</record>
+	<record>
+		<field name="id">1793</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">322</field>
+	</record>
+	<record>
+		<field name="id">1794</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">343</field>
+	</record>
+	<record>
+		<field name="id">1795</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">343</field>
+	</record>
+	<record>
+		<field name="id">1796</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">339</field>
+	</record>
+	<record>
+		<field name="id">1797</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">339</field>
+	</record>
+	<record>
+		<field name="id">1798</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">339</field>
+	</record>
+	<record>
+		<field name="id">1799</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">339</field>
+	</record>
+	<record>
+		<field name="id">1800</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1801</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1802</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1803</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1804</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1805</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">310</field>
+	</record>
+	<record>
+		<field name="id">1806</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">295</field>
+	</record>
+	<record>
+		<field name="id">1807</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">295</field>
+	</record>
+	<record>
+		<field name="id">1808</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">295</field>
+	</record>
+	<record>
+		<field name="id">1809</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">329</field>
+	</record>
+	<record>
+		<field name="id">1810</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">342</field>
+	</record>
+	<record>
+		<field name="id">1811</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">325</field>
+	</record>
+	<record>
+		<field name="id">1812</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">325</field>
+	</record>
+	<record>
+		<field name="id">1813</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">341</field>
+	</record>
+	<record>
+		<field name="id">1814</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">330</field>
+	</record>
+	<record>
+		<field name="id">1815</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">352</field>
+	</record>
+	<record>
+		<field name="id">1816</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">352</field>
+	</record>
+	<record>
+		<field name="id">1817</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">352</field>
+	</record>
+	<record>
+		<field name="id">1818</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">352</field>
+	</record>
+	<record>
+		<field name="id">1819</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">297</field>
+	</record>
+	<record>
+		<field name="id">1820</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">303</field>
+	</record>
+	<record>
+		<field name="id">1821</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">303</field>
+	</record>
+	<record>
+		<field name="id">1822</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">303</field>
+	</record>
+	<record>
+		<field name="id">1823</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">316</field>
+	</record>
+	<record>
+		<field name="id">1824</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">316</field>
+	</record>
+	<record>
+		<field name="id">1825</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">316</field>
+	</record>
+	<record>
+		<field name="id">1826</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">304</field>
+	</record>
+	<record>
+		<field name="id">1827</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">304</field>
+	</record>
+	<record>
+		<field name="id">1828</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">304</field>
+	</record>
+	<record>
+		<field name="id">1829</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">304</field>
+	</record>
+	<record>
+		<field name="id">1830</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">299</field>
+	</record>
+	<record>
+		<field name="id">1831</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">299</field>
+	</record>
+	<record>
+		<field name="id">1832</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">324</field>
+	</record>
+	<record>
+		<field name="id">1833</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">324</field>
+	</record>
+	<record>
+		<field name="id">1834</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">324</field>
+	</record>
+	<record>
+		<field name="id">1836</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">317</field>
+	</record>
+	<record>
+		<field name="id">1838</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">362</field>
+	</record>
+	<record>
+		<field name="id">1839</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">361</field>
+	</record>
+	<record>
+		<field name="id">1847</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1848</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1849</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1850</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1851</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1852</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1853</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">377</field>
+	</record>
+	<record>
+		<field name="id">1854</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">355</field>
+	</record>
+	<record>
+		<field name="id">1855</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">366</field>
+	</record>
+	<record>
+		<field name="id">1856</field>
+		<field name="discipline_id">40</field>
+		<field name="event_id">366</field>
+	</record>
+	<record>
+		<field name="id">1857</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">366</field>
+	</record>
+	<record>
+		<field name="id">1858</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">371</field>
+	</record>
+	<record>
+		<field name="id">1859</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">371</field>
+	</record>
+	<record>
+		<field name="id">1860</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">370</field>
+	</record>
+	<record>
+		<field name="id">1861</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">370</field>
+	</record>
+	<record>
+		<field name="id">1862</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">370</field>
+	</record>
+	<record>
+		<field name="id">1863</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">364</field>
+	</record>
+	<record>
+		<field name="id">1864</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">364</field>
+	</record>
+	<record>
+		<field name="id">1865</field>
+		<field name="discipline_id">56</field>
+		<field name="event_id">364</field>
+	</record>
+	<record>
+		<field name="id">1866</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">364</field>
+	</record>
+	<record>
+		<field name="id">1867</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">364</field>
+	</record>
+	<record>
+		<field name="id">1868</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">360</field>
+	</record>
+	<record>
+		<field name="id">1869</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">360</field>
+	</record>
+	<record>
+		<field name="id">1870</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">360</field>
+	</record>
+	<record>
+		<field name="id">1871</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">356</field>
+	</record>
+	<record>
+		<field name="id">1872</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">369</field>
+	</record>
+	<record>
+		<field name="id">1873</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">225</field>
+	</record>
+	<record>
+		<field name="id">1874</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">231</field>
+	</record>
+	<record>
+		<field name="id">1875</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">234</field>
+	</record>
+	<record>
+		<field name="id">1876</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">234</field>
+	</record>
+	<record>
+		<field name="id">1877</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">293</field>
+	</record>
+	<record>
+		<field name="id">1878</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">287</field>
+	</record>
+	<record>
+		<field name="id">1879</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">249</field>
+	</record>
+	<record>
+		<field name="id">1880</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">249</field>
+	</record>
+	<record>
+		<field name="id">1881</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">260</field>
+	</record>
+	<record>
+		<field name="id">1882</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">260</field>
+	</record>
+	<record>
+		<field name="id">1883</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">268</field>
+	</record>
+	<record>
+		<field name="id">1884</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">268</field>
+	</record>
+	<record>
+		<field name="id">1885</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">268</field>
+	</record>
+	<record>
+		<field name="id">1886</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">268</field>
+	</record>
+	<record>
+		<field name="id">1887</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">248</field>
+	</record>
+	<record>
+		<field name="id">1888</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">248</field>
+	</record>
+	<record>
+		<field name="id">1889</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">248</field>
+	</record>
+	<record>
+		<field name="id">1890</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">248</field>
+	</record>
+	<record>
+		<field name="id">1891</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">277</field>
+	</record>
+	<record>
+		<field name="id">1892</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">277</field>
+	</record>
+	<record>
+		<field name="id">1893</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">255</field>
+	</record>
+	<record>
+		<field name="id">1894</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">255</field>
+	</record>
+	<record>
+		<field name="id">1895</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">298</field>
+	</record>
+	<record>
+		<field name="id">1896</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">298</field>
+	</record>
+	<record>
+		<field name="id">1897</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">314</field>
+	</record>
+	<record>
+		<field name="id">1898</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">314</field>
+	</record>
+	<record>
+		<field name="id">1899</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">314</field>
+	</record>
+	<record>
+		<field name="id">1900</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">311</field>
+	</record>
+	<record>
+		<field name="id">1901</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">311</field>
+	</record>
+	<record>
+		<field name="id">1902</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">326</field>
+	</record>
+	<record>
+		<field name="id">1903</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">326</field>
+	</record>
+	<record>
+		<field name="id">1904</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">326</field>
+	</record>
+	<record>
+		<field name="id">1905</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">323</field>
+	</record>
+	<record>
+		<field name="id">1906</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">323</field>
+	</record>
+	<record>
+		<field name="id">1907</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">319</field>
+	</record>
+	<record>
+		<field name="id">1908</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">319</field>
+	</record>
+	<record>
+		<field name="id">1909</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">319</field>
+	</record>
+	<record>
+		<field name="id">1910</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">308</field>
+	</record>
+	<record>
+		<field name="id">1911</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">308</field>
+	</record>
+	<record>
+		<field name="id">1912</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">318</field>
+	</record>
+	<record>
+		<field name="id">1913</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">318</field>
+	</record>
+	<record>
+		<field name="id">1914</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">318</field>
+	</record>
+	<record>
+		<field name="id">1915</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">294</field>
+	</record>
+	<record>
+		<field name="id">1916</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">302</field>
+	</record>
+	<record>
+		<field name="id">1917</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">302</field>
+	</record>
+	<record>
+		<field name="id">1918</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">376</field>
+	</record>
+	<record>
+		<field name="id">1919</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">357</field>
+	</record>
+	<record>
+		<field name="id">1920</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">357</field>
+	</record>
+	<record>
+		<field name="id">1921</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">373</field>
+	</record>
+	<record>
+		<field name="id">1922</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">381</field>
+	</record>
+	<record>
+		<field name="id">1923</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">374</field>
+	</record>
+	<record>
+		<field name="id">1924</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">358</field>
+	</record>
+	<record>
+		<field name="id">1925</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">358</field>
+	</record>
+	<record>
+		<field name="id">1926</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">358</field>
+	</record>
+	<record>
+		<field name="id">1927</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">358</field>
+	</record>
+	<record>
+		<field name="id">1928</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">390</field>
+	</record>
+	<record>
+		<field name="id">1929</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">385</field>
+	</record>
+	<record>
+		<field name="id">1930</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">385</field>
+	</record>
+	<record>
+		<field name="id">1931</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">391</field>
+	</record>
+	<record>
+		<field name="id">1932</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">391</field>
+	</record>
+	<record>
+		<field name="id">1933</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">115</field>
+	</record>
+	<record>
+		<field name="id">1934</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">115</field>
+	</record>
+	<record>
+		<field name="id">1935</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">116</field>
+	</record>
+	<record>
+		<field name="id">1936</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">116</field>
+	</record>
+	<record>
+		<field name="id">1937</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">116</field>
+	</record>
+	<record>
+		<field name="id">1938</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">119</field>
+	</record>
+	<record>
+		<field name="id">1939</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">121</field>
+	</record>
+	<record>
+		<field name="id">1940</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">121</field>
+	</record>
+	<record>
+		<field name="id">1947</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">120</field>
+	</record>
+	<record>
+		<field name="id">1948</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">120</field>
+	</record>
+	<record>
+		<field name="id">1949</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">125</field>
+	</record>
+	<record>
+		<field name="id">1950</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">128</field>
+	</record>
+	<record>
+		<field name="id">1951</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">128</field>
+	</record>
+	<record>
+		<field name="id">1952</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">128</field>
+	</record>
+	<record>
+		<field name="id">1953</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">129</field>
+	</record>
+	<record>
+		<field name="id">1954</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">129</field>
+	</record>
+	<record>
+		<field name="id">1955</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">127</field>
+	</record>
+	<record>
+		<field name="id">1956</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">127</field>
+	</record>
+	<record>
+		<field name="id">1957</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">127</field>
+	</record>
+	<record>
+		<field name="id">1958</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">131</field>
+	</record>
+	<record>
+		<field name="id">1959</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">131</field>
+	</record>
+	<record>
+		<field name="id">1960</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">131</field>
+	</record>
+	<record>
+		<field name="id">1961</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">1</field>
+	</record>
+	<record>
+		<field name="id">1962</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">1</field>
+	</record>
+	<record>
+		<field name="id">1963</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">1</field>
+	</record>
+	<record>
+		<field name="id">1964</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">1</field>
+	</record>
+	<record>
+		<field name="id">1965</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">393</field>
+	</record>
+	<record>
+		<field name="id">1966</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">393</field>
+	</record>
+	<record>
+		<field name="id">1967</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">394</field>
+	</record>
+	<record>
+		<field name="id">1968</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">394</field>
+	</record>
+	<record>
+		<field name="id">1969</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">397</field>
+	</record>
+	<record>
+		<field name="id">1970</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">397</field>
+	</record>
+	<record>
+		<field name="id">1971</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">398</field>
+	</record>
+	<record>
+		<field name="id">1972</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">398</field>
+	</record>
+	<record>
+		<field name="id">1973</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">398</field>
+	</record>
+	<record>
+		<field name="id">1974</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">396</field>
+	</record>
+	<record>
+		<field name="id">1975</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">396</field>
+	</record>
+	<record>
+		<field name="id">1976</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">395</field>
+	</record>
+	<record>
+		<field name="id">1977</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">399</field>
+	</record>
+	<record>
+		<field name="id">1978</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">399</field>
+	</record>
+	<record>
+		<field name="id">1979</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">399</field>
+	</record>
+	<record>
+		<field name="id">1980</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">399</field>
+	</record>
+	<record>
+		<field name="id">1981</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">404</field>
+	</record>
+	<record>
+		<field name="id">1982</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">404</field>
+	</record>
+	<record>
+		<field name="id">1983</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">404</field>
+	</record>
+	<record>
+		<field name="id">1984</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">401</field>
+	</record>
+	<record>
+		<field name="id">1985</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1986</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1987</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1988</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1989</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1990</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1991</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1992</field>
+		<field name="discipline_id">64</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1993</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">403</field>
+	</record>
+	<record>
+		<field name="id">1994</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">407</field>
+	</record>
+	<record>
+		<field name="id">1995</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">407</field>
+	</record>
+	<record>
+		<field name="id">1996</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">408</field>
+	</record>
+	<record>
+		<field name="id">1997</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">408</field>
+	</record>
+	<record>
+		<field name="id">1998</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">408</field>
+	</record>
+	<record>
+		<field name="id">1999</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">412</field>
+	</record>
+	<record>
+		<field name="id">2000</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">410</field>
+	</record>
+	<record>
+		<field name="id">2001</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">413</field>
+	</record>
+	<record>
+		<field name="id">2002</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">413</field>
+	</record>
+	<record>
+		<field name="id">2003</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">413</field>
+	</record>
+	<record>
+		<field name="id">2004</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">413</field>
+	</record>
+	<record>
+		<field name="id">2005</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">419</field>
+	</record>
+	<record>
+		<field name="id">2006</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">419</field>
+	</record>
+	<record>
+		<field name="id">2007</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">421</field>
+	</record>
+	<record>
+		<field name="id">2008</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">421</field>
+	</record>
+	<record>
+		<field name="id">2009</field>
+		<field name="discipline_id">49</field>
+		<field name="event_id">421</field>
+	</record>
+	<record>
+		<field name="id">2010</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">420</field>
+	</record>
+	<record>
+		<field name="id">2011</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">414</field>
+	</record>
+	<record>
+		<field name="id">2012</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2013</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2014</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2015</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2016</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2017</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2018</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">416</field>
+	</record>
+	<record>
+		<field name="id">2019</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">415</field>
+	</record>
+	<record>
+		<field name="id">2020</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">422</field>
+	</record>
+	<record>
+		<field name="id">2021</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">422</field>
+	</record>
+	<record>
+		<field name="id">2022</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">423</field>
+	</record>
+	<record>
+		<field name="id">2023</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">423</field>
+	</record>
+	<record>
+		<field name="id">2024</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">137</field>
+	</record>
+	<record>
+		<field name="id">2025</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">137</field>
+	</record>
+	<record>
+		<field name="id">2026</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">137</field>
+	</record>
+	<record>
+		<field name="id">2027</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">137</field>
+	</record>
+	<record>
+		<field name="id">2028</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">134</field>
+	</record>
+	<record>
+		<field name="id">2029</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">136</field>
+	</record>
+	<record>
+		<field name="id">2030</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">136</field>
+	</record>
+	<record>
+		<field name="id">2031</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">136</field>
+	</record>
+	<record>
+		<field name="id">2032</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">136</field>
+	</record>
+	<record>
+		<field name="id">2033</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">136</field>
+	</record>
+	<record>
+		<field name="id">2034</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">135</field>
+	</record>
+	<record>
+		<field name="id">2035</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">132</field>
+	</record>
+	<record>
+		<field name="id">2036</field>
+		<field name="discipline_id">80</field>
+		<field name="event_id">132</field>
+	</record>
+	<record>
+		<field name="id">2037</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">138</field>
+	</record>
+	<record>
+		<field name="id">2038</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">138</field>
+	</record>
+	<record>
+		<field name="id">2039</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">138</field>
+	</record>
+	<record>
+		<field name="id">2040</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">140</field>
+	</record>
+	<record>
+		<field name="id">2041</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">140</field>
+	</record>
+	<record>
+		<field name="id">2042</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">141</field>
+	</record>
+	<record>
+		<field name="id">2043</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">141</field>
+	</record>
+	<record>
+		<field name="id">2044</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">141</field>
+	</record>
+	<record>
+		<field name="id">2045</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">142</field>
+	</record>
+	<record>
+		<field name="id">2046</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">144</field>
+	</record>
+	<record>
+		<field name="id">2047</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">144</field>
+	</record>
+	<record>
+		<field name="id">2048</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">144</field>
+	</record>
+	<record>
+		<field name="id">2049</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">144</field>
+	</record>
+	<record>
+		<field name="id">2050</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">154</field>
+	</record>
+	<record>
+		<field name="id">2051</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">154</field>
+	</record>
+	<record>
+		<field name="id">2052</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">148</field>
+	</record>
+	<record>
+		<field name="id">2053</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">148</field>
+	</record>
+	<record>
+		<field name="id">2054</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">148</field>
+	</record>
+	<record>
+		<field name="id">2055</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2056</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2057</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2058</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2059</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2060</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">152</field>
+	</record>
+	<record>
+		<field name="id">2061</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">149</field>
+	</record>
+	<record>
+		<field name="id">2062</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">149</field>
+	</record>
+	<record>
+		<field name="id">2063</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">153</field>
+	</record>
+	<record>
+		<field name="id">2064</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">155</field>
+	</record>
+	<record>
+		<field name="id">2065</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">156</field>
+	</record>
+	<record>
+		<field name="id">2066</field>
+		<field name="discipline_id">37</field>
+		<field name="event_id">156</field>
+	</record>
+	<record>
+		<field name="id">2067</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">157</field>
+	</record>
+	<record>
+		<field name="id">2068</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">157</field>
+	</record>
+	<record>
+		<field name="id">2069</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">158</field>
+	</record>
+	<record>
+		<field name="id">2070</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">159</field>
+	</record>
+	<record>
+		<field name="id">2071</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">159</field>
+	</record>
+	<record>
+		<field name="id">2072</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">163</field>
+	</record>
+	<record>
+		<field name="id">2073</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">163</field>
+	</record>
+	<record>
+		<field name="id">2074</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">163</field>
+	</record>
+	<record>
+		<field name="id">2075</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">163</field>
+	</record>
+	<record>
+		<field name="id">2076</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">166</field>
+	</record>
+	<record>
+		<field name="id">2077</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">166</field>
+	</record>
+	<record>
+		<field name="id">2078</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">165</field>
+	</record>
+	<record>
+		<field name="id">2079</field>
+		<field name="discipline_id">47</field>
+		<field name="event_id">165</field>
+	</record>
+	<record>
+		<field name="id">2080</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">165</field>
+	</record>
+	<record>
+		<field name="id">2081</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">165</field>
+	</record>
+	<record>
+		<field name="id">2082</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">165</field>
+	</record>
+	<record>
+		<field name="id">2083</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">178</field>
+	</record>
+	<record>
+		<field name="id">2084</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">168</field>
+	</record>
+	<record>
+		<field name="id">2085</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">168</field>
+	</record>
+	<record>
+		<field name="id">2086</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">168</field>
+	</record>
+	<record>
+		<field name="id">2087</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">169</field>
+	</record>
+	<record>
+		<field name="id">2088</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">167</field>
+	</record>
+	<record>
+		<field name="id">2089</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">172</field>
+	</record>
+	<record>
+		<field name="id">2090</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">170</field>
+	</record>
+	<record>
+		<field name="id">2091</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">175</field>
+	</record>
+	<record>
+		<field name="id">2092</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">173</field>
+	</record>
+	<record>
+		<field name="id">2093</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">176</field>
+	</record>
+	<record>
+		<field name="id">2094</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">177</field>
+	</record>
+	<record>
+		<field name="id">2095</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">177</field>
+	</record>
+	<record>
+		<field name="id">2096</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">179</field>
+	</record>
+	<record>
+		<field name="id">2098</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">184</field>
+	</record>
+	<record>
+		<field name="id">2099</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">183</field>
+	</record>
+	<record>
+		<field name="id">2100</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">183</field>
+	</record>
+	<record>
+		<field name="id">2101</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">183</field>
+	</record>
+	<record>
+		<field name="id">2102</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">182</field>
+	</record>
+	<record>
+		<field name="id">2103</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">182</field>
+	</record>
+	<record>
+		<field name="id">2104</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">185</field>
+	</record>
+	<record>
+		<field name="id">2105</field>
+		<field name="discipline_id">78</field>
+		<field name="event_id">185</field>
+	</record>
+	<record>
+		<field name="id">2106</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">188</field>
+	</record>
+	<record>
+		<field name="id">2107</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">188</field>
+	</record>
+	<record>
+		<field name="id">2108</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">188</field>
+	</record>
+	<record>
+		<field name="id">2109</field>
+		<field name="discipline_id">34</field>
+		<field name="event_id">181</field>
+	</record>
+	<record>
+		<field name="id">2110</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">181</field>
+	</record>
+	<record>
+		<field name="id">2111</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">72</field>
+	</record>
+	<record>
+		<field name="id">2112</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">72</field>
+	</record>
+	<record>
+		<field name="id">2113</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">72</field>
+	</record>
+	<record>
+		<field name="id">2114</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">74</field>
+	</record>
+	<record>
+		<field name="id">2115</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">74</field>
+	</record>
+	<record>
+		<field name="id">2116</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">74</field>
+	</record>
+	<record>
+		<field name="id">2117</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">77</field>
+	</record>
+	<record>
+		<field name="id">2118</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">77</field>
+	</record>
+	<record>
+		<field name="id">2119</field>
+		<field name="discipline_id">60</field>
+		<field name="event_id">77</field>
+	</record>
+	<record>
+		<field name="id">2120</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">76</field>
+	</record>
+	<record>
+		<field name="id">2121</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2122</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2123</field>
+		<field name="discipline_id">28</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2124</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2125</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2126</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2127</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2128</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2129</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2130</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2131</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2132</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2133</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2134</field>
+		<field name="discipline_id">61</field>
+		<field name="event_id">79</field>
+	</record>
+	<record>
+		<field name="id">2135</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">80</field>
+	</record>
+	<record>
+		<field name="id">2136</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">85</field>
+	</record>
+	<record>
+		<field name="id">2137</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">82</field>
+	</record>
+	<record>
+		<field name="id">2138</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">83</field>
+	</record>
+	<record>
+		<field name="id">2139</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">84</field>
+	</record>
+	<record>
+		<field name="id">2140</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">84</field>
+	</record>
+	<record>
+		<field name="id">2141</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">87</field>
+	</record>
+	<record>
+		<field name="id">2142</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">88</field>
+	</record>
+	<record>
+		<field name="id">2143</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">88</field>
+	</record>
+	<record>
+		<field name="id">2144</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">89</field>
+	</record>
+	<record>
+		<field name="id">2145</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">89</field>
+	</record>
+	<record>
+		<field name="id">2146</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">89</field>
+	</record>
+	<record>
+		<field name="id">2147</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">90</field>
+	</record>
+	<record>
+		<field name="id">2148</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">92</field>
+	</record>
+	<record>
+		<field name="id">2149</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">95</field>
+	</record>
+	<record>
+		<field name="id">2150</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">95</field>
+	</record>
+	<record>
+		<field name="id">2151</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">95</field>
+	</record>
+	<record>
+		<field name="id">2152</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">93</field>
+	</record>
+	<record>
+		<field name="id">2153</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">93</field>
+	</record>
+	<record>
+		<field name="id">2154</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">93</field>
+	</record>
+	<record>
+		<field name="id">2155</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">93</field>
+	</record>
+	<record>
+		<field name="id">2156</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">98</field>
+	</record>
+	<record>
+		<field name="id">2157</field>
+		<field name="discipline_id">52</field>
+		<field name="event_id">98</field>
+	</record>
+	<record>
+		<field name="id">2158</field>
+		<field name="discipline_id">74</field>
+		<field name="event_id">98</field>
+	</record>
+	<record>
+		<field name="id">2159</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">99</field>
+	</record>
+	<record>
+		<field name="id">2160</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">99</field>
+	</record>
+	<record>
+		<field name="id">2161</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">102</field>
+	</record>
+	<record>
+		<field name="id">2162</field>
+		<field name="discipline_id">37</field>
+		<field name="event_id">102</field>
+	</record>
+	<record>
+		<field name="id">2163</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">102</field>
+	</record>
+	<record>
+		<field name="id">2164</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">102</field>
+	</record>
+	<record>
+		<field name="id">2165</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">102</field>
+	</record>
+	<record>
+		<field name="id">2166</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">105</field>
+	</record>
+	<record>
+		<field name="id">2167</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">105</field>
+	</record>
+	<record>
+		<field name="id">2168</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">105</field>
+	</record>
+	<record>
+		<field name="id">2169</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">105</field>
+	</record>
+	<record>
+		<field name="id">2170</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2171</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2172</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2173</field>
+		<field name="discipline_id">35</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2174</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2175</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2176</field>
+		<field name="discipline_id">70</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2177</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2178</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">104</field>
+	</record>
+	<record>
+		<field name="id">2179</field>
+		<field name="discipline_id">25</field>
+		<field name="event_id">108</field>
+	</record>
+	<record>
+		<field name="id">2180</field>
+		<field name="discipline_id">30</field>
+		<field name="event_id">108</field>
+	</record>
+	<record>
+		<field name="id">2181</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">108</field>
+	</record>
+	<record>
+		<field name="id">2182</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">108</field>
+	</record>
+	<record>
+		<field name="id">2183</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">109</field>
+	</record>
+	<record>
+		<field name="id">2184</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">109</field>
+	</record>
+	<record>
+		<field name="id">2185</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">109</field>
+	</record>
+	<record>
+		<field name="id">2186</field>
+		<field name="discipline_id">77</field>
+		<field name="event_id">107</field>
+	</record>
+	<record>
+		<field name="id">2187</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">112</field>
+	</record>
+	<record>
+		<field name="id">2188</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">198</field>
+	</record>
+	<record>
+		<field name="id">2189</field>
+		<field name="discipline_id">50</field>
+		<field name="event_id">198</field>
+	</record>
+	<record>
+		<field name="id">2190</field>
+		<field name="discipline_id">40</field>
+		<field name="event_id">203</field>
+	</record>
+	<record>
+		<field name="id">2191</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">65</field>
+	</record>
+	<record>
+		<field name="id">2192</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">68</field>
+	</record>
+	<record>
+		<field name="id">2193</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">68</field>
+	</record>
+	<record>
+		<field name="id">2194</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">236</field>
+	</record>
+	<record>
+		<field name="id">2195</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">236</field>
+	</record>
+	<record>
+		<field name="id">2196</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">197</field>
+	</record>
+	<record>
+		<field name="id">2197</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">197</field>
+	</record>
+	<record>
+		<field name="id">2198</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">211</field>
+	</record>
+	<record>
+		<field name="id">2201</field>
+		<field name="discipline_id">46</field>
+		<field name="event_id">232</field>
+	</record>
+	<record>
+		<field name="id">2202</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">232</field>
+	</record>
+	<record>
+		<field name="id">2203</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">229</field>
+	</record>
+	<record>
+		<field name="id">2206</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">224</field>
+	</record>
+	<record>
+		<field name="id">2207</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">224</field>
+	</record>
+	<record>
+		<field name="id">2208</field>
+		<field name="discipline_id">68</field>
+		<field name="event_id">239</field>
+	</record>
+	<record>
+		<field name="id">2209</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">199</field>
+	</record>
+	<record>
+		<field name="id">2210</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">199</field>
+	</record>
+	<record>
+		<field name="id">2211</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">199</field>
+	</record>
+	<record>
+		<field name="id">2212</field>
+		<field name="discipline_id">55</field>
+		<field name="event_id">223</field>
+	</record>
+	<record>
+		<field name="id">2213</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">242</field>
+	</record>
+	<record>
+		<field name="id">2214</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">189</field>
+	</record>
+	<record>
+		<field name="id">2216</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">368</field>
+	</record>
+	<record>
+		<field name="id">2217</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">350</field>
+	</record>
+	<record>
+		<field name="id">2218</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">350</field>
+	</record>
+	<record>
+		<field name="id">2219</field>
+		<field name="discipline_id">29</field>
+		<field name="event_id">344</field>
+	</record>
+	<record>
+		<field name="id">2220</field>
+		<field name="discipline_id">53</field>
+		<field name="event_id">344</field>
+	</record>
+	<record>
+		<field name="id">2221</field>
+		<field name="discipline_id">45</field>
+		<field name="event_id">336</field>
+	</record>
+	<record>
+		<field name="id">2222</field>
+		<field name="discipline_id">32</field>
+		<field name="event_id">387</field>
+	</record>
+	<record>
+		<field name="id">2223</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">387</field>
+	</record>
+	<record>
+		<field name="id">2224</field>
+		<field name="discipline_id">44</field>
+		<field name="event_id">379</field>
+	</record>
+	<record>
+		<field name="id">2225</field>
+		<field name="discipline_id">3</field>
+		<field name="event_id">347</field>
+	</record>
+	<record>
+		<field name="id">2226</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">338</field>
+	</record>
+	<record>
+		<field name="id">2227</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">338</field>
+	</record>
+	<record>
+		<field name="id">2228</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">353</field>
+	</record>
+	<record>
+		<field name="id">2229</field>
+		<field name="discipline_id">40</field>
+		<field name="event_id">353</field>
+	</record>
+	<record>
+		<field name="id">2230</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">353</field>
+	</record>
+	<record>
+		<field name="id">2231</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">353</field>
+	</record>
+	<record>
+		<field name="id">2232</field>
+		<field name="discipline_id">88</field>
+		<field name="event_id">424</field>
+	</record>
+	<record>
+		<field name="id">2233</field>
+		<field name="discipline_id">88</field>
+		<field name="event_id">425</field>
+	</record>
+	<record>
+		<field name="id">2234</field>
+		<field name="discipline_id">88</field>
+		<field name="event_id">426</field>
+	</record>
+	<record>
+		<field name="id">2235</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">427</field>
+	</record>
+	<record>
+		<field name="id">2236</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">428</field>
+	</record>
+	<record>
+		<field name="id">2237</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">429</field>
+	</record>
+	<record>
+		<field name="id">2238</field>
+		<field name="discipline_id">59</field>
+		<field name="event_id">430</field>
+	</record>
+	<record>
+		<field name="id">2239</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">430</field>
+	</record>
+	<record>
+		<field name="id">2240</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2241</field>
+		<field name="discipline_id">41</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2242</field>
+		<field name="discipline_id">42</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2243</field>
+		<field name="discipline_id">66</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2244</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2245</field>
+		<field name="discipline_id">81</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2246</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">122</field>
+	</record>
+	<record>
+		<field name="id">2247</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">431</field>
+	</record>
+	<record>
+		<field name="id">2251</field>
+		<field name="discipline_id">12</field>
+		<field name="event_id">432</field>
+	</record>
+	<record>
+		<field name="id">2252</field>
+		<field name="discipline_id">63</field>
+		<field name="event_id">432</field>
+	</record>
+	<record>
+		<field name="id">2253</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">432</field>
+	</record>
+	<record>
+		<field name="id">2254</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">433</field>
+	</record>
+	<record>
+		<field name="id">2255</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">434</field>
+	</record>
+	<record>
+		<field name="id">2256</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">435</field>
+	</record>
+	<record>
+		<field name="id">2258</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">436</field>
+	</record>
+	<record>
+		<field name="id">2259</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">437</field>
+	</record>
+	<record>
+		<field name="id">2260</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">437</field>
+	</record>
+	<record>
+		<field name="id">2261</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">438</field>
+	</record>
+	<record>
+		<field name="id">2262</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">439</field>
+	</record>
+	<record>
+		<field name="id">2263</field>
+		<field name="discipline_id">76</field>
+		<field name="event_id">440</field>
+	</record>
+	<record>
+		<field name="id">2264</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">440</field>
+	</record>
+	<record>
+		<field name="id">2265</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">440</field>
+	</record>
+	<record>
+		<field name="id">2266</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">441</field>
+	</record>
+	<record>
+		<field name="id">2267</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">442</field>
+	</record>
+	<record>
+		<field name="id">2268</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">442</field>
+	</record>
+	<record>
+		<field name="id">2269</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">443</field>
+	</record>
+	<record>
+		<field name="id">2270</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">443</field>
+	</record>
+	<record>
+		<field name="id">2271</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">443</field>
+	</record>
+	<record>
+		<field name="id">2272</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">444</field>
+	</record>
+	<record>
+		<field name="id">2273</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">444</field>
+	</record>
+	<record>
+		<field name="id">2274</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">445</field>
+	</record>
+	<record>
+		<field name="id">2275</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">445</field>
+	</record>
+	<record>
+		<field name="id">2276</field>
+		<field name="discipline_id">79</field>
+		<field name="event_id">446</field>
+	</record>
+	<record>
+		<field name="id">2277</field>
+		<field name="discipline_id">85</field>
+		<field name="event_id">446</field>
+	</record>
+	<record>
+		<field name="id">2278</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">446</field>
+	</record>
+	<record>
+		<field name="id">2279</field>
+		<field name="discipline_id">86</field>
+		<field name="event_id">447</field>
+	</record>
+	<record>
+		<field name="id">2280</field>
+		<field name="discipline_id">87</field>
+		<field name="event_id">447</field>
+	</record>
+	<record>
+		<field name="id">2281</field>
+		<field name="discipline_id">88</field>
+		<field name="event_id">447</field>
+	</record>
+	<record>
+		<field name="id">2282</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">448</field>
+	</record>
+	<record>
+		<field name="id">2283</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">449</field>
+	</record>
+	<record>
+		<field name="id">2284</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">348</field>
+	</record>
+	<record>
+		<field name="id">2285</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">348</field>
+	</record>
+	<record>
+		<field name="id">2286</field>
+		<field name="discipline_id">82</field>
+		<field name="event_id">450</field>
+	</record>
+	<record>
+		<field name="id">2287</field>
+		<field name="discipline_id">83</field>
+		<field name="event_id">450</field>
+	</record>
+	<record>
+		<field name="id">2288</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">451</field>
+	</record>
+	<record>
+		<field name="id">2289</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">452</field>
+	</record>
+	<record>
+		<field name="id">2290</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">453</field>
+	</record>
+	<record>
+		<field name="id">2291</field>
+		<field name="discipline_id">0</field>
+		<field name="event_id">454</field>
+	</record>
+	<record>
+		<field name="id">2292</field>
+		<field name="discipline_id">0</field>
+		<field name="event_id">455</field>
+	</record>
+	<record>
+		<field name="id">2293</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">456</field>
+	</record>
+	<record>
+		<field name="id">2294</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">457</field>
+	</record>
+	<record>
+		<field name="id">2295</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">458</field>
+	</record>
+	<record>
+		<field name="id">2296</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">459</field>
+	</record>
+	<record>
+		<field name="id">2297</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">460</field>
+	</record>
+	<record>
+		<field name="id">2298</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">461</field>
+	</record>
+	<record>
+		<field name="id">2299</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">462</field>
+	</record>
+	<record>
+		<field name="id">2300</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">463</field>
+	</record>
+	<record>
+		<field name="id">2301</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">464</field>
+	</record>
+	<record>
+		<field name="id">2302</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">465</field>
+	</record>
+	<record>
+		<field name="id">2303</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">466</field>
+	</record>
+	<record>
+		<field name="id">2304</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">467</field>
+	</record>
+	<record>
+		<field name="id">2305</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">468</field>
+	</record>
+	<record>
+		<field name="id">2306</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">469</field>
+	</record>
+	<record>
+		<field name="id">2307</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">470</field>
+	</record>
+	<record>
+		<field name="id">2308</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">471</field>
+	</record>
+	<record>
+		<field name="id">2309</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">472</field>
+	</record>
+	<record>
+		<field name="id">2310</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">473</field>
+	</record>
+	<record>
+		<field name="id">2311</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">474</field>
+	</record>
+	<record>
+		<field name="id">2312</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">475</field>
+	</record>
+	<record>
+		<field name="id">2313</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">476</field>
+	</record>
+	<record>
+		<field name="id">2314</field>
+		<field name="discipline_id">75</field>
+		<field name="event_id">477</field>
+	</record>
+	<record>
+		<field name="id">2315</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">478</field>
+	</record>
+	<record>
+		<field name="id">2316</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">479</field>
+	</record>
+	<record>
+		<field name="id">2317</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">480</field>
+	</record>
+	<record>
+		<field name="id">2318</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">481</field>
+	</record>
+	<record>
+		<field name="id">2319</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">482</field>
+	</record>
+	<record>
+		<field name="id">2320</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">483</field>
+	</record>
+	<record>
+		<field name="id">2321</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">484</field>
+	</record>
+	<record>
+		<field name="id">2322</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">485</field>
+	</record>
+	<record>
+		<field name="id">2323</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">486</field>
+	</record>
+	<record>
+		<field name="id">2324</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">487</field>
+	</record>
+	<record>
+		<field name="id">2325</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">488</field>
+	</record>
+	<record>
+		<field name="id">2326</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">489</field>
+	</record>
+	<record>
+		<field name="id">2327</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">490</field>
+	</record>
+	<record>
+		<field name="id">2328</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">491</field>
+	</record>
+	<record>
+		<field name="id">2329</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">492</field>
+	</record>
+	<record>
+		<field name="id">2330</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">493</field>
+	</record>
+	<record>
+		<field name="id">2331</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">494</field>
+	</record>
+	<record>
+		<field name="id">2332</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">495</field>
+	</record>
+	<record>
+		<field name="id">2333</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">496</field>
+	</record>
+	<record>
+		<field name="id">2334</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">497</field>
+	</record>
+	<record>
+		<field name="id">2335</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">498</field>
+	</record>
+	<record>
+		<field name="id">2336</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">499</field>
+	</record>
+	<record>
+		<field name="id">2337</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">500</field>
+	</record>
+	<record>
+		<field name="id">2338</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">501</field>
+	</record>
+	<record>
+		<field name="id">2339</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">502</field>
+	</record>
+	<record>
+		<field name="id">2340</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">503</field>
+	</record>
+	<record>
+		<field name="id">2341</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">504</field>
+	</record>
+	<record>
+		<field name="id">2342</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">505</field>
+	</record>
+	<record>
+		<field name="id">2343</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">506</field>
+	</record>
+	<record>
+		<field name="id">2344</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">507</field>
+	</record>
+	<record>
+		<field name="id">2345</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">508</field>
+	</record>
+	<record>
+		<field name="id">2346</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">509</field>
+	</record>
+	<record>
+		<field name="id">2347</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">510</field>
+	</record>
+	<record>
+		<field name="id">2348</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">511</field>
+	</record>
+	<record>
+		<field name="id">2349</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">512</field>
+	</record>
+	<record>
+		<field name="id">2350</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">513</field>
+	</record>
+	<record>
+		<field name="id">2351</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">514</field>
+	</record>
+	<record>
+		<field name="id">2352</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">515</field>
+	</record>
+	<record>
+		<field name="id">2353</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">516</field>
+	</record>
+	<record>
+		<field name="id">2354</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">517</field>
+	</record>
+	<record>
+		<field name="id">2355</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">518</field>
+	</record>
+	<record>
+		<field name="id">2356</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">519</field>
+	</record>
+	<record>
+		<field name="id">2357</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">520</field>
+	</record>
+	<record>
+		<field name="id">2358</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">521</field>
+	</record>
+	<record>
+		<field name="id">2359</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">523</field>
+	</record>
+	<record>
+		<field name="id">2360</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">524</field>
+	</record>
+	<record>
+		<field name="id">2361</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">525</field>
+	</record>
+	<record>
+		<field name="id">2362</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">526</field>
+	</record>
+	<record>
+		<field name="id">2363</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">527</field>
+	</record>
+	<record>
+		<field name="id">2364</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">528</field>
+	</record>
+	<record>
+		<field name="id">2365</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">529</field>
+	</record>
+	<record>
+		<field name="id">2366</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">530</field>
+	</record>
+	<record>
+		<field name="id">2367</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">531</field>
+	</record>
+	<record>
+		<field name="id">2368</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">532</field>
+	</record>
+	<record>
+		<field name="id">2369</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">533</field>
+	</record>
+	<record>
+		<field name="id">2370</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">534</field>
+	</record>
+	<record>
+		<field name="id">2371</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">535</field>
+	</record>
+	<record>
+		<field name="id">2372</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">536</field>
+	</record>
+	<record>
+		<field name="id">2373</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">537</field>
+	</record>
+	<record>
+		<field name="id">2374</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">538</field>
+	</record>
+	<record>
+		<field name="id">2375</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">539</field>
+	</record>
+	<record>
+		<field name="id">2376</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">540</field>
+	</record>
+	<record>
+		<field name="id">2377</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">541</field>
+	</record>
+	<record>
+		<field name="id">2378</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">542</field>
+	</record>
+	<record>
+		<field name="id">2379</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">543</field>
+	</record>
+	<record>
+		<field name="id">2380</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">544</field>
+	</record>
+	<record>
+		<field name="id">2381</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">545</field>
+	</record>
+	<record>
+		<field name="id">2382</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">546</field>
+	</record>
+	<record>
+		<field name="id">2383</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">547</field>
+	</record>
+	<record>
+		<field name="id">2384</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">548</field>
+	</record>
+	<record>
+		<field name="id">2385</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">549</field>
+	</record>
+	<record>
+		<field name="id">2386</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">550</field>
+	</record>
+	<record>
+		<field name="id">2387</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">551</field>
+	</record>
+	<record>
+		<field name="id">2388</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">552</field>
+	</record>
+	<record>
+		<field name="id">2389</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">553</field>
+	</record>
+	<record>
+		<field name="id">2390</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">554</field>
+	</record>
+	<record>
+		<field name="id">2391</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">555</field>
+	</record>
+	<record>
+		<field name="id">2392</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">556</field>
+	</record>
+	<record>
+		<field name="id">2393</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">557</field>
+	</record>
+	<record>
+		<field name="id">2394</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">558</field>
+	</record>
+	<record>
+		<field name="id">2395</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">559</field>
+	</record>
+	<record>
+		<field name="id">2396</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">560</field>
+	</record>
+	<record>
+		<field name="id">2397</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">561</field>
+	</record>
+	<record>
+		<field name="id">2398</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">562</field>
+	</record>
+	<record>
+		<field name="id">2399</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">563</field>
+	</record>
+	<record>
+		<field name="id">2400</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">564</field>
+	</record>
+	<record>
+		<field name="id">2401</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">565</field>
+	</record>
+	<record>
+		<field name="id">2402</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">566</field>
+	</record>
+	<record>
+		<field name="id">2403</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">567</field>
+	</record>
+	<record>
+		<field name="id">2404</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">568</field>
+	</record>
+	<record>
+		<field name="id">2405</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">569</field>
+	</record>
+	<record>
+		<field name="id">2406</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">570</field>
+	</record>
+	<record>
+		<field name="id">2407</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">571</field>
+	</record>
+	<record>
+		<field name="id">2408</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">572</field>
+	</record>
+	<record>
+		<field name="id">2409</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">573</field>
+	</record>
+	<record>
+		<field name="id">2410</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">574</field>
+	</record>
+	<record>
+		<field name="id">2411</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">575</field>
+	</record>
+	<record>
+		<field name="id">2412</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">576</field>
+	</record>
+	<record>
+		<field name="id">2413</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">577</field>
+	</record>
+	<record>
+		<field name="id">2414</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">578</field>
+	</record>
+	<record>
+		<field name="id">2415</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">579</field>
+	</record>
+	<record>
+		<field name="id">2416</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">580</field>
+	</record>
+	<record>
+		<field name="id">2417</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">581</field>
+	</record>
+	<record>
+		<field name="id">2418</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">582</field>
+	</record>
+	<record>
+		<field name="id">2419</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">583</field>
+	</record>
+	<record>
+		<field name="id">2420</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">584</field>
+	</record>
+	<record>
+		<field name="id">2421</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">585</field>
+	</record>
+	<record>
+		<field name="id">2422</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">586</field>
+	</record>
+	<record>
+		<field name="id">2423</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">587</field>
+	</record>
+	<record>
+		<field name="id">2424</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">588</field>
+	</record>
+	<record>
+		<field name="id">2425</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">589</field>
+	</record>
+	<record>
+		<field name="id">2426</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">590</field>
+	</record>
+	<record>
+		<field name="id">2427</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">591</field>
+	</record>
+	<record>
+		<field name="id">2428</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">592</field>
+	</record>
+	<record>
+		<field name="id">2429</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">593</field>
+	</record>
+	<record>
+		<field name="id">2430</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">594</field>
+	</record>
+	<record>
+		<field name="id">2431</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">595</field>
+	</record>
+	<record>
+		<field name="id">2432</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">596</field>
+	</record>
+	<record>
+		<field name="id">2433</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">597</field>
+	</record>
+	<record>
+		<field name="id">2434</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">598</field>
+	</record>
+	<record>
+		<field name="id">2435</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">599</field>
+	</record>
+	<record>
+		<field name="id">2436</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">600</field>
+	</record>
+	<record>
+		<field name="id">2437</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">601</field>
+	</record>
+	<record>
+		<field name="id">2438</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">602</field>
+	</record>
+	<record>
+		<field name="id">2439</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">603</field>
+	</record>
+	<record>
+		<field name="id">2440</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">604</field>
+	</record>
+	<record>
+		<field name="id">2441</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">605</field>
+	</record>
+	<record>
+		<field name="id">2442</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">606</field>
+	</record>
+	<record>
+		<field name="id">2443</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">607</field>
+	</record>
+	<record>
+		<field name="id">2444</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">608</field>
+	</record>
+	<record>
+		<field name="id">2445</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">609</field>
+	</record>
+	<record>
+		<field name="id">2446</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">610</field>
+	</record>
+	<record>
+		<field name="id">2447</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">611</field>
+	</record>
+	<record>
+		<field name="id">2448</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">612</field>
+	</record>
+	<record>
+		<field name="id">2449</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">613</field>
+	</record>
+	<record>
+		<field name="id">2450</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">614</field>
+	</record>
+	<record>
+		<field name="id">2451</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">615</field>
+	</record>
+	<record>
+		<field name="id">2452</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">616</field>
+	</record>
+	<record>
+		<field name="id">2453</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">617</field>
+	</record>
+	<record>
+		<field name="id">2454</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">618</field>
+	</record>
+	<record>
+		<field name="id">2455</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">619</field>
+	</record>
+	<record>
+		<field name="id">2456</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">620</field>
+	</record>
+	<record>
+		<field name="id">2457</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">621</field>
+	</record>
+	<record>
+		<field name="id">2458</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">622</field>
+	</record>
+	<record>
+		<field name="id">2459</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">623</field>
+	</record>
+	<record>
+		<field name="id">2460</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">624</field>
+	</record>
+	<record>
+		<field name="id">2461</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">625</field>
+	</record>
+	<record>
+		<field name="id">2462</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">626</field>
+	</record>
+	<record>
+		<field name="id">2463</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">627</field>
+	</record>
+	<record>
+		<field name="id">2464</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">628</field>
+	</record>
+	<record>
+		<field name="id">2465</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">629</field>
+	</record>
+	<record>
+		<field name="id">2466</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">630</field>
+	</record>
+	<record>
+		<field name="id">2467</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">631</field>
+	</record>
+	<record>
+		<field name="id">2468</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">632</field>
+	</record>
+	<record>
+		<field name="id">2469</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">633</field>
+	</record>
+	<record>
+		<field name="id">2470</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">634</field>
+	</record>
+	<record>
+		<field name="id">2471</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">635</field>
+	</record>
+	<record>
+		<field name="id">2472</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">636</field>
+	</record>
+	<record>
+		<field name="id">2473</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">637</field>
+	</record>
+	<record>
+		<field name="id">2474</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">638</field>
+	</record>
+	<record>
+		<field name="id">2475</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">639</field>
+	</record>
+	<record>
+		<field name="id">2476</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">640</field>
+	</record>
+	<record>
+		<field name="id">2477</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">641</field>
+	</record>
+	<record>
+		<field name="id">2478</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">642</field>
+	</record>
+	<record>
+		<field name="id">2479</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">643</field>
+	</record>
+	<record>
+		<field name="id">2480</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">644</field>
+	</record>
+	<record>
+		<field name="id">2481</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">645</field>
+	</record>
+	<record>
+		<field name="id">2482</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">646</field>
+	</record>
+	<record>
+		<field name="id">2483</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">647</field>
+	</record>
+	<record>
+		<field name="id">2484</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">648</field>
+	</record>
+	<record>
+		<field name="id">2485</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">649</field>
+	</record>
+	<record>
+		<field name="id">2486</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">650</field>
+	</record>
+	<record>
+		<field name="id">2487</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">651</field>
+	</record>
+	<record>
+		<field name="id">2488</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">652</field>
+	</record>
+	<record>
+		<field name="id">2489</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">653</field>
+	</record>
+	<record>
+		<field name="id">2490</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">654</field>
+	</record>
+	<record>
+		<field name="id">2491</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">655</field>
+	</record>
+	<record>
+		<field name="id">2492</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">656</field>
+	</record>
+	<record>
+		<field name="id">2493</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">657</field>
+	</record>
+	<record>
+		<field name="id">2494</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">658</field>
+	</record>
+	<record>
+		<field name="id">2495</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">659</field>
+	</record>
+	<record>
+		<field name="id">2496</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">660</field>
+	</record>
+	<record>
+		<field name="id">2497</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">661</field>
+	</record>
+	<record>
+		<field name="id">2498</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">662</field>
+	</record>
+	<record>
+		<field name="id">2499</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">663</field>
+	</record>
+	<record>
+		<field name="id">2500</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">664</field>
+	</record>
+	<record>
+		<field name="id">2501</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">665</field>
+	</record>
+	<record>
+		<field name="id">2502</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">666</field>
+	</record>
+	<record>
+		<field name="id">2503</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">667</field>
+	</record>
+	<record>
+		<field name="id">2504</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">668</field>
+	</record>
+	<record>
+		<field name="id">2505</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">669</field>
+	</record>
+	<record>
+		<field name="id">2506</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">670</field>
+	</record>
+	<record>
+		<field name="id">2507</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">671</field>
+	</record>
+	<record>
+		<field name="id">2508</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">672</field>
+	</record>
+	<record>
+		<field name="id">2509</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">673</field>
+	</record>
+	<record>
+		<field name="id">2510</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">674</field>
+	</record>
+	<record>
+		<field name="id">2511</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">675</field>
+	</record>
+	<record>
+		<field name="id">2512</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">676</field>
+	</record>
+	<record>
+		<field name="id">2513</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">677</field>
+	</record>
+	<record>
+		<field name="id">2514</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">678</field>
+	</record>
+	<record>
+		<field name="id">2515</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">679</field>
+	</record>
+	<record>
+		<field name="id">2516</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">680</field>
+	</record>
+	<record>
+		<field name="id">2517</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">681</field>
+	</record>
+	<record>
+		<field name="id">2518</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">682</field>
+	</record>
+	<record>
+		<field name="id">2519</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">683</field>
+	</record>
+	<record>
+		<field name="id">2520</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">684</field>
+	</record>
+	<record>
+		<field name="id">2521</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">685</field>
+	</record>
+	<record>
+		<field name="id">2522</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">686</field>
+	</record>
+	<record>
+		<field name="id">2523</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">687</field>
+	</record>
+	<record>
+		<field name="id">2524</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">688</field>
+	</record>
+	<record>
+		<field name="id">2525</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">689</field>
+	</record>
+	<record>
+		<field name="id">2526</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">690</field>
+	</record>
+	<record>
+		<field name="id">2527</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">691</field>
+	</record>
+	<record>
+		<field name="id">2528</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">692</field>
+	</record>
+	<record>
+		<field name="id">2529</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">693</field>
+	</record>
+	<record>
+		<field name="id">2530</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">694</field>
+	</record>
+	<record>
+		<field name="id">2531</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">695</field>
+	</record>
+	<record>
+		<field name="id">2532</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">696</field>
+	</record>
+	<record>
+		<field name="id">2533</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">697</field>
+	</record>
+	<record>
+		<field name="id">2534</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">698</field>
+	</record>
+	<record>
+		<field name="id">2535</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">699</field>
+	</record>
+	<record>
+		<field name="id">2536</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">700</field>
+	</record>
+	<record>
+		<field name="id">2537</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">701</field>
+	</record>
+	<record>
+		<field name="id">2538</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">702</field>
+	</record>
+	<record>
+		<field name="id">2539</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">703</field>
+	</record>
+	<record>
+		<field name="id">2540</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">704</field>
+	</record>
+	<record>
+		<field name="id">2541</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">705</field>
+	</record>
+	<record>
+		<field name="id">2542</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">706</field>
+	</record>
+	<record>
+		<field name="id">2543</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">707</field>
+	</record>
+	<record>
+		<field name="id">2544</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">708</field>
+	</record>
+	<record>
+		<field name="id">2545</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">709</field>
+	</record>
+	<record>
+		<field name="id">2546</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">710</field>
+	</record>
+	<record>
+		<field name="id">2547</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">711</field>
+	</record>
+	<record>
+		<field name="id">2548</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">712</field>
+	</record>
+	<record>
+		<field name="id">2549</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">713</field>
+	</record>
+	<record>
+		<field name="id">2550</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">714</field>
+	</record>
+	<record>
+		<field name="id">2551</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">715</field>
+	</record>
+	<record>
+		<field name="id">2552</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">716</field>
+	</record>
+	<record>
+		<field name="id">2553</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">717</field>
+	</record>
+	<record>
+		<field name="id">2554</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">718</field>
+	</record>
+	<record>
+		<field name="id">2555</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">719</field>
+	</record>
+	<record>
+		<field name="id">2556</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">720</field>
+	</record>
+	<record>
+		<field name="id">2557</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">721</field>
+	</record>
+	<record>
+		<field name="id">2558</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">722</field>
+	</record>
+	<record>
+		<field name="id">2559</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">723</field>
+	</record>
+	<record>
+		<field name="id">2560</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">724</field>
+	</record>
+	<record>
+		<field name="id">2561</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">725</field>
+	</record>
+	<record>
+		<field name="id">2562</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">726</field>
+	</record>
+	<record>
+		<field name="id">2563</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">727</field>
+	</record>
+	<record>
+		<field name="id">2564</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">728</field>
+	</record>
+	<record>
+		<field name="id">2565</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">729</field>
+	</record>
+	<record>
+		<field name="id">2566</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">730</field>
+	</record>
+	<record>
+		<field name="id">2567</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">731</field>
+	</record>
+	<record>
+		<field name="id">2568</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">732</field>
+	</record>
+	<record>
+		<field name="id">2569</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">733</field>
+	</record>
+	<record>
+		<field name="id">2570</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">734</field>
+	</record>
+	<record>
+		<field name="id">2571</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">735</field>
+	</record>
+	<record>
+		<field name="id">2572</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">736</field>
+	</record>
+	<record>
+		<field name="id">2573</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">737</field>
+	</record>
+	<record>
+		<field name="id">2574</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">738</field>
+	</record>
+	<record>
+		<field name="id">2575</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">739</field>
+	</record>
+	<record>
+		<field name="id">2576</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">740</field>
+	</record>
+	<record>
+		<field name="id">2577</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">741</field>
+	</record>
+	<record>
+		<field name="id">2578</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">742</field>
+	</record>
+	<record>
+		<field name="id">2579</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">743</field>
+	</record>
+	<record>
+		<field name="id">2580</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">744</field>
+	</record>
+	<record>
+		<field name="id">2581</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">745</field>
+	</record>
+	<record>
+		<field name="id">2582</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">746</field>
+	</record>
+	<record>
+		<field name="id">2583</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">747</field>
+	</record>
+	<record>
+		<field name="id">2584</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">748</field>
+	</record>
+	<record>
+		<field name="id">2585</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">749</field>
+	</record>
+	<record>
+		<field name="id">2586</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">750</field>
+	</record>
+	<record>
+		<field name="id">2587</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">751</field>
+	</record>
+	<record>
+		<field name="id">2588</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">752</field>
+	</record>
+	<record>
+		<field name="id">2589</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">753</field>
+	</record>
+	<record>
+		<field name="id">2590</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">754</field>
+	</record>
+	<record>
+		<field name="id">2591</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">755</field>
+	</record>
+	<record>
+		<field name="id">2592</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">756</field>
+	</record>
+	<record>
+		<field name="id">2593</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">757</field>
+	</record>
+	<record>
+		<field name="id">2594</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">758</field>
+	</record>
+	<record>
+		<field name="id">2595</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">759</field>
+	</record>
+	<record>
+		<field name="id">2596</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">760</field>
+	</record>
+	<record>
+		<field name="id">2597</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">761</field>
+	</record>
+	<record>
+		<field name="id">2598</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">762</field>
+	</record>
+	<record>
+		<field name="id">2599</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">763</field>
+	</record>
+	<record>
+		<field name="id">2600</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">764</field>
+	</record>
+	<record>
+		<field name="id">2601</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">765</field>
+	</record>
+	<record>
+		<field name="id">2602</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">766</field>
+	</record>
+	<record>
+		<field name="id">2603</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">767</field>
+	</record>
+	<record>
+		<field name="id">2604</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">768</field>
+	</record>
+	<record>
+		<field name="id">2605</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">769</field>
+	</record>
+	<record>
+		<field name="id">2606</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">770</field>
+	</record>
+	<record>
+		<field name="id">2607</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">771</field>
+	</record>
+	<record>
+		<field name="id">2608</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">772</field>
+	</record>
+	<record>
+		<field name="id">2609</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">773</field>
+	</record>
+	<record>
+		<field name="id">2610</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">774</field>
+	</record>
+	<record>
+		<field name="id">2611</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">775</field>
+	</record>
+	<record>
+		<field name="id">2612</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">776</field>
+	</record>
+	<record>
+		<field name="id">2613</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">777</field>
+	</record>
+	<record>
+		<field name="id">2614</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">778</field>
+	</record>
+	<record>
+		<field name="id">2615</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">779</field>
+	</record>
+	<record>
+		<field name="id">2616</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">780</field>
+	</record>
+	<record>
+		<field name="id">2617</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">781</field>
+	</record>
+	<record>
+		<field name="id">2618</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">782</field>
+	</record>
+	<record>
+		<field name="id">2619</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">783</field>
+	</record>
+	<record>
+		<field name="id">2620</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">784</field>
+	</record>
+	<record>
+		<field name="id">2621</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">785</field>
+	</record>
+	<record>
+		<field name="id">2622</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">786</field>
+	</record>
+	<record>
+		<field name="id">2623</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">787</field>
+	</record>
+	<record>
+		<field name="id">2624</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">788</field>
+	</record>
+	<record>
+		<field name="id">2625</field>
+		<field name="discipline_id">83</field>
+		<field name="event_id">789</field>
+	</record>
+	<record>
+		<field name="id">2626</field>
+		<field name="discipline_id">83</field>
+		<field name="event_id">790</field>
+	</record>
+	<record>
+		<field name="id">2627</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">791</field>
+	</record>
+	<record>
+		<field name="id">2628</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">792</field>
+	</record>
+	<record>
+		<field name="id">2629</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">793</field>
+	</record>
+	<record>
+		<field name="id">2630</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">794</field>
+	</record>
+	<record>
+		<field name="id">2631</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">795</field>
+	</record>
+	<record>
+		<field name="id">2632</field>
+		<field name="discipline_id">33</field>
+		<field name="event_id">795</field>
+	</record>
+	<record>
+		<field name="id">2633</field>
+		<field name="discipline_id">36</field>
+		<field name="event_id">795</field>
+	</record>
+	<record>
+		<field name="id">2634</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">795</field>
+	</record>
+	<record>
+		<field name="id">2635</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">796</field>
+	</record>
+	<record>
+		<field name="id">2636</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">797</field>
+	</record>
+	<record>
+		<field name="id">2637</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">797</field>
+	</record>
+	<record>
+		<field name="id">2638</field>
+		<field name="discipline_id">58</field>
+		<field name="event_id">797</field>
+	</record>
+	<record>
+		<field name="id">2639</field>
+		<field name="discipline_id">24</field>
+		<field name="event_id">798</field>
+	</record>
+	<record>
+		<field name="id">2640</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">798</field>
+	</record>
+	<record>
+		<field name="id">2641</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">799</field>
+	</record>
+	<record>
+		<field name="id">2642</field>
+		<field name="discipline_id">31</field>
+		<field name="event_id">800</field>
+	</record>
+	<record>
+		<field name="id">2643</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">800</field>
+	</record>
+	<record>
+		<field name="id">2644</field>
+		<field name="discipline_id">26</field>
+		<field name="event_id">801</field>
+	</record>
+	<record>
+		<field name="id">2645</field>
+		<field name="discipline_id">38</field>
+		<field name="event_id">801</field>
+	</record>
+</table></tables>

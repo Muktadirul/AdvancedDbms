@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="event_discipline">
+	<fields>
+		<field name="id" type="Long"/>
+		<field name="name" type="Text"/>
+	</fields>
+	<record>
+		<field name="id">3</field>
+		<field name="name">Surgery</field>
+	</record>
+	<record>
+		<field name="id">12</field>
+		<field name="name">Oncology</field>
+	</record>
+	<record>
+		<field name="id">24</field>
+		<field name="name">Anesthesiology/Pain</field>
+	</record>
+	<record>
+		<field name="id">25</field>
+		<field name="name">Allergy / Clinical Immunology</field>
+	</record>
+	<record>
+		<field name="id">26</field>
+		<field name="name">Cardiology</field>
+	</record>
+	<record>
+		<field name="id">28</field>
+		<field name="name">Cosmetic Surgery</field>
+	</record>
+	<record>
+		<field name="id">29</field>
+		<field name="name">Dentistry</field>
+	</record>
+	<record>
+		<field name="id">30</field>
+		<field name="name">Dermatology</field>
+	</record>
+	<record>
+		<field name="id">31</field>
+		<field name="name">Emergency Medicine</field>
+	</record>
+	<record>
+		<field name="id">32</field>
+		<field name="name">Endocrinology &amp; Diabetes</field>
+	</record>
+	<record>
+		<field name="id">33</field>
+		<field name="name">Epidemiology / Preventive Medicine / Public Health</field>
+	</record>
+	<record>
+		<field name="id">34</field>
+		<field name="name">Forensic &amp; Legal Medicine</field>
+	</record>
+	<record>
+		<field name="id">35</field>
+		<field name="name">Gastroenterology &amp; Hepatology</field>
+	</record>
+	<record>
+		<field name="id">36</field>
+		<field name="name">General &amp; Internal Medicine</field>
+	</record>
+	<record>
+		<field name="id">37</field>
+		<field name="name">Geriatrics</field>
+	</record>
+	<record>
+		<field name="id">38</field>
+		<field name="name">Health Science</field>
+	</record>
+	<record>
+		<field name="id">40</field>
+		<field name="name">Hematology</field>
+	</record>
+	<record>
+		<field name="id">41</field>
+		<field name="name">Immunology</field>
+	</record>
+	<record>
+		<field name="id">42</field>
+		<field name="name">Infectious Diseases</field>
+	</record>
+	<record>
+		<field name="id">44</field>
+		<field name="name">Medical Technology</field>
+	</record>
+	<record>
+		<field name="id">45</field>
+		<field name="name">Nephrology</field>
+	</record>
+	<record>
+		<field name="id">46</field>
+		<field name="name">Neurology / Neuropsychiatry</field>
+	</record>
+	<record>
+		<field name="id">47</field>
+		<field name="name">Nuclear Medicine</field>
+	</record>
+	<record>
+		<field name="id">49</field>
+		<field name="name">Ophthalmology / Optometry</field>
+	</record>
+	<record>
+		<field name="id">50</field>
+		<field name="name">Orthopaedics / Biomechanics / Rheumatology</field>
+	</record>
+	<record>
+		<field name="id">51</field>
+		<field name="name">Otolaryngology / Audiology / Otology</field>
+	</record>
+	<record>
+		<field name="id">52</field>
+		<field name="name">Pathology</field>
+	</record>
+	<record>
+		<field name="id">53</field>
+		<field name="name">Pediatrics &amp; Neonatology</field>
+	</record>
+	<record>
+		<field name="id">55</field>
+		<field name="name">Physical Medicine &amp; Rehabilitation</field>
+	</record>
+	<record>
+		<field name="id">56</field>
+		<field name="name">Podiatry</field>
+	</record>
+	<record>
+		<field name="id">58</field>
+		<field name="name">Pulmonary &amp; Respiratory Medicine</field>
+	</record>
+	<record>
+		<field name="id">59</field>
+		<field name="name">Radiology / Radiography</field>
+	</record>
+	<record>
+		<field name="id">60</field>
+		<field name="name">Sports Medicine</field>
+	</record>
+	<record>
+		<field name="id">61</field>
+		<field name="name">Toxicology</field>
+	</record>
+	<record>
+		<field name="id">63</field>
+		<field name="name">Urology</field>
+	</record>
+	<record>
+		<field name="id">64</field>
+		<field name="name">Vascular Surgery</field>
+	</record>
+	<record>
+		<field name="id">66</field>
+		<field name="name">Virology</field>
+	</record>
+	<record>
+		<field name="id">67</field>
+		<field name="name">Anatomy</field>
+	</record>
+	<record>
+		<field name="id">68</field>
+		<field name="name">Biochemistry</field>
+	</record>
+	<record>
+		<field name="id">70</field>
+		<field name="name">Biotechnology</field>
+	</record>
+	<record>
+		<field name="id">74</field>
+		<field name="name">Genetics</field>
+	</record>
+	<record>
+		<field name="id">75</field>
+		<field name="name">Life Science</field>
+	</record>
+	<record>
+		<field name="id">76</field>
+		<field name="name">Medicine</field>
+	</record>
+	<record>
+		<field name="id">77</field>
+		<field name="name">Microbiology</field>
+	</record>
+	<record>
+		<field name="id">78</field>
+		<field name="name">Molecular Biology</field>
+	</record>
+	<record>
+		<field name="id">79</field>
+		<field name="name">Neuroscience</field>
+	</record>
+	<record>
+		<field name="id">80</field>
+		<field name="name">Parasitology</field>
+	</record>
+	<record>
+		<field name="id">81</field>
+		<field name="name">Vaccinology</field>
+	</record>
+	<record>
+		<field name="id">82</field>
+		<field name="name">Gynecology and Obstetrics</field>
+	</record>
+	<record>
+		<field name="id">83</field>
+		<field name="name">Maternal health</field>
+	</record>
+	<record>
+		<field name="id">85</field>
+		<field name="name">Mental health</field>
+	</record>
+	<record>
+		<field name="id">86</field>
+		<field name="name">Psychiatry</field>
+	</record>
+	<record>
+		<field name="id">87</field>
+		<field name="name">Physical medicine</field>
+	</record>
+	<record>
+		<field name="id">88</field>
+		<field name="name">Psychology</field>
+	</record>
+</table></tables>

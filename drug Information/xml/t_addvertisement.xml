@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_addvertisement">
+	<fields>
+		<field name="ads_id" type="Long"/>
+		<field name="company_id" type="Long"/>
+		<field name="generic_id" type="Long"/>
+		<field name="name" type="Text"/>
+		<field name="type" type="Long"/>
+		<field name="LDPI" type="Text"/>
+		<field name="MDPI" type="Text"/>
+		<field name="HDPI" type="Text"/>
+		<field name="XHDPI" type="Text"/>
+		<field name="url" type="Text"/>
+	</fields>
+	<record>
+		<field name="ads_id">3</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">311</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Adora.jpg</field>
+		<field name="MDPI">advertisement/480/Adora.jpg</field>
+		<field name="HDPI">advertisement/600/Adora.jpg</field>
+		<field name="XHDPI">advertisement/720/Adora.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">4</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">35</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Alestor.jpg</field>
+		<field name="MDPI">advertisement/480/Alestor.jpg</field>
+		<field name="HDPI">advertisement/600/Alestor.jpg</field>
+		<field name="XHDPI">advertisement/720/Alestor.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">5</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1169</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Algicid.jpg</field>
+		<field name="MDPI">advertisement/480/Algicid.jpg</field>
+		<field name="HDPI">advertisement/600/Algicid.jpg</field>
+		<field name="XHDPI">advertisement/720/Algicid.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">6</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">48</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Ambolyt.jpg</field>
+		<field name="MDPI">advertisement/480/Ambolyt.jpg</field>
+		<field name="HDPI">advertisement/600/Ambolyt.jpg</field>
+		<field name="XHDPI">advertisement/720/Ambolyt.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">7</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">66</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Amlosartan.jpg</field>
+		<field name="MDPI">advertisement/480/Amlosartan.jpg</field>
+		<field name="HDPI">advertisement/600/Amlosartan.jpg</field>
+		<field name="XHDPI">advertisement/720/Amlosartan.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">8</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">116</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Ariton-IV.jpg</field>
+		<field name="MDPI">advertisement/480/Ariton-IV.jpg</field>
+		<field name="HDPI">advertisement/600/Ariton-IV.jpg</field>
+		<field name="XHDPI">advertisement/720/Ariton-IV.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">9</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1385</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Arofil-SR.jpg</field>
+		<field name="MDPI">advertisement/480/Arofil-SR.jpg</field>
+		<field name="HDPI">advertisement/600/Arofil-SR.jpg</field>
+		<field name="XHDPI">advertisement/720/Arofil-SR.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">10</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">242</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Askorel.jpg</field>
+		<field name="MDPI">advertisement/480/Askorel.jpg</field>
+		<field name="HDPI">advertisement/600/Askorel.jpg</field>
+		<field name="XHDPI">advertisement/720/Askorel.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">11</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">125</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Azecol.jpg</field>
+		<field name="MDPI">advertisement/480/Azecol.jpg</field>
+		<field name="HDPI">advertisement/600/Azecol.jpg</field>
+		<field name="XHDPI">advertisement/720/Azecol.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">12</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">615</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Barcavir.jpg</field>
+		<field name="MDPI">advertisement/480/Barcavir.jpg</field>
+		<field name="HDPI">advertisement/600/Barcavir.jpg</field>
+		<field name="XHDPI">advertisement/720/Barcavir.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">13</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">389</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Beuflox-D-ED.jpg</field>
+		<field name="MDPI">advertisement/480/Beuflox-D-ED.jpg</field>
+		<field name="HDPI">advertisement/600/Beuflox-D-ED.jpg</field>
+		<field name="XHDPI">advertisement/720/Beuflox-D-ED.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">14</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1582</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Bisopro.jpg</field>
+		<field name="MDPI">advertisement/480/Bisopro.jpg</field>
+		<field name="HDPI">advertisement/600/Bisopro.jpg</field>
+		<field name="XHDPI">advertisement/720/Bisopro.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">15</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">807</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Bone-Guard.jpg</field>
+		<field name="MDPI">advertisement/480/Bone-Guard.jpg</field>
+		<field name="HDPI">advertisement/600/Bone-Guard.jpg</field>
+		<field name="XHDPI">advertisement/720/Bone-Guard.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">16</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">256</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Calvimax.jpg</field>
+		<field name="MDPI">advertisement/480/Calvimax.jpg</field>
+		<field name="HDPI">advertisement/600/Calvimax.jpg</field>
+		<field name="XHDPI">advertisement/720/Calvimax.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">17</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">118</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Cavic-C.jpg</field>
+		<field name="MDPI">advertisement/480/Cavic-C.jpg</field>
+		<field name="HDPI">advertisement/600/Cavic-C.jpg</field>
+		<field name="XHDPI">advertisement/720/Cavic-C.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">18</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">328</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Cefaclav.jpg</field>
+		<field name="MDPI">advertisement/480/Cefaclav.jpg</field>
+		<field name="HDPI">advertisement/600/Cefaclav.jpg</field>
+		<field name="XHDPI">advertisement/720/Cefaclav.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">19</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">404</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Clindacin.jpg</field>
+		<field name="MDPI">advertisement/480/Clindacin.jpg</field>
+		<field name="HDPI">advertisement/600/Clindacin.jpg</field>
+		<field name="XHDPI">advertisement/720/Clindacin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">20</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">750</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Consucon.jpg</field>
+		<field name="MDPI">advertisement/480/Consucon.jpg</field>
+		<field name="HDPI">advertisement/600/Consucon.jpg</field>
+		<field name="XHDPI">advertisement/720/Consucon.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">21</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1193</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Cortan.jpg</field>
+		<field name="MDPI">advertisement/480/Cortan.jpg</field>
+		<field name="HDPI">advertisement/600/Cortan.jpg</field>
+		<field name="XHDPI">advertisement/720/Cortan.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">22</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">545</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Cyclopan.jpg</field>
+		<field name="MDPI">advertisement/480/Cyclopan.jpg</field>
+		<field name="HDPI">advertisement/600/Cyclopan.jpg</field>
+		<field name="XHDPI">advertisement/720/Cyclopan.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">23</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1006</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Cytomis.jpg</field>
+		<field name="MDPI">advertisement/480/Cytomis.jpg</field>
+		<field name="HDPI">advertisement/600/Cytomis.jpg</field>
+		<field name="XHDPI">advertisement/720/Cytomis.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">24</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">859</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Dancel.jpg</field>
+		<field name="MDPI">advertisement/480/Dancel.jpg</field>
+		<field name="HDPI">advertisement/600/Dancel.jpg</field>
+		<field name="XHDPI">advertisement/720/Dancel.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">25</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">414</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Disopan.jpg</field>
+		<field name="MDPI">advertisement/480/Disopan.jpg</field>
+		<field name="HDPI">advertisement/600/Disopan.jpg</field>
+		<field name="XHDPI">advertisement/720/Disopan.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">26</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">322</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Duo-5.jpg</field>
+		<field name="MDPI">advertisement/480/Duo-5.jpg</field>
+		<field name="HDPI">advertisement/600/Duo-5.jpg</field>
+		<field name="XHDPI">advertisement/720/Duo-5.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">27</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">597</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Econate-Plus.jpg</field>
+		<field name="MDPI">advertisement/480/Econate-Plus.jpg</field>
+		<field name="HDPI">advertisement/600/Econate-Plus.jpg</field>
+		<field name="XHDPI">advertisement/720/Econate-Plus.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">28</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">316</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Emixef.jpg</field>
+		<field name="MDPI">advertisement/480/Emixef.jpg</field>
+		<field name="HDPI">advertisement/600/Emixef.jpg</field>
+		<field name="XHDPI">advertisement/720/Emixef.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">29</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">2069</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Endofree.jpg</field>
+		<field name="MDPI">advertisement/480/Endofree.jpg</field>
+		<field name="HDPI">advertisement/600/Endofree.jpg</field>
+		<field name="XHDPI">advertisement/720/Endofree.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">30</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">633</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Epoetin.jpg</field>
+		<field name="MDPI">advertisement/480/Epoetin.jpg</field>
+		<field name="HDPI">advertisement/600/Epoetin.jpg</field>
+		<field name="XHDPI">advertisement/720/Epoetin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">31</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">634</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Esipram.jpg</field>
+		<field name="MDPI">advertisement/480/Esipram.jpg</field>
+		<field name="HDPI">advertisement/600/Esipram.jpg</field>
+		<field name="XHDPI">advertisement/720/Esipram.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">32</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">635</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Esonix.jpg</field>
+		<field name="MDPI">advertisement/480/Esonix.jpg</field>
+		<field name="HDPI">advertisement/600/Esonix.jpg</field>
+		<field name="XHDPI">advertisement/720/Esonix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">33</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">863</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Etorac.jpg</field>
+		<field name="MDPI">advertisement/480/Etorac.jpg</field>
+		<field name="HDPI">advertisement/600/Etorac.jpg</field>
+		<field name="XHDPI">advertisement/720/Etorac.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">34</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">326</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Exephin.jpg</field>
+		<field name="MDPI">advertisement/480/Exephin.jpg</field>
+		<field name="HDPI">advertisement/600/Exephin.jpg</field>
+		<field name="XHDPI">advertisement/720/Exephin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">35</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">656</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Febustat.jpg</field>
+		<field name="MDPI">advertisement/480/Febustat.jpg</field>
+		<field name="HDPI">advertisement/600/Febustat.jpg</field>
+		<field name="XHDPI">advertisement/720/Febustat.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">36</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">673</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Fenofex.jpg</field>
+		<field name="MDPI">advertisement/480/Fenofex.jpg</field>
+		<field name="HDPI">advertisement/600/Fenofex.jpg</field>
+		<field name="XHDPI">advertisement/720/Fenofex.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">37</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">599</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Ferimax.jpg</field>
+		<field name="MDPI">advertisement/480/Ferimax.jpg</field>
+		<field name="HDPI">advertisement/600/Ferimax.jpg</field>
+		<field name="XHDPI">advertisement/720/Ferimax.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">38</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1792</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Filastin.jpg</field>
+		<field name="MDPI">advertisement/480/Filastin.jpg</field>
+		<field name="HDPI">advertisement/600/Filastin.jpg</field>
+		<field name="XHDPI">advertisement/720/Filastin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">39</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">992</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Flamyd.jpg</field>
+		<field name="MDPI">advertisement/480/Flamyd.jpg</field>
+		<field name="HDPI">advertisement/600/Flamyd.jpg</field>
+		<field name="XHDPI">advertisement/720/Flamyd.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">40</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">710</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Flutisal.jpg</field>
+		<field name="MDPI">advertisement/480/Flutisal.jpg</field>
+		<field name="HDPI">advertisement/600/Flutisal.jpg</field>
+		<field name="XHDPI">advertisement/720/Flutisal.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">41</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1888</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Hepa-B.jpg</field>
+		<field name="MDPI">advertisement/480/Hepa-B.jpg</field>
+		<field name="HDPI">advertisement/600/Hepa-B.jpg</field>
+		<field name="XHDPI">advertisement/720/Hepa-B.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">42</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">970</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/I-Penam.jpg</field>
+		<field name="MDPI">advertisement/480/I-Penam.jpg</field>
+		<field name="HDPI">advertisement/600/I-Penam.jpg</field>
+		<field name="XHDPI">advertisement/720/I-Penam.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">43</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">284</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/IntraCal.jpg</field>
+		<field name="MDPI">advertisement/480/IntraCal.jpg</field>
+		<field name="HDPI">advertisement/600/IntraCal.jpg</field>
+		<field name="XHDPI">advertisement/720/IntraCal.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">44</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">953</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Iriban-SR-200.jpg</field>
+		<field name="MDPI">advertisement/480/Iriban-SR-200.jpg</field>
+		<field name="HDPI">advertisement/600/Iriban-SR-200.jpg</field>
+		<field name="XHDPI">advertisement/720/Iriban-SR-200.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">45</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">375</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Joinix-Plus.jpg</field>
+		<field name="MDPI">advertisement/480/Joinix-Plus.jpg</field>
+		<field name="HDPI">advertisement/600/Joinix-Plus.jpg</field>
+		<field name="XHDPI">advertisement/720/Joinix-Plus.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">46</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1266</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Kerasil.jpg</field>
+		<field name="MDPI">advertisement/480/Kerasil.jpg</field>
+		<field name="HDPI">advertisement/600/Kerasil.jpg</field>
+		<field name="XHDPI">advertisement/720/Kerasil.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">48</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">327</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Kilbac.jpg</field>
+		<field name="MDPI">advertisement/480/Kilbac.jpg</field>
+		<field name="HDPI">advertisement/600/Kilbac.jpg</field>
+		<field name="XHDPI">advertisement/720/Kilbac.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">49</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">901</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Levoxin.jpg</field>
+		<field name="MDPI">advertisement/480/Levoxin.jpg</field>
+		<field name="HDPI">advertisement/600/Levoxin.jpg</field>
+		<field name="XHDPI">advertisement/720/Levoxin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">50</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">416</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Lopirel.jpg</field>
+		<field name="MDPI">advertisement/480/Lopirel.jpg</field>
+		<field name="HDPI">advertisement/600/Lopirel.jpg</field>
+		<field name="XHDPI">advertisement/720/Lopirel.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">51</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">921</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Magfin.jpg</field>
+		<field name="MDPI">advertisement/480/Magfin.jpg</field>
+		<field name="HDPI">advertisement/600/Magfin.jpg</field>
+		<field name="XHDPI">advertisement/720/Magfin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">52</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">940</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Marlox-Plus.jpg</field>
+		<field name="MDPI">advertisement/480/Marlox-Plus.jpg</field>
+		<field name="HDPI">advertisement/600/Marlox-Plus.jpg</field>
+		<field name="XHDPI">advertisement/720/Marlox-Plus.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">53</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">820</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Maxsulin.jpg</field>
+		<field name="MDPI">advertisement/480/Maxsulin.jpg</field>
+		<field name="HDPI">advertisement/600/Maxsulin.jpg</field>
+		<field name="XHDPI">advertisement/720/Maxsulin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">54</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">957</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Mecolagin.jpg</field>
+		<field name="MDPI">advertisement/480/Mecolagin.jpg</field>
+		<field name="HDPI">advertisement/600/Mecolagin.jpg</field>
+		<field name="XHDPI">advertisement/720/Mecolagin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">55</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1005</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Mitaprex.jpg</field>
+		<field name="MDPI">advertisement/480/Mitaprex.jpg</field>
+		<field name="HDPI">advertisement/600/Mitaprex.jpg</field>
+		<field name="XHDPI">advertisement/720/Mitaprex.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">56</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1012</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Montair.jpg</field>
+		<field name="MDPI">advertisement/480/Montair.jpg</field>
+		<field name="HDPI">advertisement/600/Montair.jpg</field>
+		<field name="XHDPI">advertisement/720/Montair.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">57</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1020</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Moxquin-XG.jpg</field>
+		<field name="MDPI">advertisement/480/Moxquin-XG.jpg</field>
+		<field name="HDPI">advertisement/600/Moxquin-XG.jpg</field>
+		<field name="XHDPI">advertisement/720/Moxquin-XG.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">58</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1411</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Myolax.jpg</field>
+		<field name="MDPI">advertisement/480/Myolax.jpg</field>
+		<field name="HDPI">advertisement/600/Myolax.jpg</field>
+		<field name="XHDPI">advertisement/720/Myolax.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">59</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1024</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nalbun.jpg</field>
+		<field name="MDPI">advertisement/480/Nalbun.jpg</field>
+		<field name="HDPI">advertisement/600/Nalbun.jpg</field>
+		<field name="XHDPI">advertisement/720/Nalbun.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">60</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">708</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Neotisone.jpg</field>
+		<field name="MDPI">advertisement/480/Neotisone.jpg</field>
+		<field name="HDPI">advertisement/600/Neotisone.jpg</field>
+		<field name="XHDPI">advertisement/720/Neotisone.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">61</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1062</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nintoin.jpg</field>
+		<field name="MDPI">advertisement/480/Nintoin.jpg</field>
+		<field name="HDPI">advertisement/600/Nintoin.jpg</field>
+		<field name="XHDPI">advertisement/720/Nintoin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">62</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">680</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nispore.jpg</field>
+		<field name="MDPI">advertisement/480/Nispore.jpg</field>
+		<field name="HDPI">advertisement/600/Nispore.jpg</field>
+		<field name="XHDPI">advertisement/720/Nispore.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">63</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1060</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nitazox.jpg</field>
+		<field name="MDPI">advertisement/480/Nitazox.jpg</field>
+		<field name="HDPI">advertisement/600/Nitazox.jpg</field>
+		<field name="XHDPI">advertisement/720/Nitazox.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">64</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">975</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nobesit.jpg</field>
+		<field name="MDPI">advertisement/480/Nobesit.jpg</field>
+		<field name="HDPI">advertisement/600/Nobesit.jpg</field>
+		<field name="XHDPI">advertisement/720/Nobesit.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">66</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1086</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Omenix.jpg</field>
+		<field name="MDPI">advertisement/480/Omenix.jpg</field>
+		<field name="HDPI">advertisement/600/Omenix.jpg</field>
+		<field name="XHDPI">advertisement/720/Omenix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">67</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">571</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Omidon.jpg</field>
+		<field name="MDPI">advertisement/480/Omidon.jpg</field>
+		<field name="HDPI">advertisement/600/Omidon.jpg</field>
+		<field name="XHDPI">advertisement/720/Omidon.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">68</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1131</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Optipeg-A.jpg</field>
+		<field name="MDPI">advertisement/480/Optipeg-A.jpg</field>
+		<field name="HDPI">advertisement/600/Optipeg-A.jpg</field>
+		<field name="XHDPI">advertisement/720/Optipeg-A.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">69</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">933</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Osartil.jpg</field>
+		<field name="MDPI">advertisement/480/Osartil.jpg</field>
+		<field name="HDPI">advertisement/600/Osartil.jpg</field>
+		<field name="XHDPI">advertisement/720/Osartil.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">70</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1122</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Pantonix.jpg</field>
+		<field name="MDPI">advertisement/480/Pantonix.jpg</field>
+		<field name="HDPI">advertisement/600/Pantonix.jpg</field>
+		<field name="XHDPI">advertisement/720/Pantonix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">71</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1190</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Prasurel.jpg</field>
+		<field name="MDPI">advertisement/480/Prasurel.jpg</field>
+		<field name="HDPI">advertisement/600/Prasurel.jpg</field>
+		<field name="XHDPI">advertisement/720/Prasurel.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">72</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1196</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Pregaben.jpg</field>
+		<field name="MDPI">advertisement/480/Pregaben.jpg</field>
+		<field name="HDPI">advertisement/600/Pregaben.jpg</field>
+		<field name="XHDPI">advertisement/720/Pregaben.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">73</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">636</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Progesic.jpg</field>
+		<field name="MDPI">advertisement/480/Progesic.jpg</field>
+		<field name="HDPI">advertisement/600/Progesic.jpg</field>
+		<field name="XHDPI">advertisement/720/Progesic.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">74</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">53</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Prosol-IV.jpg</field>
+		<field name="MDPI">advertisement/480/Prosol-IV.jpg</field>
+		<field name="HDPI">advertisement/600/Prosol-IV.jpg</field>
+		<field name="XHDPI">advertisement/720/Prosol-IV.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">75</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">114</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Proviten.jpg</field>
+		<field name="MDPI">advertisement/480/Proviten.jpg</field>
+		<field name="HDPI">advertisement/600/Proviten.jpg</field>
+		<field name="XHDPI">advertisement/720/Proviten.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">76</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">904</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Purisal.jpg</field>
+		<field name="MDPI">advertisement/480/Purisal.jpg</field>
+		<field name="HDPI">advertisement/600/Purisal.jpg</field>
+		<field name="XHDPI">advertisement/720/Purisal.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">77</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1226</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Quiet.jpg</field>
+		<field name="MDPI">advertisement/480/Quiet.jpg</field>
+		<field name="HDPI">advertisement/600/Quiet.jpg</field>
+		<field name="XHDPI">advertisement/720/Quiet.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">78</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">2331</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Rabix-vc.jpg</field>
+		<field name="MDPI">advertisement/480/Rabix-vc.jpg</field>
+		<field name="HDPI">advertisement/600/Rabix-vc.jpg</field>
+		<field name="XHDPI">advertisement/720/Rabix-vc.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">79</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1229</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Rasonix.jpg</field>
+		<field name="MDPI">advertisement/480/Rasonix.jpg</field>
+		<field name="HDPI">advertisement/600/Rasonix.jpg</field>
+		<field name="XHDPI">advertisement/720/Rasonix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">80</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">6</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Reservix.jpg</field>
+		<field name="MDPI">advertisement/480/Reservix.jpg</field>
+		<field name="HDPI">advertisement/600/Reservix.jpg</field>
+		<field name="XHDPI">advertisement/720/Reservix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">81</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">385</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Revert.jpg</field>
+		<field name="MDPI">advertisement/480/Revert.jpg</field>
+		<field name="HDPI">advertisement/600/Revert.jpg</field>
+		<field name="XHDPI">advertisement/720/Revert.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">82</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1255</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Rocovas.jpg</field>
+		<field name="MDPI">advertisement/480/Rocovas.jpg</field>
+		<field name="HDPI">advertisement/600/Rocovas.jpg</field>
+		<field name="XHDPI">advertisement/720/Rocovas.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">83</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">978</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Sitagil.jpg</field>
+		<field name="MDPI">advertisement/480/Sitagil.jpg</field>
+		<field name="HDPI">advertisement/600/Sitagil.jpg</field>
+		<field name="XHDPI">advertisement/720/Sitagil.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">84</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1022</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Trego.jpg</field>
+		<field name="MDPI">advertisement/480/Trego.jpg</field>
+		<field name="HDPI">advertisement/600/Trego.jpg</field>
+		<field name="XHDPI">advertisement/720/Trego.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">85</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">149</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Tridosil.jpg</field>
+		<field name="MDPI">advertisement/480/Tridosil.jpg</field>
+		<field name="HDPI">advertisement/600/Tridosil.jpg</field>
+		<field name="XHDPI">advertisement/720/Tridosil.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">86</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">688</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Trimela.jpg</field>
+		<field name="MDPI">advertisement/480/Trimela.jpg</field>
+		<field name="HDPI">advertisement/600/Trimela.jpg</field>
+		<field name="XHDPI">advertisement/720/Trimela.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">87</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">314</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Ultrapime.jpg</field>
+		<field name="MDPI">advertisement/480/Ultrapime.jpg</field>
+		<field name="HDPI">advertisement/600/Ultrapime.jpg</field>
+		<field name="XHDPI">advertisement/720/Ultrapime.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">88</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">400</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Urikal.jpg</field>
+		<field name="MDPI">advertisement/480/Urikal.jpg</field>
+		<field name="HDPI">advertisement/600/Urikal.jpg</field>
+		<field name="XHDPI">advertisement/720/Urikal.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">89</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1449</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Vanmycin.jpg</field>
+		<field name="MDPI">advertisement/480/Vanmycin.jpg</field>
+		<field name="HDPI">advertisement/600/Vanmycin.jpg</field>
+		<field name="XHDPI">advertisement/720/Vanmycin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">90</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">2326</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Vaxitet.jpg</field>
+		<field name="MDPI">advertisement/480/Vaxitet.jpg</field>
+		<field name="HDPI">advertisement/600/Vaxitet.jpg</field>
+		<field name="XHDPI">advertisement/720/Vaxitet.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">91</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">2327</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Vaxphoid.jpg</field>
+		<field name="MDPI">advertisement/480/Vaxphoid.jpg</field>
+		<field name="HDPI">advertisement/600/Vaxphoid.jpg</field>
+		<field name="XHDPI">advertisement/720/Vaxphoid.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">92</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">455</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Vitabion.jpg</field>
+		<field name="MDPI">advertisement/480/Vitabion.jpg</field>
+		<field name="HDPI">advertisement/600/Vitabion.jpg</field>
+		<field name="XHDPI">advertisement/720/Vitabion.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">93</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">836</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Windel-Plus.jpg</field>
+		<field name="MDPI">advertisement/480/Windel-Plus.jpg</field>
+		<field name="HDPI">advertisement/600/Windel-Plus.jpg</field>
+		<field name="XHDPI">advertisement/720/Windel-Plus.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">94</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1004</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Xenogrow.jpg</field>
+		<field name="MDPI">advertisement/480/Xenogrow.jpg</field>
+		<field name="HDPI">advertisement/600/Xenogrow.jpg</field>
+		<field name="XHDPI">advertisement/720/Xenogrow.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">95</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">321</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Ximeprox.jpg</field>
+		<field name="MDPI">advertisement/480/Ximeprox.jpg</field>
+		<field name="HDPI">advertisement/600/Ximeprox.jpg</field>
+		<field name="XHDPI">advertisement/720/Ximeprox.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">96</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1482</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Zolenic.jpg</field>
+		<field name="MDPI">advertisement/480/Zolenic.jpg</field>
+		<field name="HDPI">advertisement/600/Zolenic.jpg</field>
+		<field name="XHDPI">advertisement/720/Zolenic.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">97</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">38</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Zolium.jpg</field>
+		<field name="MDPI">advertisement/480/Zolium.jpg</field>
+		<field name="HDPI">advertisement/600/Zolium.jpg</field>
+		<field name="XHDPI">advertisement/720/Zolium.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">98</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">0</field>
+		<field name="name">NULL</field>
+		<field name="type">1</field>
+		<field name="LDPI">advertisement/popup/160/Cefaclav.jpg</field>
+		<field name="MDPI">advertisement/popup/240/Cefaclav.jpg</field>
+		<field name="HDPI">advertisement/popup/300/Cefaclav.jpg</field>
+		<field name="XHDPI">advertisement/popup/300/Cefaclav.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">99</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">0</field>
+		<field name="name">NULL</field>
+		<field name="type">1</field>
+		<field name="LDPI">advertisement/popup/160/Esonix.jpg</field>
+		<field name="MDPI">advertisement/popup/240/Esonix.jpg</field>
+		<field name="HDPI">advertisement/popup/300/Esonix.jpg</field>
+		<field name="XHDPI">advertisement/popup/300/Esonix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">100</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">0</field>
+		<field name="name">NULL</field>
+		<field name="type">1</field>
+		<field name="LDPI">advertisement/popup/160/Montair.jpg</field>
+		<field name="MDPI">advertisement/popup/240/Montair.jpg</field>
+		<field name="HDPI">advertisement/popup/300/Montair.jpg</field>
+		<field name="XHDPI">advertisement/popup/300/Montair.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">101</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">0</field>
+		<field name="name">NULL</field>
+		<field name="type">1</field>
+		<field name="LDPI">advertisement/popup/160/Osartil.jpg</field>
+		<field name="MDPI">advertisement/popup/240/Osartil.jpg</field>
+		<field name="HDPI">advertisement/popup/300/Osartil.jpg</field>
+		<field name="XHDPI">advertisement/popup/300/Osartil.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">102</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">0</field>
+		<field name="name">NULL</field>
+		<field name="type">1</field>
+		<field name="LDPI">advertisement/popup/160/Pantonix.jpg</field>
+		<field name="MDPI">advertisement/popup/240/Pantonix.jpg</field>
+		<field name="HDPI">advertisement/popup/300/Pantonix.jpg</field>
+		<field name="XHDPI">advertisement/popup/300/Pantonix.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">103</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">403</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Clindacin.jpg</field>
+		<field name="MDPI">advertisement/480/Clindacin.jpg</field>
+		<field name="HDPI">advertisement/600/Clindacin.jpg</field>
+		<field name="XHDPI">advertisement/720/Clindacin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">104</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1664</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Clindacin.jpg</field>
+		<field name="MDPI">advertisement/480/Clindacin.jpg</field>
+		<field name="HDPI">advertisement/600/Clindacin.jpg</field>
+		<field name="XHDPI">advertisement/720/Clindacin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">105</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">403</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Clindacin.jpg</field>
+		<field name="MDPI">advertisement/480/Clindacin.jpg</field>
+		<field name="HDPI">advertisement/600/Clindacin.jpg</field>
+		<field name="XHDPI">advertisement/720/Clindacin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">106</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1664</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Clindacin.jpg</field>
+		<field name="MDPI">advertisement/480/Clindacin.jpg</field>
+		<field name="HDPI">advertisement/600/Clindacin.jpg</field>
+		<field name="XHDPI">advertisement/720/Clindacin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">107</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">821</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Maxsulin.jpg</field>
+		<field name="MDPI">advertisement/480/Maxsulin.jpg</field>
+		<field name="HDPI">advertisement/600/Maxsulin.jpg</field>
+		<field name="XHDPI">advertisement/720/Maxsulin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">108</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">822</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Maxsulin.jpg</field>
+		<field name="MDPI">advertisement/480/Maxsulin.jpg</field>
+		<field name="HDPI">advertisement/600/Maxsulin.jpg</field>
+		<field name="XHDPI">advertisement/720/Maxsulin.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">109</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">61</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Fixocard.jpg</field>
+		<field name="MDPI">advertisement/480/Fixocard.jpg</field>
+		<field name="HDPI">advertisement/600/Fixocard.jpg</field>
+		<field name="XHDPI">advertisement/720/Fixocard.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">110</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1666</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nyclobate.jpg</field>
+		<field name="MDPI">advertisement/480/Nyclobate.jpg</field>
+		<field name="HDPI">advertisement/600/Nyclobate.jpg</field>
+		<field name="XHDPI">advertisement/720/Nyclobate.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">111</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">408</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Nyclobate.jpg</field>
+		<field name="MDPI">advertisement/480/Nyclobate.jpg</field>
+		<field name="HDPI">advertisement/600/Nyclobate.jpg</field>
+		<field name="XHDPI">advertisement/720/Nyclobate.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">112</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1699</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/POP-D.jpg</field>
+		<field name="MDPI">advertisement/480/POP-D.jpg</field>
+		<field name="HDPI">advertisement/600/POP-D.jpg</field>
+		<field name="XHDPI">advertisement/720/POP-D.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">113</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">589</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Reosen28.jpg</field>
+		<field name="MDPI">advertisement/480/Reosen28.jpg</field>
+		<field name="HDPI">advertisement/600/Reosen28.jpg</field>
+		<field name="XHDPI">advertisement/720/Reosen28.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">114</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1124</field>
+		<field name="name">NULL</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Reset.jpg</field>
+		<field name="MDPI">advertisement/480/Reset.jpg</field>
+		<field name="HDPI">advertisement/600/Reset.jpg</field>
+		<field name="XHDPI">advertisement/720/Reset.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">115</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">141</field>
+		<field name="name">Tiginor</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Tiginor.jpg</field>
+		<field name="MDPI">advertisement/480/Tiginor.jpg</field>
+		<field name="HDPI">advertisement/600/Tiginor.jpg</field>
+		<field name="XHDPI">advertisement/720/Tiginor.jpg</field>
+		<field name="url">NULL</field>
+	</record>
+	<record>
+		<field name="ads_id">116</field>
+		<field name="company_id">116</field>
+		<field name="generic_id">1319</field>
+		<field name="name">Valex &amp; CR</field>
+		<field name="type">2</field>
+		<field name="LDPI">advertisement/320/Valex-CR.jpg</field>
+		<field name="MDPI">advertisement/480/Valex-CR.jpg</field>
+		<field name="HDPI">advertisement/600/Valex-CR.jpg</field>
+		<field name="XHDPI">advertisement/720/Valex-CR.jpg</field>
+		<field name="url"></field>
+	</record>
+</table></tables>

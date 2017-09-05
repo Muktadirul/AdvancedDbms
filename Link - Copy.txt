@@ -1,0 +1,8 @@
+<a href="http://localhost/ADDBMS/">Home</a>
+<a href="http://localhost/ADDBMS/Login/RegisterView.php">Register</a> 
+<a href="http://localhost/ADDBMS/Login/LoginView.php">Login</a>
+
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>

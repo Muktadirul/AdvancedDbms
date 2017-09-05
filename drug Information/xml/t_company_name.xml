@@ -1,0 +1,3235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_company_name">
+	<fields>
+		<field name="company_id" type="Text"/>
+		<field name="company_name" type="Text"/>
+		<field name="company_order" type="Text"/>
+	</fields>
+	<record>
+		<field name="company_id">1</field>
+		<field name="company_name">Ablation Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">2</field>
+		<field name="company_name">ACI Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">3</field>
+		<field name="company_name">Acme Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">4</field>
+		<field name="company_name">Acme Specialized Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">5</field>
+		<field name="company_name">Ad-din Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">6</field>
+		<field name="company_name">Adco Pharmaceuticals &amp; Chemicals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">7</field>
+		<field name="company_name">Advent Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">8</field>
+		<field name="company_name">Aexim Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">9</field>
+		<field name="company_name">Agrani Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">10</field>
+		<field name="company_name">Al-Madina Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">11</field>
+		<field name="company_name">Albert David (BD) Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">12</field>
+		<field name="company_name">Albion Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">13</field>
+		<field name="company_name">Alco Pharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">14</field>
+		<field name="company_name">Alkad Laboratories</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">15</field>
+		<field name="company_name">Alpha Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">16</field>
+		<field name="company_name">Ambee Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">17</field>
+		<field name="company_name">Amico Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">18</field>
+		<field name="company_name">Amulet Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">19</field>
+		<field name="company_name">APC Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">20</field>
+		<field name="company_name">Apex Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">21</field>
+		<field name="company_name">Apollo Pharmaceutical Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">22</field>
+		<field name="company_name">Aristopharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">23</field>
+		<field name="company_name">Asiatic Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">24</field>
+		<field name="company_name">Astra Biopharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">25</field>
+		<field name="company_name">Avert Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">26</field>
+		<field name="company_name">Aztec Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">27</field>
+		<field name="company_name">Bangladesh Antibiotic Industries Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">28</field>
+		<field name="company_name">Bangladesh Immunity Co.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">29</field>
+		<field name="company_name">Bangladesh Oxygen Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">30</field>
+		<field name="company_name">BC Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">31</field>
+		<field name="company_name">Beacon Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">33</field>
+		<field name="company_name">Belsen Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">34</field>
+		<field name="company_name">Bengal Drugs &amp; Chemical Works Pharm. Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">35</field>
+		<field name="company_name">Bengal Techno Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">36</field>
+		<field name="company_name">Benham Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">37</field>
+		<field name="company_name">Beximco Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">39</field>
+		<field name="company_name">Bikalpa Friends Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">40</field>
+		<field name="company_name">Bio Pharma Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">41</field>
+		<field name="company_name">Bios Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">43</field>
+		<field name="company_name">Blubell Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">44</field>
+		<field name="company_name">Boichem Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">45</field>
+		<field name="company_name">Bosco Laboratory</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">46</field>
+		<field name="company_name">Bridge Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">47</field>
+		<field name="company_name">Bristol Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">48</field>
+		<field name="company_name">BS Industries Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">49</field>
+		<field name="company_name">Care Pharma Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">50</field>
+		<field name="company_name">Carew &amp; Co.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">51</field>
+		<field name="company_name">Central Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">52</field>
+		<field name="company_name">Chemist Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">53</field>
+		<field name="company_name">Cipla Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">54</field>
+		<field name="company_name">City Chemicals &amp; Pharmaceuticals Works Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">56</field>
+		<field name="company_name">Comilla Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">57</field>
+		<field name="company_name">Concord Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">58</field>
+		<field name="company_name">Cosmic Chemical Industries Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">59</field>
+		<field name="company_name">Cosmo Pharma Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">60</field>
+		<field name="company_name">Cresent Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">61</field>
+		<field name="company_name">Crystal Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">62</field>
+		<field name="company_name">Decent Pharma Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">63</field>
+		<field name="company_name">Delta Pharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">64</field>
+		<field name="company_name">Desh Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">65</field>
+		<field name="company_name">Doctor Tims Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">66</field>
+		<field name="company_name">Doctor&apos;s Chemicals Works Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">67</field>
+		<field name="company_name">Dolphin Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">68</field>
+		<field name="company_name">Doms Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">70</field>
+		<field name="company_name">Dr. Jalil&apos;s Pharma (Pvt) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">71</field>
+		<field name="company_name">Drug International Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">73</field>
+		<field name="company_name">Drugland Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">75</field>
+		<field name="company_name">Eastern Drug Co. (Pvt.) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">76</field>
+		<field name="company_name">Eastern Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">78</field>
+		<field name="company_name">EDCL (Dhaka)</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">79</field>
+		<field name="company_name">Edruc Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">80</field>
+		<field name="company_name">Eon Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">81</field>
+		<field name="company_name">Eskayef Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">83</field>
+		<field name="company_name">Ethical Drug Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">84</field>
+		<field name="company_name">Euro Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">85</field>
+		<field name="company_name">Everest Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">86</field>
+		<field name="company_name">F N F Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">87</field>
+		<field name="company_name">G. A. Company Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">88</field>
+		<field name="company_name">G.M. Laboratory</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">89</field>
+		<field name="company_name">G.P.I. Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">91</field>
+		<field name="company_name">General Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">92</field>
+		<field name="company_name">Gentry Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">93</field>
+		<field name="company_name">GlaxoSmithKline Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">94</field>
+		<field name="company_name">Global Heavy Chemicals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">95</field>
+		<field name="company_name">Global s Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">97</field>
+		<field name="company_name">Globe Drug Ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">98</field>
+		<field name="company_name">Globe Laboratories (Pvt.) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">99</field>
+		<field name="company_name">Globe Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">101</field>
+		<field name="company_name">Globex Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">104</field>
+		<field name="company_name">Gonoshasthaya Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">105</field>
+		<field name="company_name">Great Bengal Chemical &amp; Pharmaceuticals Works (Suspended)</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">106</field>
+		<field name="company_name">Green Laboratory</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">107</field>
+		<field name="company_name">Greenland Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">108</field>
+		<field name="company_name">Guardian Healthcare Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">109</field>
+		<field name="company_name">Hallmark Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">110</field>
+		<field name="company_name">Healthcare Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">111</field>
+		<field name="company_name">Hope Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">112</field>
+		<field name="company_name">Hudson Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">113</field>
+		<field name="company_name">Huqsons Laboratories Ltd. Suspened</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">114</field>
+		<field name="company_name">Hydroxide Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">115</field>
+		<field name="company_name">Ibn Sina Pharmaceutical Ind. Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">116</field>
+		<field name="company_name">Incepta Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">119</field>
+		<field name="company_name">Indobangla Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">120</field>
+		<field name="company_name">Innova Phrmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">121</field>
+		<field name="company_name">Institute of Public Health</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">122</field>
+		<field name="company_name">Islami Pharmaceutical Industries Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">123</field>
+		<field name="company_name">J C I Bangladesh Ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">124</field>
+		<field name="company_name">Jalalabad Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">125</field>
+		<field name="company_name">Jalpha Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">126</field>
+		<field name="company_name">Jams Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">127</field>
+		<field name="company_name">Janasheba Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">128</field>
+		<field name="company_name">Jayson Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">129</field>
+		<field name="company_name">JMI Syringes &amp; Medical Devices Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">130</field>
+		<field name="company_name">Kafma Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">131</field>
+		<field name="company_name">Kasiruddin Chemical Works (pvt) Ltd. (Suspended)</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">132</field>
+		<field name="company_name">KDH Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">133</field>
+		<field name="company_name">Kemiko Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">134</field>
+		<field name="company_name">Kumudini Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">135</field>
+		<field name="company_name">Labaid Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">136</field>
+		<field name="company_name">Leon Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">138</field>
+		<field name="company_name">Libra Pharmaceuticls Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">139</field>
+		<field name="company_name">Links Pharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">140</field>
+		<field name="company_name">Loly Pharma (Vet)</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">141</field>
+		<field name="company_name">Mafnaz Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">142</field>
+		<field name="company_name">Maks Drugs Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">143</field>
+		<field name="company_name">Marksman Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">144</field>
+		<field name="company_name">Maxborn Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">145</field>
+		<field name="company_name">Medico Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">146</field>
+		<field name="company_name">Medicon Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">147</field>
+		<field name="company_name">Medimet Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">148</field>
+		<field name="company_name">Microbe Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">149</field>
+		<field name="company_name">Mig Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">150</field>
+		<field name="company_name">Millat Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">151</field>
+		<field name="company_name">Modern Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">152</field>
+		<field name="company_name">Momotaz Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">153</field>
+		<field name="company_name">Monicopharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">154</field>
+		<field name="company_name">Monomedi Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">155</field>
+		<field name="company_name">Mundipharma (Bangladesh) Pvt. Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">156</field>
+		<field name="company_name">Mystic Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">157</field>
+		<field name="company_name">Naafco Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">158</field>
+		<field name="company_name">Najat Pharma Co. (Suspended)</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">159</field>
+		<field name="company_name">Natal Chemical Ind.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">160</field>
+		<field name="company_name">National Drug Company Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">161</field>
+		<field name="company_name">National Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">163</field>
+		<field name="company_name">Navana Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">164</field>
+		<field name="company_name">Nip Chemicals And Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">165</field>
+		<field name="company_name">Nipa Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">167</field>
+		<field name="company_name">NIPRO JMI Pharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">168</field>
+		<field name="company_name">North Bengal Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">169</field>
+		<field name="company_name">Novartis (Bangladesh) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">170</field>
+		<field name="company_name">Novelta Bestway Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">171</field>
+		<field name="company_name">Novo Healthcare and Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">173</field>
+		<field name="company_name">Novus Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">174</field>
+		<field name="company_name">Nuvista Pharma Ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">175</field>
+		<field name="company_name">Oasis Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">176</field>
+		<field name="company_name">Opso Saline Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">178</field>
+		<field name="company_name">Opsonin Pharma Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">179</field>
+		<field name="company_name">Orbit Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">180</field>
+		<field name="company_name">Organic Health Care</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">182</field>
+		<field name="company_name">Orion Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">183</field>
+		<field name="company_name">Oyster Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">184</field>
+		<field name="company_name">Pacific Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">185</field>
+		<field name="company_name">Paradise Chemical Industries</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">187</field>
+		<field name="company_name">Peoples Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">188</field>
+		<field name="company_name">Pharmacil Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">189</field>
+		<field name="company_name">Pharmaco International Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">190</field>
+		<field name="company_name">Pharmadesh Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">191</field>
+		<field name="company_name">Pharmasia Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">192</field>
+		<field name="company_name">Pharmatek Chemicals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">193</field>
+		<field name="company_name">Pharmik Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">194</field>
+		<field name="company_name">Phoenix Chemicals Laboratories (BD) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">195</field>
+		<field name="company_name">Pioneer Pharmaceutical Ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">196</field>
+		<field name="company_name">Pip Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">198</field>
+		<field name="company_name">Popular Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">199</field>
+		<field name="company_name">Premier Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">200</field>
+		<field name="company_name">Prime Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">201</field>
+		<field name="company_name">Pubali Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">203</field>
+		<field name="company_name">Quality Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">204</field>
+		<field name="company_name">R.D.C.C.S. Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">205</field>
+		<field name="company_name">Radiant Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">206</field>
+		<field name="company_name">Rahman Chemicals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">207</field>
+		<field name="company_name">RAK Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">208</field>
+		<field name="company_name">Rampart-Power Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">209</field>
+		<field name="company_name">Rangs Medicine</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">210</field>
+		<field name="company_name">Rangs Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">211</field>
+		<field name="company_name">Rasa Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">212</field>
+		<field name="company_name">Reckitt &amp; Benckiser Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">213</field>
+		<field name="company_name">Reliable Drugs &amp; Chemicals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">214</field>
+		<field name="company_name">Reliance Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">215</field>
+		<field name="company_name">Reliance Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">216</field>
+		<field name="company_name">Reman Drug Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">217</field>
+		<field name="company_name">Remex Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">218</field>
+		<field name="company_name">Remo Chemical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">219</field>
+		<field name="company_name">Renata Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">221</field>
+		<field name="company_name">Rephco Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">222</field>
+		<field name="company_name">Rex Pharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">223</field>
+		<field name="company_name">Rid Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">224</field>
+		<field name="company_name">RN Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">225</field>
+		<field name="company_name">Roche Bangladesh Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">226</field>
+		<field name="company_name">Royal Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">227</field>
+		<field name="company_name">S. N. Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">228</field>
+		<field name="company_name">Salton Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">229</field>
+		<field name="company_name">Sanofi Aventis (BD) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">230</field>
+		<field name="company_name">Sarma Chemical Works Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">231</field>
+		<field name="company_name">Save Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">232</field>
+		<field name="company_name">Seba Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">233</field>
+		<field name="company_name">Seema Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">234</field>
+		<field name="company_name">Seftchem Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">235</field>
+		<field name="company_name">Shamsul Al-Amin Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">236</field>
+		<field name="company_name">Sharif Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">237</field>
+		<field name="company_name">Sheba Chemicals Industries Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">238</field>
+		<field name="company_name">Silco Pharmaceuticlas Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">239</field>
+		<field name="company_name">Silva Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">240</field>
+		<field name="company_name">Skylab Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">241</field>
+		<field name="company_name">Social Marketing Company</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">243</field>
+		<field name="company_name">Somatec Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">244</field>
+		<field name="company_name">Sonear Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">245</field>
+		<field name="company_name">Sonergaon Chemical Complex (pvt) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">246</field>
+		<field name="company_name">Sony Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">247</field>
+		<field name="company_name">Spark Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">248</field>
+		<field name="company_name">Spectra Oxygen Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">249</field>
+		<field name="company_name">Square Cephalosporins Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">250</field>
+		<field name="company_name">Square Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">253</field>
+		<field name="company_name">Standard Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">254</field>
+		<field name="company_name">Stars Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">255</field>
+		<field name="company_name">Sun Pharmaceutical (Bangladesh) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">256</field>
+		<field name="company_name">Sunypun Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">257</field>
+		<field name="company_name">Super Power Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">258</field>
+		<field name="company_name">Supreme Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">259</field>
+		<field name="company_name">Syntho Laboratories Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">260</field>
+		<field name="company_name">Techno Drugs Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">262</field>
+		<field name="company_name">Theraputics (BD) Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">263</field>
+		<field name="company_name">Tropical Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">264</field>
+		<field name="company_name">Ultra Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">265</field>
+		<field name="company_name">Unimed &amp; Unihealth Manufacturers Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">266</field>
+		<field name="company_name">Union Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">267</field>
+		<field name="company_name">Unique Pharmaceutical Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">268</field>
+		<field name="company_name">United Chemicals &amp; Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">271</field>
+		<field name="company_name">Universal Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">272</field>
+		<field name="company_name">Veritas Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">273</field>
+		<field name="company_name">Virgo Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">274</field>
+		<field name="company_name">Weinberg Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">275</field>
+		<field name="company_name">Wellcome Chemical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">276</field>
+		<field name="company_name">White Horse Pharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">277</field>
+		<field name="company_name">Zaman Pharmaceutical Ltd,</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">278</field>
+		<field name="company_name">Zenith Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">279</field>
+		<field name="company_name">Ziska Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">280</field>
+		<field name="company_name">245-3410(V)-98</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">281</field>
+		<field name="company_name">A/S Lundbeck Export DivisionLtd., Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">283</field>
+		<field name="company_name">Abbott HealthcareProducts,Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">284</field>
+		<field name="company_name">Abbott Laboratories Ltd., Pakistan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">285</field>
+		<field name="company_name">Abbott Laboratories Ltd., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">286</field>
+		<field name="company_name">Abbott Laboratories, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">287</field>
+		<field name="company_name">Ace Chemicals,UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">288</field>
+		<field name="company_name">Actavis Italy SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">289</field>
+		<field name="company_name">Actavis, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">290</field>
+		<field name="company_name">Advanced Medical Optics UppsalaAB, Sweden</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">291</field>
+		<field name="company_name">Aesica Queenborough Limited, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">292</field>
+		<field name="company_name">Alcon Cannada Inc., Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">293</field>
+		<field name="company_name">Alcon Laboratories Inc, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">296</field>
+		<field name="company_name">Allergan Inc, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">300</field>
+		<field name="company_name">Allergan Pharmaceuticals Ltd.,Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">303</field>
+		<field name="company_name">Allergan Sales LLC, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">304</field>
+		<field name="company_name">Alpha Therapeutic Corporation,USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">305</field>
+		<field name="company_name">Anhui Kangning Industrial (Group)Co. Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">306</field>
+		<field name="company_name">Anji Sunlight Medical Products Co.Ltd. China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">309</field>
+		<field name="company_name">Antec International Ltd., U.K.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">313</field>
+		<field name="company_name">Aspen Bad Oldesloe, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">314</field>
+		<field name="company_name">Asta Medica AG, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">315</field>
+		<field name="company_name">Astral Pharmaceuticals Industries,India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">316</field>
+		<field name="company_name">Aventis Behring GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">317</field>
+		<field name="company_name">Aventis Pasteur S.A. France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">320</field>
+		<field name="company_name">Aventis Pharma, Dagenham, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">321</field>
+		<field name="company_name">Aventis Pharma, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">322</field>
+		<field name="company_name">Aventis Pharma, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">323</field>
+		<field name="company_name">Aventis Pharma, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">325</field>
+		<field name="company_name">Axcentive Sarl, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">326</field>
+		<field name="company_name">Ayerst Wyeth PharmaceuticalsInc.,</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">329</field>
+		<field name="company_name">B. Braun Melsungen Ag, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">330</field>
+		<field name="company_name">Baxter Ag, Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">331</field>
+		<field name="company_name">Baxter AG, Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">332</field>
+		<field name="company_name">Baxter Healthcare SA, Singapore</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">333</field>
+		<field name="company_name">Baxter Oncology Gmbh, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">335</field>
+		<field name="company_name">Bayer Pharma AG Berlin,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">336</field>
+		<field name="company_name">Bayer SChering Pharma Oy,Finland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">337</field>
+		<field name="company_name">Becton Dickinson and Company,USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">338</field>
+		<field name="company_name">Behringwerke AG, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">339</field>
+		<field name="company_name">Beijing Fresenius KabiPharmacutical co. Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">340</field>
+		<field name="company_name">Bene Arzneimittel GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">341</field>
+		<field name="company_name">Berna Biotech Ltd., Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">342</field>
+		<field name="company_name">Berna Biotech, Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">343</field>
+		<field name="company_name">Bestar Laboratories (Singapore)Pte Ltd., Singapore</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">345</field>
+		<field name="company_name">Biogen &amp; Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">347</field>
+		<field name="company_name">Biomune Company, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">349</field>
+		<field name="company_name">Biomune de Mexico S.de R L CV., Mexico</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">350</field>
+		<field name="company_name">Biopharm, Research Institute ofBiopharmacy and veterinaryDrugs, Czech Republic</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">352</field>
+		<field name="company_name">Bioveta, Czech Republic</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">353</field>
+		<field name="company_name">Bomac Laboratories Limited NewZearland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">355</field>
+		<field name="company_name">Bracco S.P.A, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">356</field>
+		<field name="company_name">Bremer Pharma GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">357</field>
+		<field name="company_name">Bristol Caribbean, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">358</field>
+		<field name="company_name">Bristol Myers Squibb Pvt. Ltd.,USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">360</field>
+		<field name="company_name">Bristol-Myers, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">361</field>
+		<field name="company_name">C.B. Fleet Company Inc, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">362</field>
+		<field name="company_name">Ceva Phylaxia, Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">363</field>
+		<field name="company_name">CEVA Phylaxia, VeterinaryBiological Company, Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">364</field>
+		<field name="company_name">Ceva-Phylaxia VeterinaryBiological Co. Ltd., Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">365</field>
+		<field name="company_name">CEVA-PHYLAXIA VeterinaryBiologicals Co. Ltd., Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">366</field>
+		<field name="company_name">Cheil Bio Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">367</field>
+		<field name="company_name">Chemial Works of Gedeon RichterLtd., Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">370</field>
+		<field name="company_name">Chiron Behring Vaccine Pvt. Ltd.,</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">371</field>
+		<field name="company_name">Choong Ang Animal DiseaseLaboratory, Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">372</field>
+		<field name="company_name">Choong Ang VaccineLaboratory,Korea.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">375</field>
+		<field name="company_name">Choongwae Pharma Corporation,Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">376</field>
+		<field name="company_name">Ciba Geigy Ltd., Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">377</field>
+		<field name="company_name">Ciba Vision Ag, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">378</field>
+		<field name="company_name">CID Lines N.V Waterpoorstraat 2,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">379</field>
+		<field name="company_name">Cilag AG, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">380</field>
+		<field name="company_name">Claris Lifesciences Ltd., India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">381</field>
+		<field name="company_name">Closed Joint-Stock Company</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">382</field>
+		<field name="company_name">CLS Pharma ,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">383</field>
+		<field name="company_name">CNN-Laboratoria veterinario Ltda.,Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">384</field>
+		<field name="company_name">Coophavate,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">387</field>
+		<field name="company_name">Coophavet, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">388</field>
+		<field name="company_name">Coventry Chemicals Limited, EU</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">389</field>
+		<field name="company_name">CSL Behring Ag, Switzeland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">390</field>
+		<field name="company_name">CSL Behring GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">392</field>
+		<field name="company_name">Dabur Pharmaceuticals Ltd., India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">393</field>
+		<field name="company_name">Dae Sung Microbiological Labs,korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">394</field>
+		<field name="company_name">DaOne Chemical Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">395</field>
+		<field name="company_name">Denex International, India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">396</field>
+		<field name="company_name">Dong Bang Co. Ltd. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">397</field>
+		<field name="company_name">Dong Kook Pharmaceutical, Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">398</field>
+		<field name="company_name">Dopharma International,Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">399</field>
+		<field name="company_name">Eagle Vet. Tech Co., Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">400</field>
+		<field name="company_name">Eastern Medikit Limited, India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">402</field>
+		<field name="company_name">Ebew Pharma,Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">403</field>
+		<field name="company_name">Eco Animal Health Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">404</field>
+		<field name="company_name">Egis Pharmaceuticals, Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">405</field>
+		<field name="company_name">Elanco Animal Health, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">407</field>
+		<field name="company_name">Eli Lilly and Company USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">408</field>
+		<field name="company_name">Eli Lilly France SA, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">409</field>
+		<field name="company_name">Eli Lilly Italia SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">410</field>
+		<field name="company_name">Evans Vanodine International, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">412</field>
+		<field name="company_name">Ewabo Chemikalien GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">413</field>
+		<field name="company_name">Excella, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">415</field>
+		<field name="company_name">Excelvision AG, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">416</field>
+		<field name="company_name">F. H. Faulding &amp; Co., Ltd.,Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">418</field>
+		<field name="company_name">F. Hoffmann La Roche,Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">419</field>
+		<field name="company_name">F. Hoffmann, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">421</field>
+		<field name="company_name">F. Hoffmann-La Roche Ltd.Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">422</field>
+		<field name="company_name">F. Hoffmann-La Roche Ltd.,Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">425</field>
+		<field name="company_name">F.Hoffmann La Roche, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">427</field>
+		<field name="company_name">F.Hoffmann-La Roche Ltd.Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">429</field>
+		<field name="company_name">Fam Vanodione International, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">430</field>
+		<field name="company_name">Famy Care Lrtd., India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">431</field>
+		<field name="company_name">Fatro SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">432</field>
+		<field name="company_name">Ferring GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">433</field>
+		<field name="company_name">Fidia Farmaceutical SPA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">434</field>
+		<field name="company_name">Fisons Limited, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">435</field>
+		<field name="company_name">Fort Dodge Animal Health, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">436</field>
+		<field name="company_name">Fresenius Kabi (Guangzhou) Co.Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">437</field>
+		<field name="company_name">Fresenius Kabi Austria GmbH,Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">438</field>
+		<field name="company_name">Fresenius Kabi DeutschlandGmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">440</field>
+		<field name="company_name">Fresenius Medical CareDeustshland, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">441</field>
+		<field name="company_name">Fresinus Kabi Austria GmbH,Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">442</field>
+		<field name="company_name">Galxo Wellcome, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">443</field>
+		<field name="company_name">GE Health Care., Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">446</field>
+		<field name="company_name">Genentech Inc, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">448</field>
+		<field name="company_name">Genentech Inc., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">449</field>
+		<field name="company_name">Glaxo Operations UK Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">450</field>
+		<field name="company_name">Glaxo Smith Klin ,Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">451</field>
+		<field name="company_name">Glaxo Smith Kline Bioglan SA,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">452</field>
+		<field name="company_name">Glaxo Smith Kline Biological S.A.,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">455</field>
+		<field name="company_name">Glaxo Smith Kline SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">457</field>
+		<field name="company_name">Glaxo SmithKline Biological S.A.,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">460</field>
+		<field name="company_name">Glaxo Wellcome GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">461</field>
+		<field name="company_name">Glaxo Wellcome Operations, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">462</field>
+		<field name="company_name">Glaxo Wellcome Production,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">463</field>
+		<field name="company_name">Glaxo Wellcome Spa, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">465</field>
+		<field name="company_name">GlaxoSmithkline Biologicals S.A,Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">466</field>
+		<field name="company_name">GlaxoSmithkline Biologicals S.A,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">468</field>
+		<field name="company_name">GlaxoSmithKline Biologicals,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">469</field>
+		<field name="company_name">Godecke GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">470</field>
+		<field name="company_name">Gosun Pharma Co. Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">471</field>
+		<field name="company_name">GP Grenzach Produktion GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">472</field>
+		<field name="company_name">Green Cross GuangzhouPharmaceutical Co. Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">473</field>
+		<field name="company_name">Green Cross veterinary productsCo. Ltd. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">476</field>
+		<field name="company_name">Grifols Biologicals Inc, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">477</field>
+		<field name="company_name">Gruppo Lepetit Srl, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">479</field>
+		<field name="company_name">H. Lundbeck &amp; Co., A/S, Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">480</field>
+		<field name="company_name">H. Lundbeck A/S, Ottiliavej,Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">481</field>
+		<field name="company_name">Haiou Medical Appliance Co.,Chine</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">482</field>
+		<field name="company_name">Halocarbone Laboratories, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">483</field>
+		<field name="company_name">Hamdard Lab. (Waqf), Pakistan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">484</field>
+		<field name="company_name">Hameln Pharma Plus GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">486</field>
+		<field name="company_name">Hangdong Co.Ltd. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">488</field>
+		<field name="company_name">Haupt Pharma, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">489</field>
+		<field name="company_name">Hexal Ag Germany by EbewePharma Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">490</field>
+		<field name="company_name">Hexal Ag, Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">491</field>
+		<field name="company_name">Hexal ag, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">492</field>
+		<field name="company_name">HLL Life Care Limited, India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">494</field>
+		<field name="company_name">Hoechst Marion RousselDeutschland GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">495</field>
+		<field name="company_name">Hoechst Roussel Vet Private Ltd.,India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">496</field>
+		<field name="company_name">Hoechstl Aventis Pharma,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">497</field>
+		<field name="company_name">Hoffman-La Roche Ltd.Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">499</field>
+		<field name="company_name">Hospira Australia Pty Ltd.,Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">500</field>
+		<field name="company_name">Hospira Australia Pvt. Ltd.,Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">501</field>
+		<field name="company_name">Huaian wanjia Medical Divice Co.Ltd. China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">502</field>
+		<field name="company_name">Instituto Grifols S.A., Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">503</field>
+		<field name="company_name">Instituto Sierovaccinogeno ItalianoSpa, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">505</field>
+		<field name="company_name">Intervet International B.V,Netherland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">506</field>
+		<field name="company_name">Intervet International B.V., Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">510</field>
+		<field name="company_name">Intervet International,Netherland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">512</field>
+		<field name="company_name">IZO S.p.A Via Bianchi, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">514</field>
+		<field name="company_name">Janseen Pharmaceutica, Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">517</field>
+		<field name="company_name">Jhon Wyeth &amp; Brother Ltd. UK andMarketing Authorisation HolderWyeth Lederle Vaccine SABelgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">518</field>
+		<field name="company_name">JHP Pharmaceuticals, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">519</field>
+		<field name="company_name">Jiaxing Tianhe Pharmaceutical Co.Ltd. China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">522</field>
+		<field name="company_name">JMS Singapore Pte Ltd.,Singapore</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">525</field>
+		<field name="company_name">Kanters Middenakkerweg,Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">526</field>
+		<field name="company_name">Kawasumi Laboratories, Thailand</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">528</field>
+		<field name="company_name">KBNP Inc. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">531</field>
+		<field name="company_name">Kedrion, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">532</field>
+		<field name="company_name">Kela Laboratoria, Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">533</field>
+		<field name="company_name">Kela N.V., Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">534</field>
+		<field name="company_name">Kepro B.V Maagdenburgstarrt,Netherland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">535</field>
+		<field name="company_name">Kepro BV Compagnieweg, TheNetherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">538</field>
+		<field name="company_name">Komipharm International Co.Ltd. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">541</field>
+		<field name="company_name">Korea Thumb Vet Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">543</field>
+		<field name="company_name">Koream Vetchem Co., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">544</field>
+		<field name="company_name">Kyowa Hakko KivinCo. Ltd., Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">545</field>
+		<field name="company_name">Kyowa Hakko Kogyo Co., Ltd.,Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">547</field>
+		<field name="company_name">Laboratories Crinex, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">548</field>
+		<field name="company_name">Laboratories Hipra S.A., Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">550</field>
+		<field name="company_name">Laboratories Ovejero S.A Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">553</field>
+		<field name="company_name">Laboratories Panpharma, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">554</field>
+		<field name="company_name">Laboratories Sogeval</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">555</field>
+		<field name="company_name">Laboratorio Aldo-Union, Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">556</field>
+		<field name="company_name">Laboratorios Hipra SA, Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">558</field>
+		<field name="company_name">Lavipharm S.A, Greece</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">559</field>
+		<field name="company_name">Leiras OY, Finland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">560</field>
+		<field name="company_name">Lek dd Ljubljana Pharmaceutical &amp;Chemical Co., Slovenia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">561</field>
+		<field name="company_name">Leo Pharmaceutical Products,Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">563</field>
+		<field name="company_name">Les Laboratories Servier Industrie,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">566</field>
+		<field name="company_name">LFB Biomedicaments, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">567</field>
+		<field name="company_name">LG Life Sciences Ltd.(LGLS),Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">568</field>
+		<field name="company_name">Lilly Deutsch Land GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">569</field>
+		<field name="company_name">Lilly Egypt, Egypt</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">571</field>
+		<field name="company_name">Lilly France SA, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">572</field>
+		<field name="company_name">Lilly, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">573</field>
+		<field name="company_name">Lohmann Animal HealthInternational, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">574</field>
+		<field name="company_name">Lohmann Animal Health GmbH &amp;Co., Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">577</field>
+		<field name="company_name">LTS Lohmann Therapie-Systeme,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">578</field>
+		<field name="company_name">M/S Meril select Inc,U.S.A</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">579</field>
+		<field name="company_name">M/s Organon,Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">580</field>
+		<field name="company_name">M/S. LG Life Sciences Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">581</field>
+		<field name="company_name">Made for F. Hoffmann-La RocheLtd. Switzerland By RocheDiagnostic GmbH Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">582</field>
+		<field name="company_name">Mallinckrodt Inc., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">583</field>
+		<field name="company_name">Mayne Pharma Pty Ltd., Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">584</field>
+		<field name="company_name">Mayne Pharma Pty. Ltd., Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">586</field>
+		<field name="company_name">Medac Gesellschaft fur Klinischespezialpraparate Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">588</field>
+		<field name="company_name">Medica AG, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">589</field>
+		<field name="company_name">Medipro Medikal Uruler San.,Turkey</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">590</field>
+		<field name="company_name">Merck , Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">591</field>
+		<field name="company_name">Merck KGaA, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">592</field>
+		<field name="company_name">Merck Serono S.A., Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">593</field>
+		<field name="company_name">Merck Serono S.p.A, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">597</field>
+		<field name="company_name">Merial Biological Laboratory, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">598</field>
+		<field name="company_name">Merial Italia S.p. A., Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">600</field>
+		<field name="company_name">Merial Select, Inc., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">603</field>
+		<field name="company_name">Merial, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">604</field>
+		<field name="company_name">Merial, U.K</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">605</field>
+		<field name="company_name">Merial,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">606</field>
+		<field name="company_name">Mika Pharma GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">607</field>
+		<field name="company_name">N V Organon OSS, Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">608</field>
+		<field name="company_name">N. V. Organon, Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">609</field>
+		<field name="company_name">N.V. Organon, Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">611</field>
+		<field name="company_name">N.V. Upjohn S.A., Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">612</field>
+		<field name="company_name">Nantong Egens Biotechinology Co.Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">613</field>
+		<field name="company_name">Nephron Pharma, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">614</field>
+		<field name="company_name">Nippon Kayaku Co Ltd,.Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">616</field>
+		<field name="company_name">Norbrook Laboratories Ltd.,Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">617</field>
+		<field name="company_name">Novartis Farma SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">619</field>
+		<field name="company_name">Novartis Farmaceutica S.A., Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">622</field>
+		<field name="company_name">Novartis Opthalmics, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">623</field>
+		<field name="company_name">Novartis Pharma AG, Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">625</field>
+		<field name="company_name">Novartis Pharma Ag. Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">626</field>
+		<field name="company_name">Novartis Pharma Ag. Switerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">627</field>
+		<field name="company_name">Novartis Pharma GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">628</field>
+		<field name="company_name">Novartis Pharma SA, China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">629</field>
+		<field name="company_name">Novartis Pharma SA, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">630</field>
+		<field name="company_name">Novartis Pharma Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">631</field>
+		<field name="company_name">Novartis Pharma, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">634</field>
+		<field name="company_name">Novartis Pharmaceuticals, UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">635</field>
+		<field name="company_name">Novartis Vaccine and DiagnosticsGermany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">636</field>
+		<field name="company_name">Novartis Vaccines &amp; DiagnosticsS.r.l Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">638</field>
+		<field name="company_name">Novo Industri A/S, Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">639</field>
+		<field name="company_name">Novo Nordisk A/S Denmark</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">642</field>
+		<field name="company_name">Nycomed GmbH, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">643</field>
+		<field name="company_name">Nycomed, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">644</field>
+		<field name="company_name">Octapharma Pharmazeutika mbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">645</field>
+		<field name="company_name">Oculus Innovative Sciences, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">646</field>
+		<field name="company_name">Organon (Ireland) Ltd., Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">649</field>
+		<field name="company_name">Organon Iteland Ltd., Organon</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">650</field>
+		<field name="company_name">Orion Corporation Finland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">652</field>
+		<field name="company_name">Pacific Hospital Supply Co., Ltd.,USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">654</field>
+		<field name="company_name">Pacsun Industrial Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">655</field>
+		<field name="company_name">Pasteur Merieux Serums andVaccines, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">656</field>
+		<field name="company_name">Patheon Inc., Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">658</field>
+		<field name="company_name">Pfizer (perth) Pty. Ltd. Australia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">661</field>
+		<field name="company_name">Pfizer Animal Health, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">663</field>
+		<field name="company_name">Pfizer Italia Srl, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">664</field>
+		<field name="company_name">Pfizer Manufacturing deutchslandGermany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">665</field>
+		<field name="company_name">Pfizer Manufacturing, Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">667</field>
+		<field name="company_name">Pfizer PGM, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">668</field>
+		<field name="company_name">Pfizer Pharmaceuticals, Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">669</field>
+		<field name="company_name">Pfizer Puus SP.A, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">670</field>
+		<field name="company_name">Pfizer Puus SP.A,., Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">671</field>
+		<field name="company_name">Pfizer Spa, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">672</field>
+		<field name="company_name">Pfizer, Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">673</field>
+		<field name="company_name">Pfizer, Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">675</field>
+		<field name="company_name">Pharmachemie B. V. Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">677</field>
+		<field name="company_name">Pharmachemie B.V., Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">679</field>
+		<field name="company_name">Pharmacia Spa, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">680</field>
+		<field name="company_name">Pharmacosmos</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">681</field>
+		<field name="company_name">Pharmathen S.A Greece</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">682</field>
+		<field name="company_name">Plasmapharm Sera GmbH &amp; Co.,Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">683</field>
+		<field name="company_name">Polichem S.A., Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">684</field>
+		<field name="company_name">Premier Enterprises, India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">685</field>
+		<field name="company_name">Procter &amp; Gumble, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">686</field>
+		<field name="company_name">Quatchem Limited, Uk</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">687</field>
+		<field name="company_name">R. P. Scherer GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">689</field>
+		<field name="company_name">Reckitt &amp; Colman Products Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">690</field>
+		<field name="company_name">Riemser Arzneimittel AG,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">691</field>
+		<field name="company_name">Roche Diagnostic, GermanyUnder Licence Roche, Swiss</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">692</field>
+		<field name="company_name">Roche Diagnostics GmbH,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">693</field>
+		<field name="company_name">Roche Fontenay, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">694</field>
+		<field name="company_name">Roche Spa, ItalyF. Hoffmann La Roche,Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">695</field>
+		<field name="company_name">Roche SpA, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">696</field>
+		<field name="company_name">Rotexmedica GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">699</field>
+		<field name="company_name">S. A. Alcon Couvereur NV,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">700</field>
+		<field name="company_name">S. A. Alcon Couvreur N.V.,Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">706</field>
+		<field name="company_name">S.C Sindan Pharma S.R.l,Romania</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">707</field>
+		<field name="company_name">S.C Sindan Pharma S.R.LkRomania</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">708</field>
+		<field name="company_name">S.P Veterinaria, s.a, Spain</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">709</field>
+		<field name="company_name">Samyang Anipharm Co. Ltd. Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">710</field>
+		<field name="company_name">Samyang Pharma ChemicalsCo.Ltd,, Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">711</field>
+		<field name="company_name">Sandoz GmbH, Austria</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">712</field>
+		<field name="company_name">Sandoz Private Ltd. India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">714</field>
+		<field name="company_name">Sanofi Aventis Pasteur SA, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">715</field>
+		<field name="company_name">Sanofi Aventis, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">717</field>
+		<field name="company_name">Sanofi Pasteur Lyon, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">718</field>
+		<field name="company_name">Sanofi Pasteur S A ,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">725</field>
+		<field name="company_name">Sanofi Winthrop Industries,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">727</field>
+		<field name="company_name">Sanofi-aventis DeutschlandGmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">729</field>
+		<field name="company_name">SBL Vaccin AB, Sweden</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">730</field>
+		<field name="company_name">Schering A.G, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">731</field>
+		<field name="company_name">Schering Plough, Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">732</field>
+		<field name="company_name">Schering- Plough Animal HealthCorp., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">733</field>
+		<field name="company_name">ScheringOy,Pansiontie,47,20210Turku, Finland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">735</field>
+		<field name="company_name">Schwarz Pharma, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">736</field>
+		<field name="company_name">Senexi Sas Fontenay-Sous-Bois,France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">737</field>
+		<field name="company_name">Senixi SAS, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">738</field>
+		<field name="company_name">Serono Pharma Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">739</field>
+		<field name="company_name">Serono Pharma Spa, Italy</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">740</field>
+		<field name="company_name">Serumwerk Burnburg AG,Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">741</field>
+		<field name="company_name">SF Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">742</field>
+		<field name="company_name">Shandong weigao Group MedicalPolymer Co. Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">746</field>
+		<field name="company_name">Shinil Biogen &amp; Co. Ltd., Korea</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">749</field>
+		<field name="company_name">Sino Swed PharmaceuticalCorporation Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">750</field>
+		<field name="company_name">Smith &amp; Nephew Medical Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">751</field>
+		<field name="company_name">Socorex Isba S .A. CH.ChampColomb 7,Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">752</field>
+		<field name="company_name">Solvay Pharmaceuticals,Netherlands</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">753</field>
+		<field name="company_name">Special T Products Ltd., UK</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">754</field>
+		<field name="company_name">Stiefel Laboratories Ptd Ltd.,Ireland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">755</field>
+		<field name="company_name">Stiefel Laboratories Ptd Ltd.,Singapore</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">758</field>
+		<field name="company_name">Sumitomo Pharmaceuticals Co.,Ltd., Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">759</field>
+		<field name="company_name">Super</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">760</field>
+		<field name="company_name">Swensweg 5 Haarlem, Holland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">761</field>
+		<field name="company_name">Takeda Pharmaceutical Companyltd., Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">762</field>
+		<field name="company_name">Talecris Biotherapeutics Inc. USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">763</field>
+		<field name="company_name">Terumo Corporation, Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">764</field>
+		<field name="company_name">Teva Pharmaceutical Private Ltd.,Hungary</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">765</field>
+		<field name="company_name">Thai Nokorn Patana Co. Ltd.Thailand</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">766</field>
+		<field name="company_name">The Dow Chemical Company,USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">767</field>
+		<field name="company_name">The Research Foundation forMicrobial Disease of OsakaUniversity, Japan</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">768</field>
+		<field name="company_name">TRB Chemedica International Sa,Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">769</field>
+		<field name="company_name">Tyco Healthcare, Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">770</field>
+		<field name="company_name">UCB India Ltd., India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">771</field>
+		<field name="company_name">UG Medical Disposable DNMalaysia</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">772</field>
+		<field name="company_name">United Propotions Inc., USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">773</field>
+		<field name="company_name">Varun Medimpex,India</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">775</field>
+		<field name="company_name">Vetech Labortories Inc., Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">776</field>
+		<field name="company_name">Vetoquinol SA, France</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">777</field>
+		<field name="company_name">Vifor (International) Inc.,Switzerland</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">778</field>
+		<field name="company_name">Walter Ritter GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">779</field>
+		<field name="company_name">Walter Ritter Kg, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">780</field>
+		<field name="company_name">Wyeth Canada, Canada</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">781</field>
+		<field name="company_name">Wyeth Pharma GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">783</field>
+		<field name="company_name">Y. Snore LLC 460, USA</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">784</field>
+		<field name="company_name">Zagro Singapore Pte. Ltd.,Singapore</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">785</field>
+		<field name="company_name">Zentaris GmbH, Germany</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">786</field>
+		<field name="company_name">Zhejiang Anji Sunlight MedicinalProducts Co., Ltd., China</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">787</field>
+		<field name="company_name">not a pharma</field>
+		<field name="company_order">100</field>
+	</record>
+	<record>
+		<field name="company_id">788</field>
+		<field name="company_name">Janata Pharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">789</field>
+		<field name="company_name">Convatec</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">790</field>
+		<field name="company_name">Lundbeck/Lilac</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">791</field>
+		<field name="company_name">Apothecon</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">792</field>
+		<field name="company_name">GNC</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">793</field>
+		<field name="company_name">Merz Pharmaceuticals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">794</field>
+		<field name="company_name">Abbott India Ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">795</field>
+		<field name="company_name">Dr. Reddy&apos;s Laboratories ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">796</field>
+		<field name="company_name">Adcock Ingram</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">797</field>
+		<field name="company_name">Meyer organics ltd</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">798</field>
+		<field name="company_name">POLIPHARM CO LTD</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">799</field>
+		<field name="company_name">E. Merck</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">800</field>
+		<field name="company_name">Bioderma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">801</field>
+		<field name="company_name">City overseas</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">802</field>
+		<field name="company_name">Novo Nordisk</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">803</field>
+		<field name="company_name">UniDerma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">804</field>
+		<field name="company_name">Nicholas</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">805</field>
+		<field name="company_name">Norgine</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">806</field>
+		<field name="company_name">Kawser Chemicals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">807</field>
+		<field name="company_name">M.R Chemicals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">808</field>
+		<field name="company_name">Kazi Chemicals</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">809</field>
+		<field name="company_name">JMI Pharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">810</field>
+		<field name="company_name">IPH</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">811</field>
+		<field name="company_name">Elixir</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">812</field>
+		<field name="company_name"> Boehringer Ingelheim Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">813</field>
+		<field name="company_name">Astrazeneca Pharmaceutical company</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">814</field>
+		<field name="company_name">Modi-mundipharma</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">815</field>
+		<field name="company_name">Laboratorio Varifarma, Argentina</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">816</field>
+		<field name="company_name">S.A. Alcon Couvreur.,N.V., Belgium</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">817</field>
+		<field name="company_name">Allied Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">818</field>
+		<field name="company_name">Orion Infusion Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">819</field>
+		<field name="company_name">Essential Drugs Company Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">820</field>
+		<field name="company_name">Medihealth Pharmaceutical Limited</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">821</field>
+		<field name="company_name">Shire Pharmaceuticals Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">822</field>
+		<field name="company_name">Faruk Pharmaceutical</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">823</field>
+		<field name="company_name">One Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">824</field>
+		<field name="company_name">Julphar Bangladesh Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">825</field>
+		<field name="company_name">Cosmic Pharma Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">826</field>
+		<field name="company_name">MST Pharma and Healthcare Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+	<record>
+		<field name="company_id">827</field>
+		<field name="company_name">MedRx Life Science Ltd.</field>
+		<field name="company_order">0</field>
+	</record>
+</table></tables>

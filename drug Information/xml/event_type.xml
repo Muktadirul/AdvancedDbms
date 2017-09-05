@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="event_type">
+	<fields>
+		<field name="id" type="Long"/>
+		<field name="name" type="Text"/>
+	</fields>
+	<record>
+		<field name="id">2</field>
+		<field name="name">Conference</field>
+	</record>
+	<record>
+		<field name="id">3</field>
+		<field name="name">Lecture</field>
+	</record>
+	<record>
+		<field name="id">4</field>
+		<field name="name">Workshop</field>
+	</record>
+	<record>
+		<field name="id">7</field>
+		<field name="name">Course</field>
+	</record>
+	<record>
+		<field name="id">8</field>
+		<field name="name">Seminar</field>
+	</record>
+	<record>
+		<field name="id">9</field>
+		<field name="name">Exhibition</field>
+	</record>
+	<record>
+		<field name="id">17</field>
+		<field name="name">Symposium</field>
+	</record>
+</table></tables>

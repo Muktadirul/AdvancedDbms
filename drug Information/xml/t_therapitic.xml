@@ -1,0 +1,2010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tables>
+
+<table name="t_therapitic">
+	<fields>
+		<field name="therapitic_id" type="Text"/>
+		<field name="therapitic_name" type="Text"/>
+		<field name="therapitic_systemic_class_id" type="Text"/>
+	</fields>
+	<record>
+		<field name="therapitic_id">1</field>
+		<field name="therapitic_name">H2 antagonists</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">2</field>
+		<field name="therapitic_name">Proton pump inhibitor</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">3</field>
+		<field name="therapitic_name">Anticholinergics(antimuscarinics)/Anti-spasmodics</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">4</field>
+		<field name="therapitic_name">Anticholinergics(others)</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">5</field>
+		<field name="therapitic_name">Anti-cholinergic &amp; anti-psychotic combination drugs</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">6</field>
+		<field name="therapitic_name">Anti-dyspeptic/Carminatives</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">7</field>
+		<field name="therapitic_name">Prostaglandin analogues</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">8</field>
+		<field name="therapitic_name">Antacids</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">9</field>
+		<field name="therapitic_name">Ulcer protective</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">10</field>
+		<field name="therapitic_name">Anti H pylori drugs</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">11</field>
+		<field name="therapitic_name">Drugs for Aphthous ulcer</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">12</field>
+		<field name="therapitic_name">Motility stimulants/Dopamine antagonist</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">13</field>
+		<field name="therapitic_name">Chelating complex</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">14</field>
+		<field name="therapitic_name">Bulk-forming laxatives</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">15</field>
+		<field name="therapitic_name">Stool softener</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">16</field>
+		<field name="therapitic_name">Abdominal gas adsorbent preparations</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">17</field>
+		<field name="therapitic_name">Stimulant purgatives</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">18</field>
+		<field name="therapitic_name">Osmotic purgatives</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">19</field>
+		<field name="therapitic_name">Anti-motility drugs</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">20</field>
+		<field name="therapitic_name">Anti-diarrhoeal Antimicrobial drugs</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">21</field>
+		<field name="therapitic_name">Anti-diarrhoeal Antiprotozoal</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">22</field>
+		<field name="therapitic_name">Water purifying agent</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">23</field>
+		<field name="therapitic_name">Prokinetic drugs</field>
+		<field name="therapitic_systemic_class_id">22</field>
+	</record>
+	<record>
+		<field name="therapitic_id">24</field>
+		<field name="therapitic_name">Ulcerative Colitis</field>
+		<field name="therapitic_systemic_class_id">23</field>
+	</record>
+	<record>
+		<field name="therapitic_id">25</field>
+		<field name="therapitic_name">Drugs for Irritable Bowel Syndrome</field>
+		<field name="therapitic_systemic_class_id">23</field>
+	</record>
+	<record>
+		<field name="therapitic_id">26</field>
+		<field name="therapitic_name">Phlebotonic &amp; Vascular protecting preparations</field>
+		<field name="therapitic_systemic_class_id">24</field>
+	</record>
+	<record>
+		<field name="therapitic_id">27</field>
+		<field name="therapitic_name">Compound steroidal preparations</field>
+		<field name="therapitic_systemic_class_id">24</field>
+	</record>
+	<record>
+		<field name="therapitic_id">28</field>
+		<field name="therapitic_name">Digestive Enzyme</field>
+		<field name="therapitic_systemic_class_id">25</field>
+	</record>
+	<record>
+		<field name="therapitic_id">29</field>
+		<field name="therapitic_name">Anti-gallstones drugs: Bile Acids</field>
+		<field name="therapitic_systemic_class_id">25</field>
+	</record>
+	<record>
+		<field name="therapitic_id">30</field>
+		<field name="therapitic_name">Angiotensin-converting enzyme (ACE) inhibitors</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">31</field>
+		<field name="therapitic_name">Angiotensin-II receptor blocker</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">32</field>
+		<field name="therapitic_name">Thiazide diuretics &amp; related drugs</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">33</field>
+		<field name="therapitic_name">Loop diuretics</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">34</field>
+		<field name="therapitic_name">Potassium-sparing diuretics &amp; Aldosterone antagonists</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">35</field>
+		<field name="therapitic_name">Potassium-sparing diuretics with other diuretics</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">36</field>
+		<field name="therapitic_name">Carbonic anhydrase inhibitor</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">37</field>
+		<field name="therapitic_name">Osmotic diuretics</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">38</field>
+		<field name="therapitic_name">Beta-adrenoceptor blocking drugs</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">39</field>
+		<field name="therapitic_name">Alpha adrenoceptor blocking drugs</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">40</field>
+		<field name="therapitic_name">Vasodilator antihypertensive drugs</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">41</field>
+		<field name="therapitic_name">Centrally acting antihypertensive drugs(central sympatholytic)</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">42</field>
+		<field name="therapitic_name">Combined antihypertensive preparations</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">43</field>
+		<field name="therapitic_name">Positive Inotropic drugs</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">44</field>
+		<field name="therapitic_name">Inotropic-sympathomimetics</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">45</field>
+		<field name="therapitic_name">Vasoconstrictor/Venotonic</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">46</field>
+		<field name="therapitic_name">Membrane stabilizing agent (Sodium channel blockers)</field>
+		<field name="therapitic_systemic_class_id">28</field>
+	</record>
+	<record>
+		<field name="therapitic_id">47</field>
+		<field name="therapitic_name">Anti adrenergic agent (Beta blockers)</field>
+		<field name="therapitic_systemic_class_id">28</field>
+	</record>
+	<record>
+		<field name="therapitic_id">48</field>
+		<field name="therapitic_name">Agents widening AP (Potassium channel blockers)</field>
+		<field name="therapitic_systemic_class_id">28</field>
+	</record>
+	<record>
+		<field name="therapitic_id">49</field>
+		<field name="therapitic_name">Calcium channel blockers</field>
+		<field name="therapitic_systemic_class_id">28</field>
+	</record>
+	<record>
+		<field name="therapitic_id">50</field>
+		<field name="therapitic_name">Miscellaneous (for PSVT)</field>
+		<field name="therapitic_systemic_class_id">28</field>
+	</record>
+	<record>
+		<field name="therapitic_id">51</field>
+		<field name="therapitic_name">Nitrates: Coronary vasodilators</field>
+		<field name="therapitic_systemic_class_id">29</field>
+	</record>
+	<record>
+		<field name="therapitic_id">52</field>
+		<field name="therapitic_name">Calcium-channel blockers</field>
+		<field name="therapitic_systemic_class_id">29</field>
+	</record>
+	<record>
+		<field name="therapitic_id">53</field>
+		<field name="therapitic_name">Potassium-channel activators</field>
+		<field name="therapitic_systemic_class_id">29</field>
+	</record>
+	<record>
+		<field name="therapitic_id">54</field>
+		<field name="therapitic_name">Other Anti-anginal &amp; Anti-ischaemic drugs</field>
+		<field name="therapitic_systemic_class_id">29</field>
+	</record>
+	<record>
+		<field name="therapitic_id">55</field>
+		<field name="therapitic_name">Cerebral vasodilator &amp; Neurosensory oxygenator drugs</field>
+		<field name="therapitic_systemic_class_id">30</field>
+	</record>
+	<record>
+		<field name="therapitic_id">56</field>
+		<field name="therapitic_name">Peripheral Vasodilator drugs: Intermittent Claudication</field>
+		<field name="therapitic_systemic_class_id">30</field>
+	</record>
+	<record>
+		<field name="therapitic_id">57</field>
+		<field name="therapitic_name">Drugs for muscular energy metabolism</field>
+		<field name="therapitic_systemic_class_id">30</field>
+	</record>
+	<record>
+		<field name="therapitic_id">58</field>
+		<field name="therapitic_name">Parenteral anti-coagulants</field>
+		<field name="therapitic_systemic_class_id">31</field>
+	</record>
+	<record>
+		<field name="therapitic_id">59</field>
+		<field name="therapitic_name">Oral Anti-coagulants</field>
+		<field name="therapitic_systemic_class_id">31</field>
+	</record>
+	<record>
+		<field name="therapitic_id">60</field>
+		<field name="therapitic_name">Anti-platelet drugs</field>
+		<field name="therapitic_systemic_class_id">32</field>
+	</record>
+	<record>
+		<field name="therapitic_id">61</field>
+		<field name="therapitic_name">Anti-fibrinolytic drugs</field>
+		<field name="therapitic_systemic_class_id">32</field>
+	</record>
+	<record>
+		<field name="therapitic_id">62</field>
+		<field name="therapitic_name">Ezetimibe</field>
+		<field name="therapitic_systemic_class_id">33</field>
+	</record>
+	<record>
+		<field name="therapitic_id">63</field>
+		<field name="therapitic_name">Fibrates</field>
+		<field name="therapitic_systemic_class_id">33</field>
+	</record>
+	<record>
+		<field name="therapitic_id">64</field>
+		<field name="therapitic_name">Statins</field>
+		<field name="therapitic_systemic_class_id">33</field>
+	</record>
+	<record>
+		<field name="therapitic_id">65</field>
+		<field name="therapitic_name">Nicotinic acid group</field>
+		<field name="therapitic_systemic_class_id">33</field>
+	</record>
+	<record>
+		<field name="therapitic_id">66</field>
+		<field name="therapitic_name">Short-acting selective beta2-adrenoceptor stimulants</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">67</field>
+		<field name="therapitic_name">Long-acting selective beta2-adrenoceptor stimulants</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">68</field>
+		<field name="therapitic_name">Other adrenoceptor stimulants</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">69</field>
+		<field name="therapitic_name">Anticholinergic bronchodilators</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">70</field>
+		<field name="therapitic_name">Methyl xanthine derivatives</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">71</field>
+		<field name="therapitic_name">Combined bronchodilators</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">72</field>
+		<field name="therapitic_name">Respiratory corticosteroids</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">73</field>
+		<field name="therapitic_name">Cromoglycate &amp; related drugs</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">74</field>
+		<field name="therapitic_name">Leukotriene receptor antagonists</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">75</field>
+		<field name="therapitic_name">Antihistamines anti-allergics &amp; hypo-sensitisation</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">76</field>
+		<field name="therapitic_name">Cough suppressants</field>
+		<field name="therapitic_systemic_class_id">35</field>
+	</record>
+	<record>
+		<field name="therapitic_id">77</field>
+		<field name="therapitic_name">Combined cough suppressants</field>
+		<field name="therapitic_systemic_class_id">35</field>
+	</record>
+	<record>
+		<field name="therapitic_id">78</field>
+		<field name="therapitic_name">Cough expectorants &amp; mucolytics</field>
+		<field name="therapitic_systemic_class_id">35</field>
+	</record>
+	<record>
+		<field name="therapitic_id">79</field>
+		<field name="therapitic_name">Combined cough expectorants</field>
+		<field name="therapitic_systemic_class_id">35</field>
+	</record>
+	<record>
+		<field name="therapitic_id">80</field>
+		<field name="therapitic_name">Respiratory stimulants: analeptics</field>
+		<field name="therapitic_systemic_class_id">36</field>
+	</record>
+	<record>
+		<field name="therapitic_id">84</field>
+		<field name="therapitic_name">Benzodiazepine sedatives</field>
+		<field name="therapitic_systemic_class_id">37</field>
+	</record>
+	<record>
+		<field name="therapitic_id">85</field>
+		<field name="therapitic_name">Benzodiazepine hypnotics</field>
+		<field name="therapitic_systemic_class_id">37</field>
+	</record>
+	<record>
+		<field name="therapitic_id">86</field>
+		<field name="therapitic_name">Non-Benzodiazepine hypnotics</field>
+		<field name="therapitic_systemic_class_id">37</field>
+	</record>
+	<record>
+		<field name="therapitic_id">87</field>
+		<field name="therapitic_name">Barbiturates</field>
+		<field name="therapitic_systemic_class_id">37</field>
+	</record>
+	<record>
+		<field name="therapitic_id">88</field>
+		<field name="therapitic_name">Phenothiazine drugs</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">89</field>
+		<field name="therapitic_name">Phenothiazine related drugs</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">90</field>
+		<field name="therapitic_name">Butyrophenone drugs</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">91</field>
+		<field name="therapitic_name">Atypical neuroleptic drugs</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">92</field>
+		<field name="therapitic_name">Anti-manic drugs</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">93</field>
+		<field name="therapitic_name">Tricyclic &amp; related anti-depressant drugs</field>
+		<field name="therapitic_systemic_class_id">39</field>
+	</record>
+	<record>
+		<field name="therapitic_id">94</field>
+		<field name="therapitic_name">SSRIs &amp; related anti-depressant drugs</field>
+		<field name="therapitic_systemic_class_id">39</field>
+	</record>
+	<record>
+		<field name="therapitic_id">95</field>
+		<field name="therapitic_name">Atypical anti-depressant drugs</field>
+		<field name="therapitic_systemic_class_id">39</field>
+	</record>
+	<record>
+		<field name="therapitic_id">96</field>
+		<field name="therapitic_name">Serotonin-norepinephrine reuptake inhibitor (SNRI)</field>
+		<field name="therapitic_systemic_class_id">39</field>
+	</record>
+	<record>
+		<field name="therapitic_id">97</field>
+		<field name="therapitic_name">Combined anti-depressant drugs</field>
+		<field name="therapitic_systemic_class_id">39</field>
+	</record>
+	<record>
+		<field name="therapitic_id">98</field>
+		<field name="therapitic_name">Primary anti-epileptic drugs</field>
+		<field name="therapitic_systemic_class_id">40</field>
+	</record>
+	<record>
+		<field name="therapitic_id">99</field>
+		<field name="therapitic_name">Adjunct anti-epileptic drugs</field>
+		<field name="therapitic_systemic_class_id">40</field>
+	</record>
+	<record>
+		<field name="therapitic_id">103</field>
+		<field name="therapitic_name">Anti-emetic drugs</field>
+		<field name="therapitic_systemic_class_id">42</field>
+	</record>
+	<record>
+		<field name="therapitic_id">104</field>
+		<field name="therapitic_name">Anti vertigo drugs</field>
+		<field name="therapitic_systemic_class_id">42</field>
+	</record>
+	<record>
+		<field name="therapitic_id">105</field>
+		<field name="therapitic_name">CNS stimulant drugs</field>
+		<field name="therapitic_systemic_class_id">43</field>
+	</record>
+	<record>
+		<field name="therapitic_id">106</field>
+		<field name="therapitic_name">Appetite suppressant drugs/Anti-obesity drugs</field>
+		<field name="therapitic_systemic_class_id">43</field>
+	</record>
+	<record>
+		<field name="therapitic_id">107</field>
+		<field name="therapitic_name">Drugs used in substance dependence</field>
+		<field name="therapitic_systemic_class_id">43</field>
+	</record>
+	<record>
+		<field name="therapitic_id">108</field>
+		<field name="therapitic_name">Non-Opioid Analgesics</field>
+		<field name="therapitic_systemic_class_id">44</field>
+	</record>
+	<record>
+		<field name="therapitic_id">109</field>
+		<field name="therapitic_name">Opioid analgesics</field>
+		<field name="therapitic_systemic_class_id">44</field>
+	</record>
+	<record>
+		<field name="therapitic_id">110</field>
+		<field name="therapitic_name">Topical Analgesics</field>
+		<field name="therapitic_systemic_class_id">140</field>
+	</record>
+	<record>
+		<field name="therapitic_id">111</field>
+		<field name="therapitic_name">5-HT Agonists</field>
+		<field name="therapitic_systemic_class_id">45</field>
+	</record>
+	<record>
+		<field name="therapitic_id">112</field>
+		<field name="therapitic_name">Ergot Alkaloids</field>
+		<field name="therapitic_systemic_class_id">45</field>
+	</record>
+	<record>
+		<field name="therapitic_id">113</field>
+		<field name="therapitic_name">Anti-histamine Preparations</field>
+		<field name="therapitic_systemic_class_id">46</field>
+	</record>
+	<record>
+		<field name="therapitic_id">114</field>
+		<field name="therapitic_name">Beta-blockers</field>
+		<field name="therapitic_systemic_class_id">46</field>
+	</record>
+	<record>
+		<field name="therapitic_id">115</field>
+		<field name="therapitic_name">Tricyclic Anti-depressants</field>
+		<field name="therapitic_systemic_class_id">46</field>
+	</record>
+	<record>
+		<field name="therapitic_id">116</field>
+		<field name="therapitic_name">Miscellaneous prophylactic migraine preparations</field>
+		<field name="therapitic_systemic_class_id">46</field>
+	</record>
+	<record>
+		<field name="therapitic_id">117</field>
+		<field name="therapitic_name">Benzylpenicillin &amp; Phenoxymethyl penicillin</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">118</field>
+		<field name="therapitic_name">Long acting penicillin</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">119</field>
+		<field name="therapitic_name">Penicillinase-resistant penicillins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">120</field>
+		<field name="therapitic_name">Broad spectrum penicillins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">121</field>
+		<field name="therapitic_name">Mecillinams</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">122</field>
+		<field name="therapitic_name">First generation Cephalosporins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">123</field>
+		<field name="therapitic_name">Second generation Cephalosporins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">124</field>
+		<field name="therapitic_name">Third generation Cephalosporins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">125</field>
+		<field name="therapitic_name">Fourth generation Cephalosporins</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">126</field>
+		<field name="therapitic_name">Other beta-lactam Antibiotics</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">127</field>
+		<field name="therapitic_name">Tetracycline Group of drugs</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">128</field>
+		<field name="therapitic_name">Aminoglycosides</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">129</field>
+		<field name="therapitic_name">Macrolides</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">130</field>
+		<field name="therapitic_name">Miscellaneous Antibiotics</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">131</field>
+		<field name="therapitic_name">Oxazolidinones</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">132</field>
+		<field name="therapitic_name">Sulphonamides &amp; Trimethoprim</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">133</field>
+		<field name="therapitic_name">4-Quinolone preparations</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">134</field>
+		<field name="therapitic_name">Anti-Tubercular Antibiotics</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">135</field>
+		<field name="therapitic_name">Anti-Tubercular Chemotherapeutics</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">136</field>
+		<field name="therapitic_name">Combined anti- Tubercular Preparations</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">137</field>
+		<field name="therapitic_name">Anti-Leprotic drugs</field>
+		<field name="therapitic_systemic_class_id">47</field>
+	</record>
+	<record>
+		<field name="therapitic_id">138</field>
+		<field name="therapitic_name">Respiratory viral infections (Influenza)</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">139</field>
+		<field name="therapitic_name">Hepatic viral infections (Hepatitis B)</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">140</field>
+		<field name="therapitic_name">Hepatic viral infections (Hepatitis C)</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">141</field>
+		<field name="therapitic_name">Herpes simplex &amp; Varicella-zoster virus infections</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">142</field>
+		<field name="therapitic_name">Drugs for HIV / Anti-retroviral drugs</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">143</field>
+		<field name="therapitic_name">Drugs for subcutaneous and systemic mycoses</field>
+		<field name="therapitic_systemic_class_id">49</field>
+	</record>
+	<record>
+		<field name="therapitic_id">144</field>
+		<field name="therapitic_name">Drugs for cutaneous mycoses</field>
+		<field name="therapitic_systemic_class_id">49</field>
+	</record>
+	<record>
+		<field name="therapitic_id">145</field>
+		<field name="therapitic_name">Amoebicides</field>
+		<field name="therapitic_systemic_class_id">50</field>
+	</record>
+	<record>
+		<field name="therapitic_id">146</field>
+		<field name="therapitic_name">Anti-malarial drugs</field>
+		<field name="therapitic_systemic_class_id">50</field>
+	</record>
+	<record>
+		<field name="therapitic_id">147</field>
+		<field name="therapitic_name">Leishmaniacides</field>
+		<field name="therapitic_systemic_class_id">50</field>
+	</record>
+	<record>
+		<field name="therapitic_id">148</field>
+		<field name="therapitic_name">Other Anti-protozoals</field>
+		<field name="therapitic_systemic_class_id">50</field>
+	</record>
+	<record>
+		<field name="therapitic_id">149</field>
+		<field name="therapitic_name">Anti-helminthic</field>
+		<field name="therapitic_systemic_class_id">51</field>
+	</record>
+	<record>
+		<field name="therapitic_id">150</field>
+		<field name="therapitic_name">Drugs for Infertility</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">151</field>
+		<field name="therapitic_name">Drugs for Growth failure</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">152</field>
+		<field name="therapitic_name">Drugs for Milk suppression</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">153</field>
+		<field name="therapitic_name">Drugs for menopausal symptoms: Hormone replacement therapy</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">154</field>
+		<field name="therapitic_name">Hormone preparations for other uses</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">155</field>
+		<field name="therapitic_name">Thyroid drugs &amp; hormones</field>
+		<field name="therapitic_systemic_class_id">53</field>
+	</record>
+	<record>
+		<field name="therapitic_id">156</field>
+		<field name="therapitic_name">Anti-thyroid drugs</field>
+		<field name="therapitic_systemic_class_id">53</field>
+	</record>
+	<record>
+		<field name="therapitic_id">157</field>
+		<field name="therapitic_name">Short Acting Insulin</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">158</field>
+		<field name="therapitic_name">Medium Acting Insulin</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">159</field>
+		<field name="therapitic_name">Long Acting Insulin</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">160</field>
+		<field name="therapitic_name">Sulfonylureas</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">161</field>
+		<field name="therapitic_name">Biguanides</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">162</field>
+		<field name="therapitic_name">Alpha-Glucosidase inhibitor</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">163</field>
+		<field name="therapitic_name">Meglitinide Analogues</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">164</field>
+		<field name="therapitic_name">Thiazolidinedione Group</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">165</field>
+		<field name="therapitic_name">Combination Oral hypoglycemic preparations</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">166</field>
+		<field name="therapitic_name">Aldose reductase inhibitor</field>
+		<field name="therapitic_systemic_class_id">56</field>
+	</record>
+	<record>
+		<field name="therapitic_id">167</field>
+		<field name="therapitic_name">Glucocorticoids</field>
+		<field name="therapitic_systemic_class_id">57</field>
+	</record>
+	<record>
+		<field name="therapitic_id">168</field>
+		<field name="therapitic_name">Male Sex hormones (Androgens)</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">169</field>
+		<field name="therapitic_name">Female Sex hormones</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">170</field>
+		<field name="therapitic_name">Anabolic steroid (Androgens)</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">171</field>
+		<field name="therapitic_name">Oral Contraceptive preparations</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">172</field>
+		<field name="therapitic_name">Hormonal Implants</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">173</field>
+		<field name="therapitic_name">Emergency Contraceptive Pill</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">174</field>
+		<field name="therapitic_name">Drugs affecting (inhibiting) gonadotrophin</field>
+		<field name="therapitic_systemic_class_id">59</field>
+	</record>
+	<record>
+		<field name="therapitic_id">175</field>
+		<field name="therapitic_name">Non-steroidal Anti-inflammatory Drugs (NSAIDs)</field>
+		<field name="therapitic_systemic_class_id">60</field>
+	</record>
+	<record>
+		<field name="therapitic_id">176</field>
+		<field name="therapitic_name">Drugs used for Rheumatoid Arthritis</field>
+		<field name="therapitic_systemic_class_id">60</field>
+	</record>
+	<record>
+		<field name="therapitic_id">177</field>
+		<field name="therapitic_name">Drugs used in Gout</field>
+		<field name="therapitic_systemic_class_id">60</field>
+	</record>
+	<record>
+		<field name="therapitic_id">178</field>
+		<field name="therapitic_name">Drugs used in Myasthenia Gravis</field>
+		<field name="therapitic_systemic_class_id">61</field>
+	</record>
+	<record>
+		<field name="therapitic_id">179</field>
+		<field name="therapitic_name">Drugs used in Cerebral Palsy</field>
+		<field name="therapitic_systemic_class_id">61</field>
+	</record>
+	<record>
+		<field name="therapitic_id">180</field>
+		<field name="therapitic_name">Centrally acting Skeletal Muscle Relaxants</field>
+		<field name="therapitic_systemic_class_id">61</field>
+	</record>
+	<record>
+		<field name="therapitic_id">181</field>
+		<field name="therapitic_name">Locally acting Skeletal Muscle Relaxants</field>
+		<field name="therapitic_systemic_class_id">61</field>
+	</record>
+	<record>
+		<field name="therapitic_id">182</field>
+		<field name="therapitic_name">Enzymes</field>
+		<field name="therapitic_systemic_class_id">62</field>
+	</record>
+	<record>
+		<field name="therapitic_id">183</field>
+		<field name="therapitic_name">Sedating Anti-histamines</field>
+		<field name="therapitic_systemic_class_id">137</field>
+	</record>
+	<record>
+		<field name="therapitic_id">184</field>
+		<field name="therapitic_name">Non - sedating Anti-histamines</field>
+		<field name="therapitic_systemic_class_id">137</field>
+	</record>
+	<record>
+		<field name="therapitic_id">185</field>
+		<field name="therapitic_name">Anti-histamine &amp; decongestant</field>
+		<field name="therapitic_systemic_class_id">137</field>
+	</record>
+	<record>
+		<field name="therapitic_id">187</field>
+		<field name="therapitic_name">Immunosuppressant</field>
+		<field name="therapitic_systemic_class_id">138</field>
+	</record>
+	<record>
+		<field name="therapitic_id">188</field>
+		<field name="therapitic_name">General (Inhalation) anesthetics</field>
+		<field name="therapitic_systemic_class_id">63</field>
+	</record>
+	<record>
+		<field name="therapitic_id">189</field>
+		<field name="therapitic_name">General (Intravenous) anesthetics</field>
+		<field name="therapitic_systemic_class_id">63</field>
+	</record>
+	<record>
+		<field name="therapitic_id">190</field>
+		<field name="therapitic_name">Depolarizing muscle relaxants</field>
+		<field name="therapitic_systemic_class_id">64</field>
+	</record>
+	<record>
+		<field name="therapitic_id">191</field>
+		<field name="therapitic_name">Non Depolarizing muscle relaxants</field>
+		<field name="therapitic_systemic_class_id">64</field>
+	</record>
+	<record>
+		<field name="therapitic_id">192</field>
+		<field name="therapitic_name">Central Depolarizing muscle relaxants</field>
+		<field name="therapitic_systemic_class_id">64</field>
+	</record>
+	<record>
+		<field name="therapitic_id">193</field>
+		<field name="therapitic_name">Opioid analgesics</field>
+		<field name="therapitic_systemic_class_id">65</field>
+	</record>
+	<record>
+		<field name="therapitic_id">194</field>
+		<field name="therapitic_name">Non opioid analgesics</field>
+		<field name="therapitic_systemic_class_id">65</field>
+	</record>
+	<record>
+		<field name="therapitic_id">195</field>
+		<field name="therapitic_name">Anti-cholinesterases</field>
+		<field name="therapitic_systemic_class_id">66</field>
+	</record>
+	<record>
+		<field name="therapitic_id">196</field>
+		<field name="therapitic_name">Benzodiazepine antagonist</field>
+		<field name="therapitic_systemic_class_id">66</field>
+	</record>
+	<record>
+		<field name="therapitic_id">197</field>
+		<field name="therapitic_name">Post cardio-surgery drugs</field>
+		<field name="therapitic_systemic_class_id">66</field>
+	</record>
+	<record>
+		<field name="therapitic_id">201</field>
+		<field name="therapitic_name">Topical Anti-histamines</field>
+		<field name="therapitic_systemic_class_id">68</field>
+	</record>
+	<record>
+		<field name="therapitic_id">202</field>
+		<field name="therapitic_name">Local Anti-pruritic</field>
+		<field name="therapitic_systemic_class_id">68</field>
+	</record>
+	<record>
+		<field name="therapitic_id">203</field>
+		<field name="therapitic_name">Topical Local Anesthetics</field>
+		<field name="therapitic_systemic_class_id">68</field>
+	</record>
+	<record>
+		<field name="therapitic_id">204</field>
+		<field name="therapitic_name">Topical Anti-biotic preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">205</field>
+		<field name="therapitic_name">Topical Anti-viral preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">206</field>
+		<field name="therapitic_name">Topical Anti-fungal preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">207</field>
+		<field name="therapitic_name">Other Antifungal preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">208</field>
+		<field name="therapitic_name">Parasiticidal preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">209</field>
+		<field name="therapitic_name">Anti-infective &amp; Anesthetic combined preparations</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">210</field>
+		<field name="therapitic_name">Betamethasone &amp; Combined preparations</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">211</field>
+		<field name="therapitic_name">Clobetasol/Clobetasone &amp; Combined Preparations</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">212</field>
+		<field name="therapitic_name">Fluocinolone &amp; Combined Preparations</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">213</field>
+		<field name="therapitic_name">Hydrocortisone &amp; Combined preparations</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">214</field>
+		<field name="therapitic_name">Triamcinolone &amp; Combined preparations</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">215</field>
+		<field name="therapitic_name">Topical Vitamin D &amp; related preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">216</field>
+		<field name="therapitic_name">Topical Retinoid &amp; related preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">217</field>
+		<field name="therapitic_name">Oral Retinoid preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">218</field>
+		<field name="therapitic_name">Coal-tar preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">219</field>
+		<field name="therapitic_name">Dithranol &amp; combined preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">220</field>
+		<field name="therapitic_name">Emollients &amp; combined preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">221</field>
+		<field name="therapitic_name">Combined preparations</field>
+		<field name="therapitic_systemic_class_id">72</field>
+	</record>
+	<record>
+		<field name="therapitic_id">222</field>
+		<field name="therapitic_name">Topical antibiotics for Acne</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">223</field>
+		<field name="therapitic_name">Benzoyl peroxide, Azelaic acid &amp; other preparations</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">224</field>
+		<field name="therapitic_name">Topical retinoid and related preparations</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">225</field>
+		<field name="therapitic_name">Topical antibiotic &amp; retinoid preparations</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">226</field>
+		<field name="therapitic_name">Oral retinoids for Acne</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">227</field>
+		<field name="therapitic_name">Oral Hormonal preparations for Acne</field>
+		<field name="therapitic_systemic_class_id">73</field>
+	</record>
+	<record>
+		<field name="therapitic_id">228</field>
+		<field name="therapitic_name">Topical urea preparations</field>
+		<field name="therapitic_systemic_class_id">74</field>
+	</record>
+	<record>
+		<field name="therapitic_id">229</field>
+		<field name="therapitic_name">Hydroquinone Preparations</field>
+		<field name="therapitic_systemic_class_id">75</field>
+	</record>
+	<record>
+		<field name="therapitic_id">230</field>
+		<field name="therapitic_name">Methoxsalen preparations</field>
+		<field name="therapitic_systemic_class_id">76</field>
+	</record>
+	<record>
+		<field name="therapitic_id">231</field>
+		<field name="therapitic_name">Sunblock Preparation</field>
+		<field name="therapitic_systemic_class_id">77</field>
+	</record>
+	<record>
+		<field name="therapitic_id">232</field>
+		<field name="therapitic_name">Medicated Shampoos</field>
+		<field name="therapitic_systemic_class_id">78</field>
+	</record>
+	<record>
+		<field name="therapitic_id">233</field>
+		<field name="therapitic_name">Chlorhexidine &amp; Chloroxylenol preparations</field>
+		<field name="therapitic_systemic_class_id">79</field>
+	</record>
+	<record>
+		<field name="therapitic_id">234</field>
+		<field name="therapitic_name">Iodine compounds (Anti-septic Preparations)</field>
+		<field name="therapitic_systemic_class_id">79</field>
+	</record>
+	<record>
+		<field name="therapitic_id">235</field>
+		<field name="therapitic_name">Crystal violet/ Gentian violet preparations</field>
+		<field name="therapitic_systemic_class_id">79</field>
+	</record>
+	<record>
+		<field name="therapitic_id">237</field>
+		<field name="therapitic_name">Vitamin-A preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">238</field>
+		<field name="therapitic_name">Vitamin-D preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">239</field>
+		<field name="therapitic_name">Vitamin-B preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">240</field>
+		<field name="therapitic_name">Vitamin-C Preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">241</field>
+		<field name="therapitic_name">Vitamin-E Preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">242</field>
+		<field name="therapitic_name">Vitamin-K Preparations</field>
+		<field name="therapitic_systemic_class_id">80</field>
+	</record>
+	<record>
+		<field name="therapitic_id">243</field>
+		<field name="therapitic_name">Specific combined vitamin preparations</field>
+		<field name="therapitic_systemic_class_id">81</field>
+	</record>
+	<record>
+		<field name="therapitic_id">244</field>
+		<field name="therapitic_name">Anti-oxidant Multivitamin preparations</field>
+		<field name="therapitic_systemic_class_id">81</field>
+	</record>
+	<record>
+		<field name="therapitic_id">245</field>
+		<field name="therapitic_name">Nonspecific multivitamin preparations</field>
+		<field name="therapitic_systemic_class_id">81</field>
+	</record>
+	<record>
+		<field name="therapitic_id">246</field>
+		<field name="therapitic_name">Specific mineral preparations</field>
+		<field name="therapitic_systemic_class_id">82</field>
+	</record>
+	<record>
+		<field name="therapitic_id">247</field>
+		<field name="therapitic_name">Specific mineral &amp; vitamin combined preparations</field>
+		<field name="therapitic_systemic_class_id">82</field>
+	</record>
+	<record>
+		<field name="therapitic_id">251</field>
+		<field name="therapitic_name">Multi-vitamin &amp; Multi-mineral combined preparations</field>
+		<field name="therapitic_systemic_class_id">83</field>
+	</record>
+	<record>
+		<field name="therapitic_id">253</field>
+		<field name="therapitic_name">Oral nutritional preparations</field>
+		<field name="therapitic_systemic_class_id">84</field>
+	</record>
+	<record>
+		<field name="therapitic_id">254</field>
+		<field name="therapitic_name">Parenteral Nutritional preparations</field>
+		<field name="therapitic_systemic_class_id">84</field>
+	</record>
+	<record>
+		<field name="therapitic_id">255</field>
+		<field name="therapitic_name">Oral electrolytes preparations</field>
+		<field name="therapitic_systemic_class_id">85</field>
+	</record>
+	<record>
+		<field name="therapitic_id">256</field>
+		<field name="therapitic_name">Plasma expanders</field>
+		<field name="therapitic_systemic_class_id">85</field>
+	</record>
+	<record>
+		<field name="therapitic_id">257</field>
+		<field name="therapitic_name">Intravenous fluid preparations</field>
+		<field name="therapitic_systemic_class_id">85</field>
+	</record>
+	<record>
+		<field name="therapitic_id">258</field>
+		<field name="therapitic_name">Oral Iron preparations</field>
+		<field name="therapitic_systemic_class_id">86</field>
+	</record>
+	<record>
+		<field name="therapitic_id">259</field>
+		<field name="therapitic_name">Parenteral Iron Preparations</field>
+		<field name="therapitic_systemic_class_id">86</field>
+	</record>
+	<record>
+		<field name="therapitic_id">261</field>
+		<field name="therapitic_name">Iron &amp; Vitamin Combined preparations</field>
+		<field name="therapitic_systemic_class_id">86</field>
+	</record>
+	<record>
+		<field name="therapitic_id">262</field>
+		<field name="therapitic_name">Iron Vitamin &amp; Mineral Combined preparation</field>
+		<field name="therapitic_systemic_class_id">86</field>
+	</record>
+	<record>
+		<field name="therapitic_id">263</field>
+		<field name="therapitic_name">Drugs for Megaloblastic Anemia</field>
+		<field name="therapitic_systemic_class_id">87</field>
+	</record>
+	<record>
+		<field name="therapitic_id">264</field>
+		<field name="therapitic_name">Drugs for Haemolytic Hypoplastic &amp; Renal Anemia</field>
+		<field name="therapitic_systemic_class_id">88</field>
+	</record>
+	<record>
+		<field name="therapitic_id">265</field>
+		<field name="therapitic_name">Hormone in bone formation by stimulation</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">266</field>
+		<field name="therapitic_name">Hormone in bone formation by Inhibiting bone resorption</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">267</field>
+		<field name="therapitic_name">Vitamin in bone formation</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">268</field>
+		<field name="therapitic_name">Minerals in bone formation</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">269</field>
+		<field name="therapitic_name">Bisphosphonate preparations</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">270</field>
+		<field name="therapitic_name">Combined preparations: Inhibiting bone resorption</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">271</field>
+		<field name="therapitic_name">Other preparations: Inhibiting bone resorption</field>
+		<field name="therapitic_systemic_class_id">89</field>
+	</record>
+	<record>
+		<field name="therapitic_id">272</field>
+		<field name="therapitic_name">Stimulation of Cartilage formation</field>
+		<field name="therapitic_systemic_class_id">90</field>
+	</record>
+	<record>
+		<field name="therapitic_id">273</field>
+		<field name="therapitic_name">Drugs for Osteoarthritis</field>
+		<field name="therapitic_systemic_class_id">91</field>
+	</record>
+	<record>
+		<field name="therapitic_id">274</field>
+		<field name="therapitic_name">Systemic Urinary Anti- infective</field>
+		<field name="therapitic_systemic_class_id">92</field>
+	</record>
+	<record>
+		<field name="therapitic_id">275</field>
+		<field name="therapitic_name">Other Systemic Anti-infective Effective in Urinary tract infections</field>
+		<field name="therapitic_systemic_class_id">92</field>
+	</record>
+	<record>
+		<field name="therapitic_id">276</field>
+		<field name="therapitic_name">Irrigation Solution used in Urological Surgery</field>
+		<field name="therapitic_systemic_class_id">92</field>
+	</record>
+	<record>
+		<field name="therapitic_id">277</field>
+		<field name="therapitic_name">BPH/Urinary retention/Urinary incontinence</field>
+		<field name="therapitic_systemic_class_id">93</field>
+	</record>
+	<record>
+		<field name="therapitic_id">278</field>
+		<field name="therapitic_name">Prevention of repeated kidney stone formation</field>
+		<field name="therapitic_systemic_class_id">94</field>
+	</record>
+	<record>
+		<field name="therapitic_id">279</field>
+		<field name="therapitic_name">Drugs acting on the Uterus</field>
+		<field name="therapitic_systemic_class_id">95</field>
+	</record>
+	<record>
+		<field name="therapitic_id">280</field>
+		<field name="therapitic_name">Drugs used in Vaginal and Vulval conditions</field>
+		<field name="therapitic_systemic_class_id">95</field>
+	</record>
+	<record>
+		<field name="therapitic_id">281</field>
+		<field name="therapitic_name">Drugs for Erectile Dysfunction</field>
+		<field name="therapitic_systemic_class_id">95</field>
+	</record>
+	<record>
+		<field name="therapitic_id">282</field>
+		<field name="therapitic_name">Haemodialysis solutions</field>
+		<field name="therapitic_systemic_class_id">96</field>
+	</record>
+	<record>
+		<field name="therapitic_id">283</field>
+		<field name="therapitic_name">Ophthalmic Anti-bacterial products</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">284</field>
+		<field name="therapitic_name">Ophthalmic Anti-fungal Products</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">285</field>
+		<field name="therapitic_name">Ophthalmic Anti-viral Products</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">286</field>
+		<field name="therapitic_name">Ophthalmic Steroid preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">287</field>
+		<field name="therapitic_name">Ophthalmic Steroid- antibiotic combined preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">288</field>
+		<field name="therapitic_name">Ophthalmic Non-Steroid drugs</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">289</field>
+		<field name="therapitic_name">Ophthalmic Non-Steroid Combined preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">290</field>
+		<field name="therapitic_name">Mydriatic and Cycloplegic agents</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">291</field>
+		<field name="therapitic_name">Drugs for miotics and glaucoma</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">292</field>
+		<field name="therapitic_name">Drugs for Dry eyes</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">293</field>
+		<field name="therapitic_name">Antioxidant vitamins &amp; minerals for eye</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">294</field>
+		<field name="therapitic_name">Drugs for lens opacification</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">295</field>
+		<field name="therapitic_name">Drugs for Age-Related Macular Degeneration (AMD)</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">296</field>
+		<field name="therapitic_name">Ocular perioperative drugs</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">297</field>
+		<field name="therapitic_name">Preparations for Ophthalmic diagnosis</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">298</field>
+		<field name="therapitic_name">Aural Anti-bacterial preparations</field>
+		<field name="therapitic_systemic_class_id">97</field>
+	</record>
+	<record>
+		<field name="therapitic_id">299</field>
+		<field name="therapitic_name">Aural Anti-fungal preparations</field>
+		<field name="therapitic_systemic_class_id">97</field>
+	</record>
+	<record>
+		<field name="therapitic_id">300</field>
+		<field name="therapitic_name">Nasal Anti-histamine preparations</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">301</field>
+		<field name="therapitic_name">Nasal Anti-cholinergic (Anti- muscarinic) Preparations</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">302</field>
+		<field name="therapitic_name">Mast Cell Stabiliser</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">304</field>
+		<field name="therapitic_name">Nasal Steroid Preparations</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">305</field>
+		<field name="therapitic_name">Antidote preparations</field>
+		<field name="therapitic_systemic_class_id">43</field>
+	</record>
+	<record>
+		<field name="therapitic_id">306</field>
+		<field name="therapitic_name">Anaphylaxis</field>
+		<field name="therapitic_systemic_class_id">137</field>
+	</record>
+	<record>
+		<field name="therapitic_id">307</field>
+		<field name="therapitic_name">Direct Renin Inhibitors</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">308</field>
+		<field name="therapitic_name">Anti-anginal &amp; lipid lowering drugs</field>
+		<field name="therapitic_systemic_class_id">29</field>
+	</record>
+	<record>
+		<field name="therapitic_id">310</field>
+		<field name="therapitic_name">Cytotoxic Chemotherapy</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">311</field>
+		<field name="therapitic_name">Immunological Chemotherapy</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">312</field>
+		<field name="therapitic_name">Hormonal Chemotherapy</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">313</field>
+		<field name="therapitic_name">Other ophthalmic  preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">314</field>
+		<field name="therapitic_name">Vaccines, Anti-sera &amp; Immunoglobulin</field>
+		<field name="therapitic_systemic_class_id">138</field>
+	</record>
+	<record>
+		<field name="therapitic_id">315</field>
+		<field name="therapitic_name">Antihaemophilic factor</field>
+		<field name="therapitic_systemic_class_id">32</field>
+	</record>
+	<record>
+		<field name="therapitic_id">316</field>
+		<field name="therapitic_name">Anti-oxidant Multivitamin Multimineral preparations</field>
+		<field name="therapitic_systemic_class_id">81</field>
+	</record>
+	<record>
+		<field name="therapitic_id">317</field>
+		<field name="therapitic_name">Aural Steroid &amp; Steroid/Antibiotic combined preparations</field>
+		<field name="therapitic_systemic_class_id">97</field>
+	</record>
+	<record>
+		<field name="therapitic_id">318</field>
+		<field name="therapitic_name">Targeted Cancer Therapy</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">319</field>
+		<field name="therapitic_name">Edothelin receptor antagonist/other anti-hypertensive</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">320</field>
+		<field name="therapitic_name">Anti – Parkinson drugs</field>
+		<field name="therapitic_systemic_class_id">41</field>
+	</record>
+	<record>
+		<field name="therapitic_id">321</field>
+		<field name="therapitic_name">Regional anesthesia</field>
+		<field name="therapitic_systemic_class_id">67</field>
+	</record>
+	<record>
+		<field name="therapitic_id">322</field>
+		<field name="therapitic_name">Miscellaneous hypnotics</field>
+		<field name="therapitic_systemic_class_id">37</field>
+	</record>
+	<record>
+		<field name="therapitic_id">323</field>
+		<field name="therapitic_name">Peritoneal dialysis solution</field>
+		<field name="therapitic_systemic_class_id">96</field>
+	</record>
+	<record>
+		<field name="therapitic_id">325</field>
+		<field name="therapitic_name">Mouth &amp; Throat preparations</field>
+		<field name="therapitic_systemic_class_id">99</field>
+	</record>
+	<record>
+		<field name="therapitic_id">326</field>
+		<field name="therapitic_name">Dressing products for wounds/burns/ulcers</field>
+		<field name="therapitic_systemic_class_id">126</field>
+	</record>
+	<record>
+		<field name="therapitic_id">328</field>
+		<field name="therapitic_name">Ophthalmic Steroid- anti allergic combined preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">329</field>
+		<field name="therapitic_name">Bile acid sequestrants</field>
+		<field name="therapitic_systemic_class_id">25</field>
+	</record>
+	<record>
+		<field name="therapitic_id">330</field>
+		<field name="therapitic_name">Calcium Regulator</field>
+		<field name="therapitic_systemic_class_id">52</field>
+	</record>
+	<record>
+		<field name="therapitic_id">331</field>
+		<field name="therapitic_name">Urinary Alkalinizing Agents</field>
+		<field name="therapitic_systemic_class_id">92</field>
+	</record>
+	<record>
+		<field name="therapitic_id">332</field>
+		<field name="therapitic_name">Drugs affecting the immune response</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">334</field>
+		<field name="therapitic_name">Other Topical corticosteroids</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">335</field>
+		<field name="therapitic_name">Enema &amp; bowel cleansing solution</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">336</field>
+		<field name="therapitic_name">Drugs for Dementia</field>
+		<field name="therapitic_systemic_class_id">41</field>
+	</record>
+	<record>
+		<field name="therapitic_id">337</field>
+		<field name="therapitic_name">Fluticasone &amp; combined preparations topical</field>
+		<field name="therapitic_systemic_class_id">70</field>
+	</record>
+	<record>
+		<field name="therapitic_id">338</field>
+		<field name="therapitic_name">Supportive Care Therapy</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">339</field>
+		<field name="therapitic_name">Drugs used in tremor, tics &amp; related disorders</field>
+		<field name="therapitic_systemic_class_id">41</field>
+	</record>
+	<record>
+		<field name="therapitic_id">341</field>
+		<field name="therapitic_name">Contrast medium for diagnostic procedures</field>
+		<field name="therapitic_systemic_class_id">18</field>
+	</record>
+	<record>
+		<field name="therapitic_id">342</field>
+		<field name="therapitic_name">Nasal non-steroid Preparations</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">343</field>
+		<field name="therapitic_name">Combined preparation for constipation</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">344</field>
+		<field name="therapitic_name">Other laxative preparations</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">345</field>
+		<field name="therapitic_name">Antacid with laxative action</field>
+		<field name="therapitic_systemic_class_id">20</field>
+	</record>
+	<record>
+		<field name="therapitic_id">346</field>
+		<field name="therapitic_name">Anti – Alzheimer drugs</field>
+		<field name="therapitic_systemic_class_id">41</field>
+	</record>
+	<record>
+		<field name="therapitic_id">347</field>
+		<field name="therapitic_name">Other scalp preparations</field>
+		<field name="therapitic_systemic_class_id">78</field>
+	</record>
+	<record>
+		<field name="therapitic_id">348</field>
+		<field name="therapitic_name">Miscellaneous Drug preparations</field>
+		<field name="therapitic_systemic_class_id">18</field>
+	</record>
+	<record>
+		<field name="therapitic_id">349</field>
+		<field name="therapitic_name">Growth hormone antagonist</field>
+		<field name="therapitic_systemic_class_id">59</field>
+	</record>
+	<record>
+		<field name="therapitic_id">350</field>
+		<field name="therapitic_name">Other lipid regulating drugs</field>
+		<field name="therapitic_systemic_class_id">33</field>
+	</record>
+	<record>
+		<field name="therapitic_id">351</field>
+		<field name="therapitic_name">Combined analgesics</field>
+		<field name="therapitic_systemic_class_id">44</field>
+	</record>
+	<record>
+		<field name="therapitic_id">352</field>
+		<field name="therapitic_name">Hematopoietic drug</field>
+		<field name="therapitic_systemic_class_id">31</field>
+	</record>
+	<record>
+		<field name="therapitic_id">353</field>
+		<field name="therapitic_name">Other genito-urinary preparations</field>
+		<field name="therapitic_systemic_class_id">96</field>
+	</record>
+	<record>
+		<field name="therapitic_id">354</field>
+		<field name="therapitic_name">Cholagogues, Cholelitholytics &amp; Hepatic Protectors</field>
+		<field name="therapitic_systemic_class_id">25</field>
+	</record>
+	<record>
+		<field name="therapitic_id">355</field>
+		<field name="therapitic_name">Haemostatic drugs</field>
+		<field name="therapitic_systemic_class_id">32</field>
+	</record>
+	<record>
+		<field name="therapitic_id">356</field>
+		<field name="therapitic_name">Drugs affecting exocrine secretions</field>
+		<field name="therapitic_systemic_class_id">25</field>
+	</record>
+	<record>
+		<field name="therapitic_id">357</field>
+		<field name="therapitic_name">Other drugs for migraine</field>
+		<field name="therapitic_systemic_class_id">45</field>
+	</record>
+	<record>
+		<field name="therapitic_id">358</field>
+		<field name="therapitic_name">Topical salicylic preparations</field>
+		<field name="therapitic_systemic_class_id">72</field>
+	</record>
+	<record>
+		<field name="therapitic_id">359</field>
+		<field name="therapitic_name">Drugs for reduction of serum phosphorus in patients with ESRD</field>
+		<field name="therapitic_systemic_class_id">96</field>
+	</record>
+	<record>
+		<field name="therapitic_id">360</field>
+		<field name="therapitic_name">Other drugs used for peptic ulcer disease</field>
+		<field name="therapitic_systemic_class_id">19</field>
+	</record>
+	<record>
+		<field name="therapitic_id">361</field>
+		<field name="therapitic_name">Drugs for corneal oedema</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">362</field>
+		<field name="therapitic_name">Fibrinolytics (Thrombolytics)</field>
+		<field name="therapitic_systemic_class_id">31</field>
+	</record>
+	<record>
+		<field name="therapitic_id">363</field>
+		<field name="therapitic_name">Anabolic steroid</field>
+		<field name="therapitic_systemic_class_id">90</field>
+	</record>
+	<record>
+		<field name="therapitic_id">364</field>
+		<field name="therapitic_name">Theophylline &amp; related drugs</field>
+		<field name="therapitic_systemic_class_id">34</field>
+	</record>
+	<record>
+		<field name="therapitic_id">365</field>
+		<field name="therapitic_name">Drugs for cytomegalovirus</field>
+		<field name="therapitic_systemic_class_id">48</field>
+	</record>
+	<record>
+		<field name="therapitic_id">366</field>
+		<field name="therapitic_name">Zinc &amp; Combined preparations</field>
+		<field name="therapitic_systemic_class_id">71</field>
+	</record>
+	<record>
+		<field name="therapitic_id">367</field>
+		<field name="therapitic_name">Drugs used in diaper rash</field>
+		<field name="therapitic_systemic_class_id">69</field>
+	</record>
+	<record>
+		<field name="therapitic_id">368</field>
+		<field name="therapitic_name">Cytotoxic immunosuppressants</field>
+		<field name="therapitic_systemic_class_id">17</field>
+	</record>
+	<record>
+		<field name="therapitic_id">369</field>
+		<field name="therapitic_name">Drugs used in meniere’s diseases</field>
+		<field name="therapitic_systemic_class_id">42</field>
+	</record>
+	<record>
+		<field name="therapitic_id">370</field>
+		<field name="therapitic_name">Angiotensin-converting enzyme (ACE) inhibitor</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">371</field>
+		<field name="therapitic_name">Angiotensin-II receptor blocker</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">372</field>
+		<field name="therapitic_name">Statins</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">373</field>
+		<field name="therapitic_name">Angiotensin-II receptor blocker</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">374</field>
+		<field name="therapitic_name">Proton Pump Inhibitor</field>
+		<field name="therapitic_systemic_class_id">127</field>
+	</record>
+	<record>
+		<field name="therapitic_id">376</field>
+		<field name="therapitic_name">H2 receptor antagonist</field>
+		<field name="therapitic_systemic_class_id">127</field>
+	</record>
+	<record>
+		<field name="therapitic_id">377</field>
+		<field name="therapitic_name">Antacids</field>
+		<field name="therapitic_systemic_class_id">127</field>
+	</record>
+	<record>
+		<field name="therapitic_id">378</field>
+		<field name="therapitic_name">Antacids</field>
+		<field name="therapitic_systemic_class_id">128</field>
+	</record>
+	<record>
+		<field name="therapitic_id">379</field>
+		<field name="therapitic_name">Antacids</field>
+		<field name="therapitic_systemic_class_id">129</field>
+	</record>
+	<record>
+		<field name="therapitic_id">380</field>
+		<field name="therapitic_name">H2 receptor antagonist</field>
+		<field name="therapitic_systemic_class_id">129</field>
+	</record>
+	<record>
+		<field name="therapitic_id">381</field>
+		<field name="therapitic_name">H2 receptor antagonist</field>
+		<field name="therapitic_systemic_class_id">130</field>
+	</record>
+	<record>
+		<field name="therapitic_id">382</field>
+		<field name="therapitic_name">Proton Pump Inhibitor</field>
+		<field name="therapitic_systemic_class_id">128</field>
+	</record>
+	<record>
+		<field name="therapitic_id">383</field>
+		<field name="therapitic_name">Proton Pump Inhibitor</field>
+		<field name="therapitic_systemic_class_id">129</field>
+	</record>
+	<record>
+		<field name="therapitic_id">384</field>
+		<field name="therapitic_name">Proton Pump Inhibitor</field>
+		<field name="therapitic_systemic_class_id">130</field>
+	</record>
+	<record>
+		<field name="therapitic_id">385</field>
+		<field name="therapitic_name">Anti-dyspeptic/Carminatives</field>
+		<field name="therapitic_systemic_class_id">129</field>
+	</record>
+	<record>
+		<field name="therapitic_id">386</field>
+		<field name="therapitic_name">Motility Stimulants</field>
+		<field name="therapitic_systemic_class_id">129</field>
+	</record>
+	<record>
+		<field name="therapitic_id">387</field>
+		<field name="therapitic_name">Calcium-channel blockers</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">388</field>
+		<field name="therapitic_name">Cerebral vasodilator &amp; Neurosensory oxygenator drugs</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">389</field>
+		<field name="therapitic_name">Anti-platelet drugs</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">390</field>
+		<field name="therapitic_name">Anti-coagulants</field>
+		<field name="therapitic_systemic_class_id">136</field>
+	</record>
+	<record>
+		<field name="therapitic_id">391</field>
+		<field name="therapitic_name">Thiazide diuretics &amp; related drugs</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">392</field>
+		<field name="therapitic_name">Loop diuretics</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">393</field>
+		<field name="therapitic_name">Potassium-sparing diuretics</field>
+		<field name="therapitic_systemic_class_id">27</field>
+	</record>
+	<record>
+		<field name="therapitic_id">394</field>
+		<field name="therapitic_name">Dipeptidyl Peptidase-4 (DPP-4) inhibitor</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">395</field>
+		<field name="therapitic_name">Glucagon-like peptide-1 (GLP-1) receptor agonists</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">397</field>
+		<field name="therapitic_name">Local &amp; Surface anesthesia</field>
+		<field name="therapitic_systemic_class_id">67</field>
+	</record>
+	<record>
+		<field name="therapitic_id">398</field>
+		<field name="therapitic_name">Topical anti-inflammatory preparations</field>
+		<field name="therapitic_systemic_class_id">62</field>
+	</record>
+	<record>
+		<field name="therapitic_id">399</field>
+		<field name="therapitic_name">Pulmonary surfactants</field>
+		<field name="therapitic_systemic_class_id">36</field>
+	</record>
+	<record>
+		<field name="therapitic_id">402</field>
+		<field name="therapitic_name">Angiotensin-II receptor blocker</field>
+		<field name="therapitic_systemic_class_id">139</field>
+	</record>
+	<record>
+		<field name="therapitic_id">403</field>
+		<field name="therapitic_name">Calcium-channel blockers</field>
+		<field name="therapitic_systemic_class_id">139</field>
+	</record>
+	<record>
+		<field name="therapitic_id">404</field>
+		<field name="therapitic_name">Statins</field>
+		<field name="therapitic_systemic_class_id">139</field>
+	</record>
+	<record>
+		<field name="therapitic_id">405</field>
+		<field name="therapitic_name">Osmotic diuretics</field>
+		<field name="therapitic_systemic_class_id">139</field>
+	</record>
+	<record>
+		<field name="therapitic_id">406</field>
+		<field name="therapitic_name">Adjunct anti-epileptic drugs</field>
+		<field name="therapitic_systemic_class_id">56</field>
+	</record>
+	<record>
+		<field name="therapitic_id">408</field>
+		<field name="therapitic_name">Anti-emetic drugs</field>
+		<field name="therapitic_systemic_class_id">22</field>
+	</record>
+	<record>
+		<field name="therapitic_id">411</field>
+		<field name="therapitic_name">Calcium-channel blockers</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+	<record>
+		<field name="therapitic_id">412</field>
+		<field name="therapitic_name">Corticosteroid</field>
+		<field name="therapitic_systemic_class_id">91</field>
+	</record>
+	<record>
+		<field name="therapitic_id">413</field>
+		<field name="therapitic_name">Corticosteroid</field>
+		<field name="therapitic_systemic_class_id">137</field>
+	</record>
+	<record>
+		<field name="therapitic_id">416</field>
+		<field name="therapitic_name">Combination Insulin</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">417</field>
+		<field name="therapitic_name">Sodium-glucose co-transporter 2 (SGLT2) inhibitor</field>
+		<field name="therapitic_systemic_class_id">55</field>
+	</record>
+	<record>
+		<field name="therapitic_id">418</field>
+		<field name="therapitic_name">Piperidinyl-benzisoxazole derivative</field>
+		<field name="therapitic_systemic_class_id">38</field>
+	</record>
+	<record>
+		<field name="therapitic_id">419</field>
+		<field name="therapitic_name">Anti-diarrhoeal Enzyme</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">421</field>
+		<field name="therapitic_name">Drugs used in Ano-rectal region</field>
+		<field name="therapitic_systemic_class_id">95</field>
+	</record>
+	<record>
+		<field name="therapitic_id">422</field>
+		<field name="therapitic_name">Non-steroidal Anti-inflammatory Drugs (NSAIDs)</field>
+		<field name="therapitic_systemic_class_id">44</field>
+	</record>
+	<record>
+		<field name="therapitic_id">423</field>
+		<field name="therapitic_name">Rapid Acting Insulin</field>
+		<field name="therapitic_systemic_class_id">54</field>
+	</record>
+	<record>
+		<field name="therapitic_id">424</field>
+		<field name="therapitic_name">Anti-diarrhoeal</field>
+		<field name="therapitic_systemic_class_id">21</field>
+	</record>
+	<record>
+		<field name="therapitic_id">425</field>
+		<field name="therapitic_name">Ophthalmic Anti-allergic preparations</field>
+		<field name="therapitic_systemic_class_id">15</field>
+	</record>
+	<record>
+		<field name="therapitic_id">426</field>
+		<field name="therapitic_name">Anti neoplastic preparations</field>
+		<field name="therapitic_systemic_class_id">72</field>
+	</record>
+	<record>
+		<field name="therapitic_id">427</field>
+		<field name="therapitic_name">Decongestant</field>
+		<field name="therapitic_systemic_class_id">98</field>
+	</record>
+	<record>
+		<field name="therapitic_id">428</field>
+		<field name="therapitic_name">Quaternary Ammonium preparations</field>
+		<field name="therapitic_systemic_class_id">79</field>
+	</record>
+	<record>
+		<field name="therapitic_id">430</field>
+		<field name="therapitic_name">Gonadotropin-releasing hormone (GnRH) antagonist</field>
+		<field name="therapitic_systemic_class_id">58</field>
+	</record>
+	<record>
+		<field name="therapitic_id">431</field>
+		<field name="therapitic_name">Bleaching and Disinfectants</field>
+		<field name="therapitic_systemic_class_id">79</field>
+	</record>
+	<record>
+		<field name="therapitic_id">432</field>
+		<field name="therapitic_name">Emollients &amp; Skin Protectives</field>
+		<field name="therapitic_systemic_class_id">141</field>
+	</record>
+	<record>
+		<field name="therapitic_id">433</field>
+		<field name="therapitic_name">Alpha and Beta-adrenergic agonist</field>
+		<field name="therapitic_systemic_class_id">26</field>
+	</record>
+</table></tables>
