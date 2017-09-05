@@ -12,7 +12,14 @@
             <h1>Doctor's Helper</h1>
         </div>
         <div>
-            <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div><div class="col-lg-offset-8 col-lg-2"><a href="http://localhost/ADDBMS/Login/RegisterView.php">Register</a> <a href="http://localhost/ADDBMS/Login/LoginView.php">Login</a></div>
+            <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div><div class="col-lg-offset-8 col-lg-2"> 
+                <?php if (isset($_SESSION['USERNAME'])) {
+                    echo '<a href="http://localhost/ADDBMS/Login/RegisterView.php">Register</a> <a href="http://localhost/ADDBMS/Login/LoginView.php">Login</a></div>';
+                }  else {
+                   echo '<a href="http://localhost/ADDBMS/Login/RegisterView.php"></a> <a href="http://localhost/ADDBMS/Login/LoginView.php"></a></div>'; 
+                }
+                 ?> 
+
             
         </div>
         <div class="row col-lg-10" >
