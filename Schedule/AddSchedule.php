@@ -2,6 +2,8 @@
 session_start();
 if (isset($_SESSION['USERNAME'])) {
     $USER = $_SESSION['USERNAME'];
+}  else {
+    header("Location: ../Login/LoginView.php");die();
 }
 ?>
 <!DOCTYPE html>

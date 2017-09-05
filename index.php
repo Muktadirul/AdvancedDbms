@@ -16,7 +16,7 @@
                 <?php if (isset($_SESSION['USERNAME'])) {
                     echo '<a href="http://localhost/ADDBMS/Login/RegisterView.php">Register</a> <a href="http://localhost/ADDBMS/Login/LoginView.php">Login</a></div>';
                 }  else {
-                   echo '<a href="http://localhost/ADDBMS/Login/RegisterView.php"></a> <a href="http://localhost/ADDBMS/Login/LoginView.php"></a></div>'; 
+                   echo '<a href="http://localhost/ADDBMS/Login/Logout.php">Logout</a></div>'; 
                 }
                  ?> 
 
