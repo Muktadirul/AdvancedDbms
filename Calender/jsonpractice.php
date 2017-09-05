@@ -98,15 +98,83 @@ if (isset($_SESSION['USERNAME'])) {
                     </tr>
                 </table>
             </form>
-        </div>
-    </body>
+        </body>
+</div>
+
 </html>
 
-<!--
-CREATE EVENT test_event_03
-ON SCHEDULE EVERY 1 MINUTE
-STARTS CURRENT_TIMESTAMP
-ENDS CURRENT_TIMESTAMP + INTERVAL 1 HOUR
-DO
-   INSERT INTO test VALUES(NULL,NOW());
--->
+
+<?php
+class Data {
+
+    public $title = "";
+    public $start = "";
+    public $end = "";
+}
+$data = new Data();
+$UID = $_SESSION['USERID'];
+$link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
+$pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
+$sql = ' CALL ScheduleGet(:m1);';
+$stmt = $pdo->prepare($sql);
+$stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
+$stmt->execute();
+$stack = array();
+while ($row = $stmt->fetch()) {
+    $data->title= $row['title'];
+    $data->start = $row['Start_time'];
+    $data->end = $row['end_time'];
+    array_push($stack,$data);
+}
+?>
+<html>
+<head>
+<meta charset='utf-8' />
+<link href='fullcalendar.min.css' rel='stylesheet' />
+<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
+<script src='moment.min.js'></script>
+<script src='jquery.min.js'></script>
+<script src='fullcalendar.min.js'></script>
+<script>
+
+	$(document).ready(function() {
+		
+		$('#calendar').fullCalendar({
+			header: {
+				left: 'prev,next today',
+				center: 'title',
+				right: 'month,basicWeek,basicDay'
+			},
+			defaultDate: '<?php echo date("Y-m-d"); ?>',
+			navLinks: true, // can click day/week names to navigate views
+			editable: true,
+			eventLimit: true, // allow "more" link when too many events
+			events: <?php echo json_encode($stack); ?>
+		});
+		
+	});
+
+</script>
+<style>
+
+	body {
+		margin: 40px 10px;
+		padding: 0;
+		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+		font-size: 14px;
+                background-color: yellow;
+	}
+
+	#calendar {
+		max-width: 900px;
+		margin: 0 auto;
+	}
+
+</style>
+</head>
+<body>
+
+	<div id='calendar'></div>
+
+</body>
+</html>
