@@ -98,107 +98,66 @@ while ($row = $stmt->fetch()) {
         <div  style="height: 800px">
             <form class=" col-lg-offset-2 col-lg-10" method="post" action="AddController.php">
                 <table >
-                    <tr>
-                        <td class="col-lg-3">Title</td>
-                        <td class="col-lg-7"><input name="title" id="title"></td>
-                    </tr>
-                    <tr><td></td><td><br></td></tr>
-                    <tr>
-                        <td class="col-lg-3">Start Date</td>
-                        <td class="col-lg-3">
-                            <select id="day" name="sday">
-                                <option value="-1">----</option>
-                                <?php for ($i = 1; $i < 32; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
-                            <select id="month" name="smonth">
-                                <option value="-1">----</option>
-                                <?php for ($i = 1; $i < 12; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
-                            <select id="year" name="syear">
-                                <option value="-1">----</option>
-                                <?php for ($i = 2017; $i < 2027; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
-                        </td>
-                    </tr>
-                    
-                    <tr><td></td><td><br></td></tr>
-                    <tr>
-                        <td class="col-lg-3">Start time</td>
+                    <tr >
+                        <td class="col-lg-3">Start Time </td>
                         <td class="col-lg-7">
-                            <select id="shr" name="shr">
+                            <select id="shr" name="hr">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 24; $i++): ?>
                                     <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
-                            <select id="smin" name="smin">
+                            <select id="smin" name="min">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 60; $i++): ?>
                                     <option><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
 
-                        </td>    
-                    </tr>
-                    
-                    
-                    <tr><td></td><td><br></td></tr>
-                    
-                    
-                    <tr>
-                        <td class="col-lg-3">End Date</td>
-                        <td class="col-lg-3">
-                            <select id="day" name="eday">
-                                <option value="-1">----</option>
-                                <?php for ($i = 1; $i < 32; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
-                            <select id="month" name="emonth">
-                                <option value="-1">----</option>
-                                <?php for ($i = 1; $i < 12; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
-                            <select id="year" name="eyear">
-                                <option value="-1">----</option>
-                                <?php for ($i = 2017; $i < 2027; $i++): ?>
-                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                                <?php endfor; ?>
-                            </select>
                         </td>
                     </tr>
-                    
-                    <tr><td></td><td><br></td></tr>
-                    <tr>
-                        <td class="col-lg-3">End time</td>
+                    <tr >
+                        <td class="col-lg-3">End Time </td>
                         <td class="col-lg-7">
-                            <select id="shr" name="ehr">
+                            <select id="shr" name="hr">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 24; $i++): ?>
                                     <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
-                            <select id="smin" name="emin">
+                            <select id="smin" name="min">
                                 <option value="-1">----</option>
                                 <?php for ($i = 0; $i < 60; $i++): ?>
                                     <option><?php echo $i; ?></option>
                                 <?php endfor; ?>
                             </select>
 
-                        </td>    
+                        </td>
                     </tr>
-                    
-                    <tr><td></td><td><br></td></tr>
-                    
-                    
-                    
+                    <tr>
+                        <td class="col-lg-3">Date</td>
+                        <td class="col-lg-7">
+                            <select id="day" name="day">
+                                <option value="-1">----</option>
+                                <?php for ($i = 1; $i < 32; $i++): ?>
+                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
+                                <?php endfor; ?>
+                            </select>
+                            <select id="month" name="month">
+                                <option value="-1">----</option>
+                                <?php for ($i = 1; $i < 12; $i++): ?>
+                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
+                                <?php endfor; ?>
+                            </select>
+                            <select id="year" name="year">
+                                <option value="-1">----</option>
+                                <?php for ($i = 2017; $i < 3017; $i++): ?>
+                                    <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
+                                <?php endfor; ?>
+                            </select>
+                        </td>
+
+                    </tr>
 
                     <tr >
                         <td class="col-lg-3">Description</td>
@@ -212,4 +171,7 @@ while ($row = $stmt->fetch()) {
             </form>
         </body>
 </div>
+
+
+
 </html>
