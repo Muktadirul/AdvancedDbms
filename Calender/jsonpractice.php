@@ -5,7 +5,29 @@ if (isset($_SESSION['USERNAME'])) {
 }  else {
     header("Location: ../Login/LoginView.php");die();
 }
+class Data {
+
+    public $title = "";
+    public $start = "";
+    public $end = "";
+}
+$data = new Data();
+$UID = $_SESSION['USERID'];
+$link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
+$pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
+$sql = ' CALL ScheduleGet(:m1);';
+$stmt = $pdo->prepare($sql);
+$stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
+$stmt->execute();
+$stack = array();
+while ($row = $stmt->fetch()) {
+    $data->title= $row['title'];
+    $data->start = $row['Start_time'];
+    $data->end = $row['end_time'];
+    array_push($stack,$data);
+}
 ?>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,15 +36,64 @@ if (isset($_SESSION['USERNAME'])) {
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    </head>
+    
+<meta charset='utf-8' />
+<link href='fullcalendar.min.css' rel='stylesheet' />
+<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
+<script src='moment.min.js'></script>
+<script src='jquery.min.js'></script>
+<script src='fullcalendar.min.js'></script>
+<script>
+
+	$(document).ready(function() {
+		
+		$('#calendar').fullCalendar({
+			header: {
+				left: 'prev,next today',
+				center: 'title',
+				right: 'month,basicWeek,basicDay'
+			},
+			defaultDate: '<?php echo date("Y-m-d"); ?>',
+			navLinks: true, // can click day/week names to navigate views
+			editable: true,
+			eventLimit: true, // allow "more" link when too many events
+			events: <?php echo json_encode($stack); ?>
+		});
+		
+	});
+
+</script>
+<style>
+
+	body {
+		margin: 40px 10px;
+		padding: 0;
+		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+		font-size: 14px;
+                
+	}
+
+	#calendar {
+		max-width: 900px;
+		margin: 0 auto;
+                background-color: #ffffff;
+	}
+
+</style>
+</head>
+
     <body class="container"style="background-color: wheat" >
-        <div class="jumbotron " style="text-align: center;"style="height: 800px;">
+        <div class="jumbotron " style="text-align: center;"style="height: 10px;">
             <h1>Doctor's Helper</h1>
         </div>
         <div>
+            <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a> </div>
+            <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div>
+            <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div>
             <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div>
         </div>
-
+        <br><br>
+        <div id='calendar'></div>
         <div class="col-lg-offset-1 col-lg-5"><h1>Add a Schedule</h1></div>
         <div  style="height: 800px">
             <form class=" col-lg-offset-2 col-lg-10" method="post" action="AddController.php">
@@ -101,81 +172,6 @@ if (isset($_SESSION['USERNAME'])) {
         </body>
 </div>
 
-</html>
 
 
-<?php
-class Data {
-
-    public $title = "";
-    public $start = "";
-    public $end = "";
-}
-$data = new Data();
-$UID = $_SESSION['USERID'];
-$link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
-$pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
-$sql = ' CALL ScheduleGet(:m1);';
-$stmt = $pdo->prepare($sql);
-$stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
-$stmt->execute();
-$stack = array();
-while ($row = $stmt->fetch()) {
-    $data->title= $row['title'];
-    $data->start = $row['Start_time'];
-    $data->end = $row['end_time'];
-    array_push($stack,$data);
-}
-?>
-<html>
-<head>
-<meta charset='utf-8' />
-<link href='fullcalendar.min.css' rel='stylesheet' />
-<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
-<script src='moment.min.js'></script>
-<script src='jquery.min.js'></script>
-<script src='fullcalendar.min.js'></script>
-<script>
-
-	$(document).ready(function() {
-		
-		$('#calendar').fullCalendar({
-			header: {
-				left: 'prev,next today',
-				center: 'title',
-				right: 'month,basicWeek,basicDay'
-			},
-			defaultDate: '<?php echo date("Y-m-d"); ?>',
-			navLinks: true, // can click day/week names to navigate views
-			editable: true,
-			eventLimit: true, // allow "more" link when too many events
-			events: <?php echo json_encode($stack); ?>
-		});
-		
-	});
-
-</script>
-<style>
-
-	body {
-		margin: 40px 10px;
-		padding: 0;
-		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
-		font-size: 14px;
-                
-	}
-
-	#calendar {
-		max-width: 900px;
-		margin: 0 auto;
-                background-color: #ffffff;
-	}
-
-</style>
-</head>
-<body>
-
-	<div id='calendar'></div>
-
-</body>
 </html>
