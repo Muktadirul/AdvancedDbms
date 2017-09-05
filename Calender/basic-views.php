@@ -1,3 +1,9 @@
+<?php 
+$pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
+
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,14 +43,19 @@
 					start: '2017-05-09T16:00:00'
 				},
 				{
+					
+					title: 'Repeating Event',
+					start: '2017-05-10T16:00:00'
+				},
+                                {
 					id: 999,
 					title: 'Repeating Event',
 					start: '2017-05-16T16:00:00'
 				},
 				{
 					title: 'Conference',
-					start: '2017-05-11',
-					end: '2017-05-13'
+					start: '2017-05-11T16:00:00',
+					end: '2017-05-11T23:00:00'
 				},
 				{
 					title: 'Meeting',
