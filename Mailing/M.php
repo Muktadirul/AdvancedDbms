@@ -10,7 +10,7 @@ $mail->Password = 'tp1hello';                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 $mail->setFrom('testproject149@gmail.com', 'Open To See ');
-$mail->addAddress('raiancse@gmail.com', 'Joe User');     // Add a recipient
+$mail->addAddress('testproject149@gmail.com', 'Joe User');     // Add a recipient
 $mail->isHTML(true);                                  // Set email format to HTML
 $mail->Subject = 'Learning';
 $mail->Body    = 'This one is from localhost Enjoying';
