@@ -12,7 +12,7 @@ class Data {
     public $end = "";
 }
 $data = new Data();
-$UID = $_SESSION['USERID'];
+$UID = 48;
 $link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
 $pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
 $sql = ' CALL ScheduleGet(:m1);';

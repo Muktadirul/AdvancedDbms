@@ -80,26 +80,24 @@ if (isset($_SESSION['USERNAME'])) {
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class="btn-default btn-group-lg"><a href="">Show Notifier List</a></td>
+                        <td class="btn-default btn-group-lg"><a href="http://localhost/ADDBMS/Schedule/ViewSchedule.php">Show Schedule List</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class="btn-default btn-group-lg"><a href="">Update Notifier List</a></td>
+                        <td class="btn-default btn-group-lg"><a href="http://localhost/ADDBMS/Schedule/ViewSchedule.php">Update Schedule List</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class="btn-default btn-group-lg"><a href="">Delete From Notifier List</a></td>
+                        <td class="btn-default btn-group-lg"><a href="http://localhost/ADDBMS/Schedule/ViewSchedule.php">Delete From Schedule List</a></td>
                     </tr>
                     <tr>
                         <td><br></td>
                     </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Genaret Schedule</td>
-                    </tr>
+                    
                 </table>
                 <p>&nbsp;&nbsp;
                 </p>
@@ -114,7 +112,7 @@ if (isset($_SESSION['USERNAME'])) {
                         <td><br></td>
                     </tr>
                     <tr>
-                        <td class="btn-default btn-group-lg">Alergy precrition</td>
+                        <td class="btn-default btn-group-lg">Allergy precrition</td>
                     </tr>
                     <tr>
                         <td><br></td>

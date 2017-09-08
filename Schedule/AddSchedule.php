@@ -36,50 +36,7 @@ while ($row = $stmt->fetch()) {
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    
-<meta charset='utf-8' />
-<link href='fullcalendar.min.css' rel='stylesheet' />
-<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
-<script src='moment.min.js'></script>
-<script src='jquery.min.js'></script>
-<script src='fullcalendar.min.js'></script>
-<script>
-
-	$(document).ready(function() {
-		
-		$('#calendar').fullCalendar({
-			header: {
-				left: 'prev,next today',
-				center: 'title',
-				right: 'month,basicWeek,basicDay'
-			},
-			defaultDate: '<?php echo date("Y-m-d"); ?>',
-			navLinks: true, // can click day/week names to navigate views
-			editable: true,
-			eventLimit: true, // allow "more" link when too many events
-			events: <?php echo json_encode($stack); ?>
-		});
-		
-	});
-
-</script>
-<style>
-
-	body {
-		margin: 40px 10px;
-		padding: 0;
-		font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
-		font-size: 14px;
-                
-	}
-
-	#calendar {
-		max-width: 900px;
-		margin: 0 auto;
-                background-color: #ffffff;
-	}
-
-</style>
+   
 </head>
 
     <body class="container"style="background-color: wheat" >

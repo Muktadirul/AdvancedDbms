@@ -49,8 +49,8 @@ $stmt->execute();
                         echo '<td style="border: 3px solid black;">' . $row['end_time'] . '</td>';
                         echo '<td style="border: 3px solid black;"><textarea disabled style="height: 80px;width: 300px;">' .$row['description']. '</textarea></td>';
                         $X="http://localhost/ADDBMS/Schedule/";
-                        echo '<td style="border: 3px solid black;"><a href='.$X.'UpdateNotifier.php?nfid='.$row['scid']."><button >Update</button></a></td>";
-                        echo '<td style="border: 3px solid black;"><a href='.$X.'DeleteNotifier.php?nfid='.$row['scid']."><button >Delete</button></a></td>";
+                        echo '<td style="border: 3px solid black;"><a href='.$X.'UpdateSchedule.php?scid='.$row['scid']."><button >Update</button></a></td>";
+                        echo '<td style="border: 3px solid black;"><a href='.$X.'DeleteSchedule.php?scid='.$row['scid']."><button >Delete</button></a></td>";
                         echo '</tr><br>';
                     }
                     ?>      

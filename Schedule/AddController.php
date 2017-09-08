@@ -38,7 +38,7 @@ $X = $row->level;
 
 
 if ($X == 1) {
-    header("Location: ViewScedule.php");
+    header("Location: ViewSchedulephp");
 } else {
     $X = 'Please Set the Values Correctly';
     header('Location: http://localhost/ADDBMS/Notifier/ErrorMessage.php?t=' . $X);

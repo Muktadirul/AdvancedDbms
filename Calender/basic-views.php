@@ -1,7 +1,32 @@
-<?php 
+<?php
+session_start();
+if (isset($_SESSION['USERNAME'])) {
+    $USER = $_SESSION['USERNAME'];
+}  else {
+    header("Location: ../Login/LoginView.php");die();
+}
+class Data {
+
+    public $title = "";
+    public $start = "";
+    public $end = "";
+}
+$data = new Data();
+$UID = $_SESSION['USERID'];
+$link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
 $pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
-
-
+$sql = ' CALL ScheduleGet(:m1);';
+$stmt = $pdo->prepare($sql);
+$stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
+$stmt->execute();
+$stack = array();
+while ($row = $stmt->fetch()) {
+    $data->title= $row['title'];
+    $data->start = $row['Start_time'];
+    $data->end = $row['end_time'];
+    array_push($stack,$data);
+}
+$res=  json_encode($stack);
 ?>
 
 <!DOCTYPE html>
