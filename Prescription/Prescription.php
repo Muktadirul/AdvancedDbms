@@ -150,7 +150,24 @@ $all=$stmt->fetchAll();
                 </tr>
             </table>
             
-            <button>Medications</button>
+            <table style="width: 120%;border: 1px solid black">
+                <tr>
+                    <td>Drugs Name</td>
+                    <td>Drugs Dose</td>
+                    <td>Drugs Amount</td>
+                    <td>How Long</td>
+                    <td>Before</td>
+                    <td>after</td>
+                </tr>
+                <tr>
+                    <td>Drugs Name</td>
+                    <td>Drugs Dose</td>
+                    <td>Drugs Amount</td>
+                    <td>How Long</td>
+                    <td>Before</td>
+                    <td>after</td>
+                </tr>
+            </table>
         </div>
     </body>
 </html>
