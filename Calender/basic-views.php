@@ -27,32 +27,9 @@ while ($row = $stmt->fetch()) {
     array_push($stack,$data);
 }
 $res=  json_encode($stack);
-?>
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset='utf-8' />
-<link href='fullcalendar.min.css' rel='stylesheet' />
-<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
-<script src='moment.min.js'></script>
-<script src='jquery.min.js'></script>
-<script src='fullcalendar.min.js'></script>
-<script>
-
-	$(document).ready(function() {
-		
-		$('#calendar').fullCalendar({
-			header: {
-				left: 'prev,next today',
-				center: 'title',
-				right: 'month,basicWeek,basicDay'
-			},
-			defaultDate: '2017-05-12',
-			navLinks: true, // can click day/week names to navigate views
-			editable: true,
-			eventLimit: true, // allow "more" link when too many events
-			events: [
+/*
+[
 				{
 					title: 'All Day Event',
 					start: '2017-05-01'
@@ -112,7 +89,33 @@ $res=  json_encode($stack);
 					url: 'http://google.com/',
 					start: '2017-05-28'
 				}
-			]
+			] */
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<link href='fullcalendar.min.css' rel='stylesheet' />
+<link href='fullcalendar.print.min.css' rel='stylesheet' media='print' />
+<script src='moment.min.js'></script>
+<script src='jquery.min.js'></script>
+<script src='fullcalendar.min.js'></script>
+<script>
+
+	$(document).ready(function() {
+		
+		$('#calendar').fullCalendar({
+			header: {
+				left: 'prev,next today',
+				center: 'title',
+				right: 'month,basicWeek,basicDay'
+			},
+			defaultDate: '2017-05-12',
+			navLinks: true, // can click day/week names to navigate views
+			editable: true,
+			eventLimit: true, // allow "more" link when too many events
+			events: <?php echo $res;?>
 		});
 		
 	});
