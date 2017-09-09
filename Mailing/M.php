@@ -1,6 +1,5 @@
 <?php
 require './PHPMailer-master/PHPMailer-master/PHPMailerAutoload.php';
-
 $mail = new PHPMailer;
 $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com;';  // Specify main and backup SMTP servers
