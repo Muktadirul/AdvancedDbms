@@ -22,7 +22,8 @@ $all = $stmt->fetchAll();
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
 
 
@@ -131,68 +132,92 @@ $all = $stmt->fetchAll();
         <div class="col-lg-offset-4 col-lg-8">
             <h1> Patient Prescription </h1>
         </div>
-        <div class="col-lg-10"><br><br><br></div>
-        <div class="col-lg-10">
-            <table style="width: 130%">
-                <tr>
+        <div class="col-lg-12"><br><br><br></div>
 
-                    <td>Name</td>
-                    <td><input></td>
-                    <td>Address</td>
-                    <td><textarea></textarea></td>
-                    <td>mail id</td>
-                    <td><input></td>
-                    <td>Age
-                        <select>
-                            <option value="-1">----</option>
-                            <?php for ($i = 1; $i < 80; $i++): ?>
-                                <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                            <?php endfor; ?>
-                        </select></td>
-                    <td>Sex <select>
-                            <option value="1">Male</option>
-                            <option value="2">Female</option>
-                        </select>
-                    </td>
-                    <td>
-                        Weight
-                        <select>
-                            <option value="-1">----</option>
-                            <?php for ($i = 1; $i < 151; $i++): ?>
-                                <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                            <?php endfor; ?>
-                        </select>
-                    </td>
-                    <td>
-                        Blood Pressure
-                        <select>
-                            <option value="-1">----</option>
-                            <?php for ($i = 1; $i < 180; $i++): ?>
-                                <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                            <?php endfor; ?>
-                        </select>  /
-                        <select>
-                            <option value="-1">----</option>
-                            <?php for ($i = 1; $i < 180; $i++): ?>
-                                <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                            <?php endfor; ?>
-                        </select>
-                    </td>
-                </tr>   
+        <form class="form-horizontal" action="">
+            <div class="form-group">
+                <label class="control-label col-lg-4" >Patient Name</label>
+                <div class="col-sm-6">
+                    <input type="email" class="form-control" id="email" placeholder="Enter Name" name="email">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" >Patient Mail Id</label>
+                <div class="col-sm-6">
+                    <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="email">Patient Age</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="age" placeholder="Enter Age" name="email">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="email">Sex </label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="sex" placeholder="Enter sex" name="sex">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="email">Weight</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="weight" placeholder="Enter Weight" name="Weight">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="email">Blood Pressure</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="Bp" placeholder="Blood Pressure" name="BloodPressure">
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="email"><b>Previous Problems list</b></label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="add" placeholder="Add Problems ..." name="email">
+                <div class="search-box">
+                            <input id="add" name="val" type="text" autocomplete="off" placeholder="Add Problems ..." />
+                            <div class="result"></div>
+                            <button onclick="myFunction()"> Add </button>
+                        </div>
+                
+                </div>
+            </div>
+            
+            
+            
+            <div class="form-group">        
+                <div class="col-sm-offset-2 col-sm-10">
+                    <div class="checkbox">
+                        <label><input type="checkbox" name="remember"> Remember me</label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">        
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-default">Submit</button>
+                </div>
+            </div>
+        </form>
 
-            </table>
-        </div>
+        <div class="col-lg-12"><br><br><br></div>
+
+
+        
         <table  style="width: 100%">
             <tr class="col-lg-12">
                 <td class="col-lg-3">
                     <div ><b>Previous Problems list</b></div>
                 </td>
                 <td class="col-lg-3">
-                    <div ><div class="search-box">
-                            <input id="add" name="val" type="text" autocomplete="off" placeholder="Add Problems ..." />
+                    <div >
+                        <div class="search-box">
+                            <input id="add" name="val" type="text" autocomplete="on" placeholder="Add Problems ..." />
                             <div class="result"></div>
                             <button onclick="myFunction()"> Add </button>
-                        </div></div>
+                        </div>
+                    </div>
                 </td>
                 <td class="col-lg-3">
                     <div class="col-lg-3"><b>Current Problems list</b></div>
@@ -217,60 +242,56 @@ $all = $stmt->fetchAll();
             </tr>
         </table>
         <script type="text/javascript">
-    var fruits=[];
-    var fruits1=[];
-</script>
+            var fruits = [];
+            var fruits1 = [];
+            function myFunction() {
+                fruits.push(document.getElementById("add").value);
 
+                fLen = fruits.length;
+                text = "<ul>";
+                for (i = 0; i < fLen; i++) {
+                    text += "<li>" + fruits[i] + "<button onclick=" + "del(" + i + ")" + "> Delete It </button> </li>";
+                }
+                text += "</ul>";
+                document.getElementById("demo").innerHTML = text;
+            }
 
-<script>
-function myFunction() {
-    fruits.push(document.getElementById("add").value);
+            function del(x) {
+                fruits.splice(x, 1);
+                //delete fruits[x];
+                fLen = fruits.length;
+                text = "<ul>";
+                for (i = 0; i < fLen; i++) {
+                    text += "<li>" + fruits[i] + "<button onclick=" + "del(" + i + ")" + "> Delete It </button> </li>";
+                }
+                text += "</ul>";
+                document.getElementById("demo").innerHTML = text;
+            }
 
-    fLen = fruits.length;
-    text = "<ul>";
-    for (i = 0; i < fLen; i++) {
-        text += "<li>" + fruits[i] + "<button onclick="+"del("+i+")"+"> Delete It </button> </li>";
-    }
-    text += "</ul>";
-    document.getElementById("demo").innerHTML = text;
-}
+            function myFunction1() {
+                fruits1.push(document.getElementById("add1").value);
 
-function del(x) {
-    fruits.splice(x,1); 
-    //delete fruits[x];
-    fLen = fruits.length;
-    text = "<ul>";
-    for (i = 0; i < fLen; i++) {
-        text += "<li>" + fruits[i] + "<button onclick="+"del("+i+")"+"> Delete It </button> </li>";
-    }
-    text += "</ul>";
-    document.getElementById("demo").innerHTML = text;
-}
+                fLen = fruits1.length;
+                text = "<ul>";
+                for (i = 0; i < fLen; i++) {
+                    text += "<li>" + fruits1[i] + "<button onclick=" + "del1(" + i + ")" + "> Delete It </button> </li>";
+                }
+                text += "</ul>";
+                document.getElementById("demo1").innerHTML = text;
+            }
 
-function myFunction1() {
-    fruits1.push(document.getElementById("add1").value);
-
-    fLen = fruits1.length;
-    text = "<ul>";
-    for (i = 0; i < fLen; i++) {
-        text += "<li>" + fruits1[i] + "<button onclick="+"del1("+i+")"+"> Delete It </button> </li>";
-    }
-    text += "</ul>";
-    document.getElementById("demo1").innerHTML = text;
-}
-
-function del1(x) {
-    fruits1.splice(x,1); 
-    //delete fruits[x];
-    fLen = fruits1.length;
-    text = "<ul>";
-    for (i = 0; i < fLen; i++) {
-        text += "<li>" + fruits1[i] + "<button onclick="+"del1("+i+")"+"> Delete It </button> </li>";
-    }
-    text += "</ul>";
-    document.getElementById("demo1").innerHTML = text;
-}
-</script>
+            function del1(x) {
+                fruits1.splice(x, 1);
+                //delete fruits[x];
+                fLen = fruits1.length;
+                text = "<ul>";
+                for (i = 0; i < fLen; i++) {
+                    text += "<li>" + fruits1[i] + "<button onclick=" + "del1(" + i + ")" + "> Delete It </button> </li>";
+                }
+                text += "</ul>";
+                document.getElementById("demo1").innerHTML = text;
+            }
+        </script>
         <button>Medications</button>
 
     </body>
