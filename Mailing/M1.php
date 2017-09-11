@@ -34,7 +34,7 @@ foreach ($info as $msg) {
         printf("<td>%s</td>", $message[$cnt1++]);
     }
    $x= $msg->from;
-   $x1="Muktadirul";
+   $x1="Root User";
     if(strcmp($x,$x1) == 0 ){
                 echo 'got it';}else{
         echo $x.'<br>';}
