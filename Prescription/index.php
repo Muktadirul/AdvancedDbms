@@ -145,7 +145,8 @@ $L2= array();
                     <td >
                         <div class="search-box">
                             <input id="add" name="val" type="text" autocomplete="on" placeholder="Add Problems ..." />
-                            <div class="result"></div>
+                            <div class="result">
+                            </div>
                         </div>
                     </td>
                     <td>
