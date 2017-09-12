@@ -8,12 +8,8 @@
 //echo $_GET['Bp'].'<br>';
 //echo $_GET['Phone'].'<br>';
 //echo '<script>document.getElementById("demo");</script>';
-echo '<div id="DEM"></div>';
+//echo '<script>document.getElementById("demo");</script>';
+
+echo var_dump($_GET["name"]);
 
 ?>
-<div id="DEM"></div>
-<script>
-    var innerdata=document.getElementById('demo').getAttribute('value');
-    document.getElementById('DEM').value=innerdata;
-    //document.getElementById("demo");
-</script>    

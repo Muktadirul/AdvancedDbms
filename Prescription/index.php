@@ -13,6 +13,9 @@ $stmt = $pdo->prepare($sql);
 $stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
 $stmt->execute();
 $all = $stmt->fetchAll();
+$L1= array();
+$L2= array();
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -165,7 +168,7 @@ $all = $stmt->fetchAll();
             <div class="col-lg-12"><br><br><br></div>
             <div class="col-lg-12"><br><br><br></div>
         </div>
-        <form method="GET" class="form-horizontal" action="Medication.php">
+        <form method="GET" class="form-horizontal" action="Prescription.php" >
             <div class="form-group">
                 <label class="control-label col-lg-4" >Patient Name</label>
                 <div class="col-sm-6">
@@ -218,10 +221,7 @@ $all = $stmt->fetchAll();
                 <label class="control-label col-lg-4" for="Previous Problems">Previous Problems </label>
                 <div class="col-sm-6">
                     <div id="demo1"></div>
-                    <?Php 
-                        $PP=array();
-                        $PP='<script>fruits</script>';
-                    ?>
+                    
                 </div>
             </div>
             <div class="form-group">
@@ -241,11 +241,11 @@ $all = $stmt->fetchAll();
                 fruits.push(document.getElementById("add").value);
 
                 fLen = fruits.length;
-                text = "<ul>";
+                text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<li>" + fruits[i] + "<button onclick=" + "del(" + i + ")" + "> Delete It </button> </li>";
+                    text += "<input name="+"i"+i+" value=" + fruits[i] + "><button onclick="+"del("+i+")"+"> Delete It </button><br><br> ";
                 }
-                text += "</ul>";
+                text += "";
                 document.getElementById("demo").innerHTML = text;
             }
 
@@ -253,11 +253,11 @@ $all = $stmt->fetchAll();
                 fruits.splice(x, 1);
                 //delete fruits[x];
                 fLen = fruits.length;
-                text = "<ul>";
+                text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<li>" + fruits[i] + "<button onclick=" + "del(" + i + ")" + "> Delete It </button> </li>";
+                    text += "<input name="+"i"+i+" value=" + fruits[i] + "><button onclick="+"del("+i+")"+"> Delete It </button><br><br>";
                 }
-                text += "</ul>";
+                text += "";
                 document.getElementById("demo").innerHTML = text;
             }
 
@@ -265,11 +265,11 @@ $all = $stmt->fetchAll();
                 fruits1.push(document.getElementById("add").value);
 
                 fLen = fruits1.length;
-                text = "<ul>";
+                text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<li>" + fruits1[i] + "<button onclick=" + "del1(" + i + ")" + "> Delete It </button> </li>";
+                    text += "<input name="+"i1"+i+" value=" + fruits1[i] + "><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
                 }
-                text += "</ul>";
+                text += "";
                 document.getElementById("demo1").innerHTML = text;
             }
 
@@ -277,11 +277,11 @@ $all = $stmt->fetchAll();
                 fruits1.splice(x, 1);
                 //delete fruits[x];
                 fLen = fruits1.length;
-                text = "<ul>";
+                text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<li>" + fruits1[i] + "<button onclick=" + "del1(" + i + ")" + "> Delete It </button> </li>";
+                    text += "<input name="+"i1"+i+" value=" + fruits1[i] + "><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
                 }
-                text += "</ul>";
+                text += "";
                 document.getElementById("demo1").innerHTML = text;
             }
         </script>
