@@ -10,64 +10,83 @@ $Previous = array();
 $Current = array();
 $duration=150;
 $C = 0;
+$sql='';
 if (isset($_GET["i10"])) {
     $Previous[$C++] = $_GET["i10"];
+    $sql=$sql.'Not like % '.$_GET["i10"].' %';
 }
 if (isset($_GET["i11"])) {
     $Previous[$C++] = $_GET["i11"];
+    $sql=$sql.'Not like % '.$_GET["i11"].' %';
 }
 if (isset($_GET["i12"])) {
     $Previous[$C++] = $_GET["i12"];
+    $sql=$sql.'Not like % '.$_GET["i12"].' %';
 }
 if (isset($_GET["i13"])) {
     $Previous[$C++] = $_GET["i13"];
+    $sql=$sql.'Not like % '.$_GET["i13"].' %';
 }
 if (isset($_GET["i14"])) {
     $Previous[$C++] = $_GET["i14"];
+    $sql=$sql.'Not like % '.$_GET["i14"].' %';
 }
 if (isset($_GET["i15"])) {
     $Previous[$C++] = $_GET["i15"];
+    $sql=$sql.'Not like % '.$_GET["i15"].' %';
 }
 if (isset($_GET["i16"])) {
     $Previous[$C++] = $_GET["i16"];
+    $sql=$sql.'Not like % '.$_GET["i16"].' %';
 }
 if (isset($_GET["i17"])) {
     $Previous[$C++] = $_GET["i17"];
+    $sql=$sql.'Not like % '.$_GET["i17"].' %';
 }
 if (isset($_GET["i18"])) {
     $Previous[$C++] = $_GET["i18"];
+    $sql=$sql.'Not like % '.$_GET["i18"].' %';
 }
-
+$sql1='';
 $C = 0;
 if (isset($_GET["i0"])) {
     $Current[$C++] = $_GET["i0"];
+    $sql1=$sql1.'AND like % '.$_GET["i0"].' %';
 }
 if (isset($_GET["i1"])) {
     $Current[$C++] = $_GET["i1"];
+    $sql1=$sql1.'AND like % '.$_GET["i1"].' %';
 }
 if (isset($_GET["i2"])) {
     $Previous[$C++] = $_GET["i2"];
+    $sql1=$sql1.'AND like % '.$_GET["i2"].' %';
 }
 if (isset($_GET["i3"])) {
     $Current[$C++] = $_GET["i3"];
+    $sql1=$sql1.'AND like % '.$_GET["i3"].' %';
 }
 if (isset($_GET["i4"])) {
     $Current[$C++] = $_GET["i4"];
+    $sql1=$sql1.'AND like % '.$_GET["i4"].' %';
 }
 if (isset($_GET["i5"])) {
     $Current[$C++] = $_GET["i5"];
+    $sql1=$sql1.'AND like % '.$_GET["i5"].' %';
 }
 if (isset($_GET["i6"])) {
     $Current[$C++] = $_GET["i6"];
+    $sql1=$sql1.'AND like % '.$_GET["i6"].' %';
 }
 if (isset($_GET["i7"])) {
     $Current[$C++] = $_GET["i7"];
+    $sql1=$sql1.'AND like % '.$_GET["i7"].' %';
 }
 if (isset($_GET["i8"])) {
     $Current[$C++] = $_GET["i8"];
+    $sql1=$sql1.'AND like % '.$_GET["i8"].' %';
 }
-?>
-<?php
+//echo $sql.'<br>';
+//echo $sql1;die();
 session_start();
 if (isset($_SESSION['USERNAME'])) {
     $USER = $_SESSION['USERNAME'];
@@ -96,6 +115,39 @@ $L2 = array();
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
+    <style type="text/css">
+        body{
+            font-family: Arail, sans-serif;
+        }
+        /* Formatting search box */
+        .search-box{
+            width: 300px;
+            position: relative;
+            display: inline-block;
+            font-size: 14px;
+        }
+        .search-box input[type="text"]{
+            height: 32px;
+            padding: 5px 10px;
+            border: 1px solid #CCCCCC;
+            font-size: 14px;
+        }
+        .result{
+            position: absolute;        
+            z-index: 999;
+            top: 100%;
+            left: 0;
+        }
+        .search-box input[type="text"], .result{
+            width: 100%;
+            box-sizing: border-box;
+        }
+        /* Formatting result items */
+        
+        .result p:hover{
+            background: #004af9;
+        }
+    </style>
     <body class="container"style="background-color: wheat;" >
         <div class="jumbotron " style="text-align: center;"style="height: 800px;">
             <h1>Doctor's Helper</h1>
@@ -114,6 +166,29 @@ if (!isset($_SESSION['USERNAME'])) {
 
             </div>
         </div>
+        <script>
+        $(document).ready(function () {
+            $('.search-box input[type="text"]').on("keyup input", function () {
+                /* Get input value on change */
+                var inputVal = $(this).val();
+                var resultDropdown = $(this).siblings(".result");
+                if (inputVal.length) {
+                    $.get("SearchMedicine.php?sql1="<?php echo $sql.'&sql2='.$sql1;?>, {term: inputVal}).done(function (data) {
+                        // Display the returned data in browser
+                        resultDropdown.html(data);
+                    });
+                } else {
+                    resultDropdown.empty();
+                }
+            });
+
+            // Set search input value on click of result item
+            $(document).on("click", ".result p", function () {
+                $(this).parents(".search-box").find('input[type="text"]').val($(this).text());
+                $(this).parent(".result").empty();
+            });
+        });
+        </script>
         <div class="col-lg-offset-4 col-lg-8">
             <h1> Patient Prescription </h1>
         </div>
@@ -140,9 +215,12 @@ if (!isset($_SESSION['USERNAME'])) {
                     echo '<li>' . $P . '</li>';echo'</ul>'; ?></label>
             </div>
             
+            
             <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m1" placeholder="Medicine" name="m1">
+                <div class="search-box col-sm-offset-2 col-sm-3">
+                    <input type="text" class="form-control" id="m1" placeholder="Medicine" name="val">
+                    <div class="result">
+             </div>
                 </div>
                 <div class="col-sm-1">
                     <select class="control-label " name="time1">
@@ -174,178 +252,13 @@ if (!isset($_SESSION['USERNAME'])) {
                 </div>
             </div>
             
-            <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m2" placeholder="Medicine" name="m2">
-                </div>
-                <div class="col-sm-1">
-                    <select class="control-label " name="time2">
-                        <option value="-1">----</option>
-                        <?php for ($i = 1; $i < $duration; $i++): ?>
-                            <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                        <?php endfor; ?>
-                    </select>
-                </div>
-                <div class="col-sm-1">
-                    Morning
-                <input type="checkbox" name="mrn2" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Noon
-                <input type="checkbox" name="noon2" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Night
-                <input type="checkbox" name="night2" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Before
-                <input type="checkbox" name="before2" value="1">
-                </div>
-                <div class="col-sm-1">
-                    After
-                <input type="checkbox" name="after2" value="1">
-                </div>
-            </div>
-
-            <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m3" placeholder="Medicine" name="m3">
-                </div>
-                <div class="col-sm-1">
-                    <select class="control-label " name="time3">
-                        <option value="-1">----</option>
-                        <?php for ($i = 1; $i < $duration; $i++): ?>
-                            <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                        <?php endfor; ?>
-                    </select>
-                </div>
-                <div class="col-sm-1">
-                    Morning
-                <input type="checkbox" name="mrn3" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Noon
-                <input type="checkbox" name="noon3" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Night
-                <input type="checkbox" name="night3" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Before
-                <input type="checkbox" name="before3" value="1">
-                </div>
-                <div class="col-sm-1">
-                    After
-                <input type="checkbox" name="after3" value="1">
-                </div>
-            </div>
             
             <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m4" placeholder="Medicine" name="m4">
+                <div class="col-sm-offset-4 col-sm-2">
+                    <button>Print</button>
                 </div>
-                <div class="col-sm-1">
-                    <select class="control-label " name="time4">
-                        <option value="-1">----</option>
-                        <?php for ($i = 1; $i < $duration; $i++): ?>
-                            <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                        <?php endfor; ?>
-                    </select>
-                </div>
-                <div class="col-sm-1">
-                    Morning
-                <input type="checkbox" name="mrn4" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Noon
-                <input type="checkbox" name="noon4" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Night
-                <input type="checkbox" name="night4" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Before
-                <input type="checkbox" name="before4" value="1">
-                </div>
-                <div class="col-sm-1">
-                    After
-                <input type="checkbox" name="after4" value="1">
-                </div>
-            </div>
-            
-            <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m5" placeholder="Medicine" name="m5">
-                </div>
-                <div class="col-sm-1">
-                    <select class="control-label " name="time5">
-                        <option value="-1">----</option>
-                        <?php for ($i = 1; $i < $duration; $i++): ?>
-                            <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                        <?php endfor; ?>
-                    </select>
-                </div>
-                <div class="col-sm-1">
-                    Morning
-                <input type="checkbox" name="mrn5" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Noon
-                <input type="checkbox" name="noon5" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Night
-                <input type="checkbox" name="night5" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Before
-                <input type="checkbox" name="before5" value="1">
-                </div>
-                <div class="col-sm-1">
-                    After
-                <input type="checkbox" name="after5" value="1">
-                </div>
-            </div>
-            
-            <div class="form-group">
-                <div class="col-sm-offset-2 col-sm-3">
-                    <input type="text" class="form-control" id="m6" placeholder="Medicine" name="m6">
-                </div>
-                <div class="col-sm-1">
-                    <select class="control-label " name="time6">
-                        <option value="-1">----</option>
-                        <?php for ($i = 1; $i < $duration; $i++): ?>
-                            <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
-                        <?php endfor; ?>
-                    </select>
-                </div>
-                <div class="col-sm-1">
-                    Morning
-                <input type="checkbox" name="mrn6" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Noon
-                <input type="checkbox" name="noon6" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Night
-                <input type="checkbox" name="night6" value="1">
-                </div>
-                <div class="col-sm-1">
-                    Before
-                <input type="checkbox" name="before6" value="1">
-                </div>
-                <div class="col-sm-1">
-                    After
-                <input type="checkbox" name="after6" value="1">
-                </div>
-            </div>
-            <div class="form-group">
-                <div class="col-sm-6">
-                    <button>Medication</button>
+                <div class="col-sm-offset-4 col-sm-2">
+                    <button>Mail </button>
                 </div>
             </div>
         </form>
