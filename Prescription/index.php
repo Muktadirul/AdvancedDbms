@@ -133,12 +133,43 @@ $all = $stmt->fetchAll();
             <h1> Patient Prescription </h1>
         </div>
         <div class="col-lg-12"><br><br><br></div>
+        <div class="col-lg-offset-3 col-lg-8">
+            <table  >
+                <tr >
+                    <td >
+                        <div ><b>Problems list</b></div>
+                    </td>
+                    <td >
+                        <div class="search-box">
+                            <input id="add" name="val" type="text" autocomplete="on" placeholder="Add Problems ..." />
+                            <div class="result"></div>
+                        </div>
+                    </td>
+                    <td>
+                        <button onclick="myFunction()"> Add To Current </button>
+                        <button onclick="myFunction1()"> Add To Previous</button>
+                    </td>
 
-        <form class="form-horizontal" action="">
+                </tr>
+                
+                <tr>
+
+                    <td><b>Show History</b></td>
+                    <td><input class="form-control" placeholder="Phone no" id="history"></td>
+                    <td><button>History</button></td>
+                </tr>
+                <tr>
+                <div id="history"></div>
+                </tr>
+            </table>
+            <div class="col-lg-12"><br><br><br></div>
+            <div class="col-lg-12"><br><br><br></div>
+        </div>
+        <form method="GET" class="form-horizontal" action="Medication.php">
             <div class="form-group">
                 <label class="control-label col-lg-4" >Patient Name</label>
                 <div class="col-sm-6">
-                    <input type="email" class="form-control" id="email" placeholder="Enter Name" name="email">
+                    <input type="text" class="form-control" id="Name" placeholder="Enter Name" name="Name">
                 </div>
             </div>
             <div class="form-group">
@@ -148,99 +179,61 @@ $all = $stmt->fetchAll();
                 </div>
             </div>
             <div class="form-group">
-                <label class="control-label col-lg-4" for="email">Patient Age</label>
+                <label class="control-label col-lg-4" for="age">Patient Age</label>
                 <div class="col-sm-6">
-                    <input type="text" class="form-control" id="age" placeholder="Enter Age" name="email">
+                    <input type="text" class="form-control" id="age" placeholder="Enter Age" name="age">
                 </div>
             </div>
             <div class="form-group">
-                <label class="control-label col-lg-4" for="email">Sex </label>
+                <label class="control-label col-lg-4" for="Sex">Sex </label>
                 <div class="col-sm-6">
                     <input type="text" class="form-control" id="sex" placeholder="Enter sex" name="sex">
                 </div>
             </div>
             <div class="form-group">
-                <label class="control-label col-lg-4" for="email">Weight</label>
+                <label class="control-label col-lg-4" for="Weight">Weight</label>
                 <div class="col-sm-6">
                     <input type="text" class="form-control" id="weight" placeholder="Enter Weight" name="Weight">
                 </div>
             </div>
             <div class="form-group">
-                <label class="control-label col-lg-4" for="email">Blood Pressure</label>
+                <label class="control-label col-lg-4" for="Bp">Blood Pressure</label>
                 <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Bp" placeholder="Blood Pressure" name="BloodPressure">
+                    <input type="text" class="form-control" id="Bp" placeholder="Blood Pressure" name="Bp">
                 </div>
             </div>
-            
             <div class="form-group">
-                <label class="control-label col-lg-4" for="email"><b>Previous Problems list</b></label>
+                <label class="control-label col-lg-4" for="Phone">Phone No</label>
                 <div class="col-sm-6">
-                    <input type="text" class="form-control" id="add" placeholder="Add Problems ..." name="email">
-                <div class="search-box">
-                            <input id="add" name="val" type="text" autocomplete="off" placeholder="Add Problems ..." />
-                            <div class="result"></div>
-                            <button onclick="myFunction()"> Add </button>
-                        </div>
-                
+                    <input type="text" class="form-control" id="Phone" placeholder="Phone Number" name="Phone">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="Current Problems List">Current Problems List</label>
+                <div class="col-sm-6">
+                    <div id="demo"></div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-lg-4" for="Previous Problems">Previous Problems </label>
+                <div class="col-sm-6">
+                    <div id="demo1"></div>
+                    <?Php 
+                        $PP=array();
+                        $PP='<script>fruits</script>';
+                    ?>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-4 col-sm-6">
+                    <button>Medication</button>
                 </div>
             </div>
             
-            
-            
-            <div class="form-group">        
-                <div class="col-sm-offset-2 col-sm-10">
-                    <div class="checkbox">
-                        <label><input type="checkbox" name="remember"> Remember me</label>
-                    </div>
-                </div>
-            </div>
-            <div class="form-group">        
-                <div class="col-sm-offset-2 col-sm-10">
-                    <button type="submit" class="btn btn-default">Submit</button>
-                </div>
-            </div>
         </form>
 
-        <div class="col-lg-12"><br><br><br></div>
+        <div class="col-lg-12"><br><br><br></div><div class="col-lg-12"><br><br><br></div>
 
-
-        
-        <table  style="width: 100%">
-            <tr class="col-lg-12">
-                <td class="col-lg-3">
-                    <div ><b>Previous Problems list</b></div>
-                </td>
-                <td class="col-lg-3">
-                    <div >
-                        <div class="search-box">
-                            <input id="add" name="val" type="text" autocomplete="on" placeholder="Add Problems ..." />
-                            <div class="result"></div>
-                            <button onclick="myFunction()"> Add </button>
-                        </div>
-                    </div>
-                </td>
-                <td class="col-lg-3">
-                    <div class="col-lg-3"><b>Current Problems list</b></div>
-                </td class="col-lg-3">
-                <td class="col-lg-3">
-                    <div class="col-lg-3"><div class="search-box">
-                            <input id="add1" name="val1" type="text" autocomplete="off" placeholder="Add Problems ..." />
-                            <div class="result"></div>
-                            <button onclick="myFunction1()"> Add </button>
-                        </div></div>
-                </td>
-            </tr>
-        </table>
-        <table>
-            <tr class="col-lg-12">
-                <td class="col-lg-6">
-                    <div id="demo"></div>
-                </td>
-                <td class="col-lg-6">
-                    <div  id="demo1"></div>
-                </td>
-            </tr>
-        </table>
         <script type="text/javascript">
             var fruits = [];
             var fruits1 = [];
@@ -269,7 +262,7 @@ $all = $stmt->fetchAll();
             }
 
             function myFunction1() {
-                fruits1.push(document.getElementById("add1").value);
+                fruits1.push(document.getElementById("add").value);
 
                 fLen = fruits1.length;
                 text = "<ul>";
@@ -292,7 +285,7 @@ $all = $stmt->fetchAll();
                 document.getElementById("demo1").innerHTML = text;
             }
         </script>
-        <button>Medications</button>
+
 
     </body>
 </html>
