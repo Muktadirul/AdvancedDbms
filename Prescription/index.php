@@ -6,13 +6,6 @@ if (isset($_SESSION['USERNAME'])) {
     header("Location: http://localhost/ADDBMS/Login/LoginView.php");
     die();
 }
-$link = mysqli_connect("127.0.0.1", "root", "", "doc_schedule_prescription");
-$pdo = new PDO("mysql:host=localhost;dbname=doc_schedule_prescription", "root", "");
-$sql = ' CALL ALLProblem(:m1);';
-$stmt = $pdo->prepare($sql);
-$stmt->bindParam(':m1', $UID, PDO::PARAM_STR);
-$stmt->execute();
-$all = $stmt->fetchAll();
 $L1= array();
 $L2= array();
 
@@ -169,7 +162,7 @@ $L2= array();
             <div class="col-lg-12"><br><br><br></div>
             <div class="col-lg-12"><br><br><br></div>
         </div>
-        <form method="GET" class="form-horizontal" action="Prescription.php" >
+        <form enctype="multipart/form-data" method="GET" class="form-horizontal" action="Prescription.php" >
             <div class="form-group">
                 <label class="control-label col-lg-4" >Patient Name</label>
                 <div class="col-sm-6">
@@ -239,14 +232,17 @@ $L2= array();
             var fruits = [];
             var fruits1 = [];
             function myFunction() {
-                fruits.push(document.getElementById("add").value);
+                var x=document.getElementById("add").value;
+                fruits.push(x);
 
                 fLen = fruits.length;
                 text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<input name="+"i"+i+" value=" + fruits[i] + "><button onclick="+"del("+i+")"+"> Delete It </button><br><br> ";
+                    //alert(fruits[i]);
+                    text += "<input name="+"i"+i+" value='" + fruits[i] + "'><button onclick="+"del("+i+")"+"> Delete It </button><br><br> ";
+                    
                 }
-                text += "";
+                
                 document.getElementById("demo").innerHTML = text;
             }
 
@@ -256,7 +252,7 @@ $L2= array();
                 fLen = fruits.length;
                 text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<input name="+"i"+i+" value=" + fruits[i] + "><button onclick="+"del("+i+")"+"> Delete It </button><br><br>";
+                    text += "<input name="+"i"+i+" value='" + fruits[i] + "'><button onclick="+"del("+i+")"+"> Delete It </button><br><br>";
                 }
                 text += "";
                 document.getElementById("demo").innerHTML = text;
@@ -268,7 +264,7 @@ $L2= array();
                 fLen = fruits1.length;
                 text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<input name="+"i1"+i+" value=" + fruits1[i] + "><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
+                    text += "<input name="+"i1"+i+" value='" + fruits1[i] + "'><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
                 }
                 text += "";
                 document.getElementById("demo1").innerHTML = text;
@@ -280,7 +276,7 @@ $L2= array();
                 fLen = fruits1.length;
                 text = "";
                 for (i = 0; i < fLen; i++) {
-                    text += "<input name="+"i1"+i+" value=" + fruits1[i] + "><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
+                    text += "<input name="+"i1"+i+" value='" + fruits1[i] + "'><button onclick="+"del1("+i+")"+"> Delete It </button><br><br>";
                 }
                 text += "";
                 document.getElementById("demo1").innerHTML = text;

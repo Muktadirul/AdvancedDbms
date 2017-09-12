@@ -10,6 +10,6 @@
 //echo '<script>document.getElementById("demo");</script>';
 //echo '<script>document.getElementById("demo");</script>';
 
-echo var_dump($_GET["name"]);
+//echo var_dump($_GET["name"]);
 
 ?>
