@@ -1,11 +1,11 @@
 <?php
-$PName = $_GET['Name'] . '<br>';
-$Pmail = $_GET['email'] . '<br>';
-$Page = $_GET['age'] . '<br>';
-$Psex = $_GET['sex'] . '<br>';
-$PWeight = $_GET['Weight'] . '<br>';
-$PBP = $_GET['Bp'] . '<br>';
-$Pphone = $_GET['Phone'] . '<br>';
+$PName = $_GET['Name'] ;
+$Pmail = $_GET['email'];
+$Page = $_GET['age'] ;
+$Psex = $_GET['sex'] ;
+$PWeight = $_GET['Weight'] ;
+$PBP = $_GET['Bp'] ;
+$Pphone = $_GET['Phone'] ;
 $Previous = array();
 $Current = array();
 $duration=150;
@@ -201,15 +201,15 @@ if (!isset($_SESSION['USERNAME'])) {
             <h1> Patient Prescription </h1>
         </div>
         <div class="col-lg-12"><br><br><br></div>
-        <form method="GET" class="form-horizontal" action="Medication.php" >
+        <form method="GET" class="form-horizontal" action="Medication.php">
             <div class="form-group">
-                <label class="control-label col-lg-3" >Patient Name <?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" >Patient Mail Id <?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" for="age">Patient Age<?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" for="Sex">Sex <?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" for="Weight">Weight <?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" for="Bp">Blood Pressure<?php echo $PName; ?></label>
-                <label class="control-label col-lg-3" for="Phone">Phone No<?php echo $PName; ?></label>
+                <label class="control-label col-lg-3" >Patient Name <input name="name" value="<?php echo $PName; ?>"></label>
+                <label class="control-label col-lg-3" >Patient Mail Id <input name="mail" value="<?php echo $Pmail; ?>"></label>
+                <label class="control-label col-lg-3" for="age">Patient Age<input name="age" value="<?php echo $Page; ?>"></label>
+                <label class="control-label col-lg-3" for="Sex">Sex <input name="sex" value="<?php echo $Psex; ?>"></label>
+                <label class="control-label col-lg-3" for="Weight">Weight <input name="weight" value="<?php echo $PWeight; ?>"></label>
+                <label class="control-label col-lg-3" for="Bp">Blood Pressure<input name="bp" value="<?php echo $PBP; ?>"></label>
+                <label class="control-label col-lg-3" for="Phone">Phone No<input name="phn" value="<?php echo $Pphone; ?>"></label>
             </div>
             <div class="form-group">
                 <label class="control-label col-lg-3" for="Current Problems List">Current Problems List</label>
@@ -229,7 +229,7 @@ if (!isset($_SESSION['USERNAME'])) {
             <div class="form-group">
                 <div class="search-box col-sm-offset-2 col-sm-3">
                     <div class="search-box">
-                        <input id="add" name="val" type="text" autocomplete="on" placeholder="Medicine" />
+                        <input id="add1" name="val1" type="text" autocomplete="on" placeholder="Medicine" />
                     <div class="result">
                     </div>
              </div>
@@ -267,13 +267,13 @@ if (!isset($_SESSION['USERNAME'])) {
             <div class="form-group">
                 <div class="search-box col-sm-offset-2 col-sm-3">
                     <div class="search-box">
-                        <input id="add" name="val" type="text" autocomplete="on" placeholder="Medicine" />
+                        <input id="add" name="val2" type="text" autocomplete="on" placeholder="Medicine" />
                     <div class="result">
                     </div>
              </div>
                 </div>
                 <div class="col-sm-1">
-                    <select class="control-label " name="time1">
+                    <select class="control-label " name="time2">
                         <option value="-1">----</option>
                         <?php for ($i = 1; $i < $duration; $i++): ?>
                             <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
@@ -282,35 +282,35 @@ if (!isset($_SESSION['USERNAME'])) {
                 </div>
                 <div class="col-sm-1">
                     Morning
-                <input type="checkbox" name="mrn1" value="1">
+                <input type="checkbox" name="mrn2" value="1">
                 </div>
                 <div class="col-sm-1">
                     Noon
-                <input type="checkbox" name="noon1" value="1">
+                <input type="checkbox" name="noon2" value="1">
                 </div>
                 <div class="col-sm-1">
                     Night
-                <input type="checkbox" name="night1" value="1">
+                <input type="checkbox" name="night2" value="1">
                 </div>
                 <div class="col-sm-1">
                     Before
-                <input type="checkbox" name="before1" value="1">
+                <input type="checkbox" name="before2" value="1">
                 </div>
                 <div class="col-sm-1">
                     After
-                <input type="checkbox" name="after1" value="1">
+                <input type="checkbox" name="after2" value="1">
                 </div>
             </div>
             <div class="form-group">
                 <div class="search-box col-sm-offset-2 col-sm-3">
                     <div class="search-box">
-                        <input id="add" name="val" type="text" autocomplete="on" placeholder="Medicine" />
+                        <input id="add" name="val3" type="text" autocomplete="on" placeholder="Medicine" />
                     <div class="result">
                     </div>
              </div>
                 </div>
                 <div class="col-sm-1">
-                    <select class="control-label " name="time1">
+                    <select class="control-label " name="time3">
                         <option value="-1">----</option>
                         <?php for ($i = 1; $i < $duration; $i++): ?>
                             <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
@@ -319,35 +319,35 @@ if (!isset($_SESSION['USERNAME'])) {
                 </div>
                 <div class="col-sm-1">
                     Morning
-                <input type="checkbox" name="mrn1" value="1">
+                <input type="checkbox" name="mrn3" value="1">
                 </div>
                 <div class="col-sm-1">
                     Noon
-                <input type="checkbox" name="noon1" value="1">
+                <input type="checkbox" name="noon3" value="1">
                 </div>
                 <div class="col-sm-1">
                     Night
-                <input type="checkbox" name="night1" value="1">
+                <input type="checkbox" name="night3" value="1">
                 </div>
                 <div class="col-sm-1">
                     Before
-                <input type="checkbox" name="before1" value="1">
+                <input type="checkbox" name="before3" value="1">
                 </div>
                 <div class="col-sm-1">
                     After
-                <input type="checkbox" name="after1" value="1">
+                <input type="checkbox" name="after3" value="1">
                 </div>
             </div>
             <div class="form-group">
                 <div class="search-box col-sm-offset-2 col-sm-3">
                     <div class="search-box">
-                        <input id="add" name="val" type="text" autocomplete="on" placeholder="Medicine" />
+                        <input id="add" name="val4" type="text" autocomplete="on" placeholder="Medicine" />
                     <div class="result">
                     </div>
              </div>
                 </div>
                 <div class="col-sm-1">
-                    <select class="control-label " name="time1">
+                    <select class="control-label " name="time4">
                         <option value="-1">----</option>
                         <?php for ($i = 1; $i < $duration; $i++): ?>
                             <option value="<?php echo $i; ?>"><?php echo $i; ?></option>
@@ -356,31 +356,33 @@ if (!isset($_SESSION['USERNAME'])) {
                 </div>
                 <div class="col-sm-1">
                     Morning
-                <input type="checkbox" name="mrn1" value="1">
+                <input type="checkbox" name="mrn4" value="1">
                 </div>
                 <div class="col-sm-1">
                     Noon
-                <input type="checkbox" name="noon1" value="1">
+                <input type="checkbox" name="noon4" value="1">
                 </div>
                 <div class="col-sm-1">
                     Night
-                <input type="checkbox" name="night1" value="1">
+                <input type="checkbox" name="night4" value="1">
                 </div>
                 <div class="col-sm-1">
                     Before
-                <input type="checkbox" name="before1" value="1">
+                <input type="checkbox" name="before4" value="1">
                 </div>
                 <div class="col-sm-1">
                     After
-                <input type="checkbox" name="after1" value="1">
+                <input type="checkbox" name="after4" value="1">
                 </div>
             </div>
+            
             <div class="form-group">
                 <div class="col-sm-offset-4 col-sm-2">
                     <button onClick="window.print()">Print this page</button>
                 </div>
                 <div class="col-sm-offset-4 col-sm-2">
-                    <button>Mail </button>
+                    
+                    <button>Mail</button>
                 </div>
             </div>
         </form>
