@@ -1,6 +1,6 @@
 <?php
 $hostname = '{imap.gmail.com:993/imap/ssl/novalidate-cert}[Gmail]/Sent Mail';
-$username = 'testproject149@gmail.com';
+$username = 'projectt149@gmail.com';
 $password = 'tp1hello';
 $inbox = imap_open($hostname, $username, $password) or die('Cannot connect to Gmail: ' . imap_last_error());
 $emails = imap_search($inbox, 'ALL');
@@ -17,28 +17,44 @@ if ($emails) {
 imap_close($inbox);
 
 $imap = imap_open($hostname, $username, $password) or die('Cannot connect to Gmail: ' . imap_last_error());
-$CNT = $cnt - 5;
-$info = imap_fetch_overview($imap, "2," . $CNT . ":" . $cnt);
+$CNT = $cnt;
+$info = imap_fetch_overview($imap, "2," . 1 . ":" . $cnt);
+//echo $cnt;
+?>
+
+
+<?php
+$MailHistory = array();
+$cnt1 = $CNT-$cnt;
+$Xv=0;
+foreach ($info as $msg) {
+        $d = strtotime($msg->date);
+        $MailHistory['From'.$Xv]=$msg->from;
+        $MailHistory['Date'.$Xv]=date('d-M-Y', $d);
+        $MailHistory['Subject'.$Xv]=$msg->subject;
+        $MailHistory['Msg'.$Xv]=$message[$Xv++];
+        
+ //       printf("<td>%s %s</td>",$msg->from, date('d-M-Y', $d));
+  //      printf("<td>%s</td>",$msg->subject);
+   //     printf("<td>%s</td>", $message[$cnt1++]);
+   
+}
 ?>
 
 <table border=1>
-    <tr><th>Date</th><th>Prescription</th></tr>
-
+    <tr><th>Date</th><th>From</th><th>Prescription</th><th>History</th></tr>
 <?php
-$cnt1 = $CNT;
-foreach ($info as $msg) {
-    if ($cnt1 < $cnt ) {    
-        echo "<tr>";
-        $d = strtotime($msg->date);
-        printf("<td>%s %s</td>",$msg->from, date('d-M-Y', $d));
-        printf("<td>%s</td>", $message[$cnt1++]);
-    }
-   $x= $msg->from;
-   $x1="Root User";
-    if(strcmp($x,$x1) == 0 ){
-                echo 'got it';}else{
-        echo $x.'<br>';}
-        $x='';
+$XV=0;
+//var_dump($MailHistory);
+//die();
+for($i=0;$i<$Xv;$i++){
+   if($MailHistory['Subject'.$i] ==  md5('01715291398')){
+    printf("<td>%s</td>", $MailHistory['Date'.$i]);
+    printf("<td>%s</td>", $MailHistory['From'.$i]);
+    printf("<td>%s</td>", $MailHistory['Subject'.$i]);
+    printf("<td>%s</td></tr>", $MailHistory['Msg'.$i]);
+   }
+    
 }
 
 imap_close($imap);

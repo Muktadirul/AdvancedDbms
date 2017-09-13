@@ -377,12 +377,8 @@ if (!isset($_SESSION['USERNAME'])) {
             </div>
             
             <div class="form-group">
-                <div class="col-sm-offset-4 col-sm-2">
-                    <button onClick="window.print()">Print this page</button>
-                </div>
-                <div class="col-sm-offset-4 col-sm-2">
-                    
-                    <button>Mail</button>
+                <div class="col-sm-offset-9 col-sm-2">
+                    <button>Send Mail & Prepare TO Print</button>
                 </div>
             </div>
         </form>

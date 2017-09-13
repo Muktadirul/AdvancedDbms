@@ -1,3 +1,12 @@
+<head>
+        <meta charset="UTF-8">
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="http://localhost/ADDBMS/Resource/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
 <?php
 /*
 echo $_GET['name'].'<br>';
@@ -157,7 +166,7 @@ if(isset($_GET['val4'])){
     $M4='--';
 }
 
-$MSG='<b><h1><center>Prescription</center></h1></b><br><b>Name : </b> '.$_GET['name'];
+$MSG='<div class="col-lg-offset-1 col-lg-11"><b><h1><center>Prescription</center></h1></b><br><b>Name : </b> '.$_GET['name'];
 $MSG=$MSG.'<b> Mail Id </b> '.$_GET['mail'];
 $MSG=$MSG.'<br><b> Age : </b>'.$_GET['age'];
 $MSG=$MSG.'<br><b> SEX : </b>'.$_GET['sex'];
@@ -212,21 +221,18 @@ $MSG1='<table border=1>
         <th>'.$BF4.'</th>
         <th>'.$AF4.'</th>
     </tr>
-</table>';
+</table></div>';
 $MSG=$MSG.$MSG1;
-session_start();
-include '../Mailing/PrescriptionMail.php';
-$NFM = new PrescriptionMail();
-$res=$NFM->PrescriptionSend($_SESSION['USERNAME'], $_GET['mail'], 'Prescription', $_GET['phn'], $MSG);
-
-if($res==1){
-    echo 'mail Send';
-}
-
-
-
-
-
-
+echo $MSG;
+include '../Mailing/SendPrescription.php';
+$SP = new SendPrescription();
+$SP->sendmail($_GET['mail'], $_GET['phn'], $MSG);
 
 ?>
+    <h3 class="col-lg-offset-1 col-lg-2"><b>Date <?php echo date("d/m/Y"); ?></b></h3>
+    <div class="col-lg-12"><br><br><br><br></div>
+    <h3 class="col-lg-offset-1 col-lg-2"><b>Sign</b></h3>
+    <div class="col-lg-12"><br><br></div>
+    <div class="col-lg-offset-1 col-lg-2"><button onClick="window.print()">Print this page</button></div>
+    <div class="col-lg-offset-1 col-lg-2"><a href="../Mailing/SendPrescription.php"></a></div>
+    

@@ -5,7 +5,7 @@ require './PHPMailer-master/PHPMailer-master/PHPMailerAutoload.php';
 class NotifierMail {
 
     function NotificationSend($NotifierMail, $title, $Msg) {
-        $mailingid = 'testproject149@gmail.com';
+        $mailingid = 'projectt149@gmail.com';
         $pwd = 'tp1hello';
         $mail = new PHPMailer;
         $mail->isSMTP();
