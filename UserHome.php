@@ -106,83 +106,9 @@ if (isset($_SESSION['USERNAME'])) {
                 <h3>Prescription</h3>
                 <table>
                     <tr>
-                        <td class="btn-default btn-group-lg">Genrel precrition</td>
+                        <td class="btn-default btn-group-lg"><a href="http://localhost/ADDBMS/Prescription/">Genrel precrition</a></td>
                     </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Allergy precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Pregnent precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Kidny Patient precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Diabetic precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Neoro precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">orthopadics precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Skin Sensetive precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Sergry precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Dentist precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">ENT precrition</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Last 3 Month's Patients List</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
-                    <tr>
-                        <td class="btn-default btn-group-lg">Last 6 Month's Patients List</td>
-                    </tr>
-                    <tr>
-                        <td><br></td>
-                    </tr>
+                    
                 </table>
                 <p>&nbsp;&nbsp;
                 </p>

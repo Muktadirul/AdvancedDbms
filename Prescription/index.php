@@ -150,10 +150,11 @@ $L2= array();
                 </tr>
                 
                 <tr>
-
+                    
                     <td><b>Show History</b></td>
-                    <td><input class="form-control" placeholder="Phone no" id="history"></td>
-                    <td><button>History</button></td>
+                    <td><input class="form-control" type="text" placeholder="Phone no"  id="myText"></td>
+                    <td><a class="btn-default" href="javascript:gethistory()">History</a></td>
+                    
                 </tr>
                 <tr>
                 <div id="history"></div>
@@ -162,6 +163,13 @@ $L2= array();
             <div class="col-lg-12"><br><br><br></div>
             <div class="col-lg-12"><br><br><br></div>
         </div>
+        <script>
+                    function gethistory(){
+                        var v1=document.getElementById("myText").value;
+                        window.location.href="http://localhost/ADDBMS/Prescription/GetHistory.php?x="+v1;
+                        //alert(v1);
+                    }
+                </script>
         <form enctype="multipart/form-data" method="GET" class="form-horizontal" action="Prescription.php" >
             <div class="form-group">
                 <label class="control-label col-lg-4" >Patient Name</label>
