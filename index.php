@@ -19,9 +19,8 @@
                    echo '<a href="http://localhost/ADDBMS/Login/Logout.php">Logout</a></div>'; 
                 }
                  ?> 
-
-            
         </div>
+            <a class="btn-group-lg btn-success" href="UserHome.php">Dash Board</a>
         <div class="row col-lg-10" >
             <div class="col-lg-6" style="height: 500px;">
                 <h3>Notifier</h3>
