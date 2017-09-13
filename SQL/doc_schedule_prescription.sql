@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 12, 2017 at 05:33 PM
+-- Generation Time: Sep 13, 2017 at 01:25 AM
 -- Server version: 5.7.14
 -- PHP Version: 5.6.25
 
@@ -24,6 +24,11 @@ DELIMITER $$
 --
 -- Procedures
 --
+CREATE DEFINER=`root`@`localhost` PROCEDURE `ALLMedecine` (IN `term` TEXT)  NO SQL
+BEGIN
+SELECT * FROM t_drug_generic WHERE t_drug_generic.generic_name LIKE term ;
+END$$
+
 CREATE DEFINER=`root`@`localhost` PROCEDURE `ALLProblem` (IN `a` TEXT)  NO SQL
 BEGIN
 	SELECT * FROM t_indication where t_indication.indication_name LIKE a;
@@ -314,6 +319,8 @@ CREATE TABLE `notifierlist` (
 
 INSERT INTO `notifierlist` (`Nfid`, `Uid`, `mail`, `topicname`, `message`, `time`) VALUES
 (14, 48, 'raiancse@gmail.com', 'Update Test', 'Done', '2017-10-21 19:50:20'),
+(21, 48, 'raiancse@gmail.com', 'abcd', 'aaaa', '2034-02-17 10:15:16'),
+(22, 48, 'raiancse@gmail.com', 'abcd', 'aaaa dkjbfkjdb sdkjf kdjbvd', '2034-02-17 10:15:16'),
 (16, 48, 'raiancse@gmail.com', 'Time Stamp', 'FInal Xam', '2017-09-11 20:12:10');
 
 -- --------------------------------------------------------
@@ -3623,7 +3630,7 @@ ALTER TABLE `district`
 -- AUTO_INCREMENT for table `notifierlist`
 --
 ALTER TABLE `notifierlist`
-  MODIFY `Nfid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `Nfid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
 --
 -- AUTO_INCREMENT for table `schedulelist`
 --
