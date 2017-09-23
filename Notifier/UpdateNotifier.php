@@ -26,7 +26,7 @@ $stmt->execute();
             <div class="col-lg-2"><a href="http://localhost/ADDBMS/">Home</a></div>
         </div>
 
-        <div class="col-lg-offset-1 col-lg-5"><h1>Do you want to delete this from notifing list??</h1></div>
+        <div class="col-lg-offset-1 col-lg-5"><h1>Do you want to Update this from notifing list??</h1></div>
         <div  style="height: 800px">
             <form method="post" action="UpdateController.php?id=<?php echo $NFID;?>">
                 <table class="col-lg-offset-1 col-lg-10" style="width: 90%;height: 30%;border: 1px solid black;">
